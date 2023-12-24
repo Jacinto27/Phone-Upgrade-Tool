@@ -1,0 +1,1510 @@
+phone_name,brand,resolution,battery,ram(GB),announcement_date,storage(GB),video_720p,video_1080p,video_4K,video_8K,video_30fps,video_60fps,video_120fps,video_240fps,video_480fps,video_960fps,price(USD),system,version
+Y6II Compact,Huawei,1280,2200,2,2016-09-01,16,True,False,False,False,True,False,False,False,False,False,120.0,Android,5.1
+K20 plus,LG,1280,2700,2,2016-12-01,16,False,True,False,False,True,False,False,False,False,False,100.0,Android,7.0
+P8 Lite (2017),Huawei,1920,3000,4,2017-01-01,16,False,True,False,False,True,False,False,False,False,False,420.0,Android,7.0
+Redmi Note 4,Xiaomi,1920,4100,4,2017-01-01,32,True,True,False,False,True,False,True,False,False,False,150.0,Android,6.0
+P10,Huawei,1920,3200,4,2017-02-01,32,True,True,True,False,True,True,False,False,False,False,420.0,Android,7.0
+Xperia XA1,Sony,1280,2300,3,2017-02-01,32,False,True,False,False,True,False,False,False,False,False,140.0,Android,7.0
+P10 Lite,Huawei,1920,3000,4,2017-02-01,32,False,True,False,False,True,False,False,False,False,False,420.0,Android,7.0
+P10 Plus,Huawei,2560,3750,6,2017-02-01,64,True,True,True,False,True,True,False,False,False,False,170.0,Android,7.0
+Xperia XA1 Ultra,Sony,1920,2700,4,2017-02-01,32,False,True,False,False,True,False,False,False,False,False,250.0,Android,7.0
+X power2,LG,1280,4500,2,2017-02-01,16,True,True,False,False,True,False,False,False,False,False,170.0,Android,7.0
+Redmi Note 4X,Xiaomi,1920,4100,4,2017-02-01,16,True,True,False,False,True,False,True,False,False,False,130.0,Android,6.0
+Xperia XZs,Sony,1920,2900,4,2017-02-27,32,True,True,True,False,True,True,False,False,False,True,220.0,Android,7.1
+Xperia XZ Premium,Sony,2160,3230,4,2017-02-27,64,True,True,True,False,True,True,False,False,False,True,320.0,Android,7.1
+Xperia L1,Sony,1280,2620,2,2017-03-01,16,False,True,False,False,True,False,False,False,False,False,110.0,Android,7.0
+A39,Oppo,1280,2900,3,2017-03-01,32,False,True,False,False,True,False,False,False,False,False,250.0,Android,5.1
+F3 Plus,Oppo,1920,4000,6,2017-03-01,64,True,True,True,False,True,False,False,False,False,False,250.0,Android,6
+Galaxy Xcover 4,Samsung,1280,2800,2,2017-03-01,16,False,True,False,False,True,False,False,False,False,False,350.0,Android,7.0
+Galaxy J7 V,Samsung,1280,3300,2,2017-03-01,16,False,True,False,False,True,False,False,False,False,False,170.0,Android,7.0.1
+Galaxy S8+,Samsung,2960,3500,6,2017-03-29,64,True,True,True,False,True,True,True,True,False,False,350.0,Android,7.0
+K7 (2017),LG,854,2500,2,2017-04-01,8,True,False,False,False,True,False,False,False,False,False,170.0,Android,6.0.1
+Y5 (2017),Huawei,1280,3000,2,2017-04-01,16,False,True,False,False,True,False,False,False,False,False,280.0,Android,6.0
+Harmony,LG,1280,2800,5,2017-04-01,16,False,True,False,False,True,False,False,False,False,False,160.0,Android,7.0
+Mi 6,Xiaomi,1920,3350,6,2017-04-01,64,True,True,True,False,True,False,True,False,False,False,330.0,Android,7.1.1
+Y6 (2017),Huawei,1280,3000,2,2017-05-01,16,False,True,False,False,True,False,False,False,False,False,240.0,Android,6.0
+Y7,Huawei,1280,4000,2,2017-05-01,16,False,True,False,False,True,False,False,False,False,False,90.0,Android,7.0
+nova 2 plus,Huawei,1920,3340,4,2017-05-01,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,7.0
+nova 2,Huawei,1920,2950,4,2017-05-01,64,False,True,False,False,True,False,False,False,False,False,140.0,Android,7.0
+Y3 (2017),Huawei,854,2200,1,2017-05-01,8,True,False,False,False,True,False,False,False,False,False,230.0,Android,6.0
+Z4,Samsung,800,2050,1,2017-05-01,8,True,False,False,False,True,False,False,False,False,False,240.0,Tizen,3.0
+Mi Max 2,Xiaomi,1920,5300,4,2017-05-01,32,True,True,True,False,True,False,True,False,False,False,200.0,Android,7.1.1
+Redmi 4 (4X),Xiaomi,1280,4100,4,2017-05-01,16,False,True,False,False,True,False,False,False,False,False,110.0,Android,6.0.1
+Stylo 3 Plus,LG,1920,3080,2,2017-05-01,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,7.0
+F3,Oppo,1920,3200,4,2017-05-01,64,False,True,False,False,True,False,False,False,False,False,250.0,Android,6
+X venture,LG,1920,4100,2,2017-05-01,32,False,True,False,False,True,False,False,False,False,False,180.0,Android,7.0
+A77 (Mediatek),Oppo,1920,3200,4,2017-05-01,64,False,True,False,False,True,False,False,False,False,False,250.0,Android,6
+R11,Oppo,1920,3000,6,2017-06-01,64,True,True,True,False,True,False,False,False,False,False,250.0,Android,7.1.1
+R11 Plus,Oppo,1920,4000,6,2017-06-01,64,True,True,True,False,True,False,False,False,False,False,250.0,Android,7.1.1
+Galaxy J7 Max,Samsung,1920,3300,4,2017-06-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,7.0
+Galaxy J7 (2017),Samsung,1920,3600,3,2017-06-01,16,False,True,False,False,True,False,False,False,False,False,130.0,Android,7.0
+Galaxy J7 Pro,Samsung,1920,3600,3,2017-06-01,16,False,True,False,False,True,False,False,False,False,False,200.0,Android,7.0
+Galaxy J5 (2017),Samsung,1280,3000,3,2017-06-01,16,False,True,False,False,True,False,False,False,False,False,80.0,Android,7.0
+Y7 Prime,Huawei,1280,4000,3,2017-06-01,32,False,True,False,False,True,False,False,False,False,False,130.0,Android,7.0
+A77 (2017),Oppo,1920,3200,4,2017-07-01,64,False,True,False,False,True,False,False,False,False,False,250.0,Android,7.1
+Q8 (2017),LG,2560,3000,4,2017-07-01,32,True,True,True,False,True,True,True,False,False,False,110.0,Android,7.0
+Q6,LG,2160,3000,4,2017-07-01,16,False,True,False,False,True,False,False,False,False,False,200.0,Android,7.1.1
+Galaxy Folder2,Samsung,800,1950,3,2017-07-01,16,False,True,False,False,True,False,False,False,False,False,430.0,Android,6.0
+Galaxy Note FE,Samsung,2560,3200,4,2017-07-01,64,True,True,True,False,True,True,True,True,False,False,200.0,Android,7.1.1
+P9 lite mini,Huawei,1280,3020,2,2017-08-01,16,False,True,False,False,True,False,False,False,False,False,250.0,Android,7.0
+Xperia XZ1 Compact,Sony,1280,2700,4,2017-08-01,32,True,True,True,False,True,True,False,False,False,True,300.0,Android,8.0
+Galaxy S8 Active,Samsung,2960,4000,4,2017-08-01,64,True,True,True,False,True,True,True,True,False,False,500.0,Android,7.0
+Xperia XA1 Plus,Sony,1920,3430,4,2017-08-01,32,False,True,False,False,True,False,False,False,False,False,150.0,Android,7.0
+K8 Note,Lenovo,1920,4000,4,2017-08-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,7.1.1
+Galaxy Note8,Samsung,2960,3300,6,2017-08-23,64,True,True,True,False,True,True,True,True,False,False,210.0,Android,7.1.1
+V30,LG,2880,3300,4,2017-08-31,64,True,True,True,False,True,True,True,False,False,False,200.0,Android,7.1.2
+Xperia XZ1,Sony,1920,2700,4,2017-08-31,64,True,True,True,False,True,True,False,False,False,True,260.0,Android,8.0
+Mi A1 (Mi 5X),Xiaomi,1920,3080,4,2017-09-01,32,True,True,True,False,True,False,True,False,False,False,170.0,Android,7.1.2
+A71,Oppo,1280,3000,3,2017-09-01,16,False,True,False,False,True,False,False,False,False,False,480.0,Android,7.1
+Mi Mix 2,Xiaomi,2160,3400,8,2017-09-01,64,True,True,True,False,True,False,True,False,False,False,410.0,Android,7.1
+Mi Note 3,Xiaomi,1920,3500,6,2017-09-01,64,True,True,True,False,True,False,True,False,False,False,280.0,Android,7.1
+K8,Lenovo,1280,4000,3,2017-09-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,7.1.1
+Galaxy C7 (2017),Samsung,1920,3000,4,2017-09-01,32,False,True,False,False,True,False,False,False,False,False,550.0,Android,7.1
+K8 Plus,Lenovo,1920,4000,4,2017-09-01,32,False,True,False,False,True,False,False,False,False,False,180.0,Android,7.1.1
+iPhone 8,Apple,1334,1821,2,2017-09-12,64,True,True,True,False,True,True,True,True,False,False,210.0,iOS,11
+iPhone X,Apple,2436,2716,3,2017-09-12,64,True,True,True,False,True,True,True,True,False,False,280.0,iOS,11.1.1
+R11s,Oppo,2160,3200,4,2017-10-01,64,True,True,True,False,True,False,False,False,False,False,260.0,Android,7.1.1
+F5,Oppo,2160,3200,6,2017-10-01,32,False,True,False,False,True,False,False,False,False,False,150.0,Android,7.1.1
+Xperia R1 (Plus),Sony,1280,2620,3,2017-10-01,16,False,True,False,False,True,False,False,False,False,False,168.0,Android,7.1
+Mate 10 Pro,Huawei,2160,4000,6,2017-10-01,64,True,True,True,False,True,True,False,False,False,False,150.0,Android,8.0
+Mate 10,Huawei,2560,4000,4,2017-10-01,64,True,True,True,False,True,True,False,False,False,False,180.0,Android,8.0
+Galaxy J2 (2017),Samsung,960,2000,1,2017-10-01,8,True,False,False,False,True,False,False,False,False,False,500.0,Android,7.0
+Mate 10 Lite,Huawei,2160,3340,4,2017-10-01,64,False,True,False,False,True,False,False,False,False,False,300.0,Android,7.0
+Mate 10 Porsche Design,Huawei,2160,4000,6,2017-10-01,256,True,True,True,False,True,True,False,False,False,False,190.0,Android,8.0
+Pixel 2,Google,1920,2700,4,2017-10-04,64,True,True,True,False,True,True,True,True,False,False,610.0,Android,8.0
+Pixel 2 XL,Google,2880,3520,4,2017-10-04,64,True,True,True,False,True,True,True,True,False,False,520.0,Android,8.0
+Redmi Y1 (Note 5A),Xiaomi,1280,3080,4,2017-11-01,32,False,True,False,False,True,False,False,False,False,False,140.0,Android,7.1.2
+F5 Youth,Oppo,2160,3200,4,2017-11-01,32,False,True,False,False,True,False,False,False,False,False,400.0,Android,7.1
+R11s Plus,Oppo,2160,4000,6,2017-11-01,64,True,True,True,False,True,False,False,False,False,False,310.0,Android,7.1.1
+Redmi Y1 Lite,Xiaomi,1280,3080,2,2017-11-01,16,False,True,False,False,True,False,False,False,False,False,90.0,Android,7.0
+moto tab,Lenovo,1920,7000,2,2017-11-01,32,False,True,False,False,True,False,False,False,False,False,170.0,Android,7.0
+Redmi 5A,Xiaomi,1280,3000,3,2017-11-01,16,False,True,False,False,True,False,False,False,False,False,100.0,Android,7.1.2
+nova 2s,Huawei,2160,3340,6,2017-12-01,64,True,True,True,False,True,False,False,False,False,False,230.0,Android,8.0
+Redmi 5,Xiaomi,1440,3300,4,2017-12-01,16,False,True,False,False,True,False,False,False,False,False,160.0,Android,7.1.2
+K320t,Lenovo,1440,3000,3,2017-12-01,16,False,True,False,False,True,False,False,False,False,False,200.0,Android,7.0
+P smart,Huawei,2160,3000,4,2017-12-01,32,False,True,False,False,True,False,False,False,False,False,450.0,Android,8.0
+Galaxy A8 (2018),Samsung,2220,3000,4,2017-12-01,32,False,True,False,False,True,False,False,False,False,False,230.0,Android,7.1.1
+Galaxy A8+ (2018),Samsung,2220,3500,6,2017-12-01,32,False,True,False,False,True,False,False,False,False,False,120.0,Android,7.1.1
+9 Lite,Honor,2160,3000,4,2017-12-01,32,False,True,False,False,True,False,False,False,False,False,190.0,Android,8.0
+Xperia XA2 Ultra,Sony,1920,3580,4,2018-01-01,32,True,True,True,False,True,False,False,False,False,False,260.0,Android,8.0
+A83,Oppo,1440,3180,4,2018-01-01,16,False,True,False,False,True,False,False,False,False,False,500.0,Android,7.1
+Xperia XA2,Sony,1920,3300,3,2018-01-01,32,True,True,True,False,True,False,False,False,False,False,200.0,Android,8.0
+Aristo 2,LG,1280,2410,2,2018-01-01,16,False,True,False,False,True,False,False,False,False,False,200.0,Android,7.1.2
+X4+,LG,1280,3000,2,2018-01-01,32,False,True,False,False,True,False,False,False,False,False,500.0,Android,7.0
+Galaxy J2 Pro (2018),Samsung,960,2600,2,2018-01-01,16,False,True,False,False,True,False,False,False,False,False,250.0,Android,7.1
+Xperia L2,Sony,1280,3300,3,2018-01-01,32,False,True,False,False,True,False,False,False,False,False,140.0,Android,7.1.1
+Xperia XZ2 Compact,Sony,2160,2870,4,2018-02-01,64,True,True,True,False,True,True,False,False,False,True,430.0,Android,8.0
+V30S ThinQ,LG,2880,3300,6,2018-02-01,128,True,True,True,False,True,True,True,False,False,False,100.0,Android,8.0
+K10 (2018),LG,1280,3000,3,2018-02-01,16,False,True,False,False,True,False,False,False,False,False,140.0,Android,7.1.2
+Redmi 5 Plus (Redmi Note 5),Xiaomi,2160,4000,4,2018-02-01,32,True,True,True,False,True,True,False,False,False,False,180.0,Android,7.1.2
+A71 (2018),Oppo,1280,3000,3,2018-02-01,16,False,True,False,False,True,False,False,False,False,False,280.0,Android,7.1
+K8 (2018),LG,1280,2500,2,2018-02-01,16,True,True,False,False,True,False,False,False,False,False,70.0,Android,7.1.2
+Redmi Note 5 Pro,Xiaomi,2160,4000,6,2018-02-14,64,False,True,False,False,True,False,False,False,False,False,180.0,Android,7.1.2
+Galaxy S9,Samsung,2960,3000,4,2018-02-25,64,True,True,True,False,True,True,True,True,False,True,300.0,Android,8.0
+Galaxy S9+,Samsung,2960,3500,6,2018-02-25,64,True,True,True,False,True,True,True,True,False,True,120.0,Android,8.0
+Xperia XZ2,Sony,2160,3180,6,2018-02-26,64,True,True,True,False,True,True,False,False,False,True,360.0,Android,8.0
+Mi Mix 2S,Xiaomi,2160,3400,8,2018-03-01,64,True,True,True,False,True,True,True,True,False,False,270.0,Android,8.0
+Redmi Note 5 AI Dual Camera,Xiaomi,2160,4000,6,2018-03-01,32,False,True,False,False,True,False,False,False,False,False,180.0,Android,8.0
+A1 (2018),Oppo,1440,3180,4,2018-03-01,32,False,True,False,False,True,False,False,False,False,False,180.0,Android,7.1.1
+R15,Oppo,2280,3450,8,2018-03-01,128,True,True,True,False,True,False,False,False,False,False,450.0,Android,8.1
+R15 Pro,Oppo,2280,3430,6,2018-03-01,128,True,True,True,False,True,True,True,True,False,False,320.0,Android,8.1
+Galaxy J7 Prime 2,Samsung,1920,3300,3,2018-03-01,32,False,True,False,False,True,False,False,False,False,False,370.0,Android,7.0
+Y9 (2018),Huawei,2160,4000,4,2018-03-01,32,False,True,False,False,True,False,False,False,False,False,600.0,Android,8.0
+K5 play,Lenovo,1440,3000,3,2018-03-01,16,False,True,False,False,True,False,False,False,False,False,150.0,Android,8.0
+K5,Lenovo,1440,3000,3,2018-03-01,32,True,False,False,False,True,False,False,False,False,False,150.0,Android,7.1
+Y7 (2018),Huawei,1440,3000,2,2018-03-01,16,False,True,False,False,True,False,False,False,False,False,200.0,Android,8.0
+S5,Lenovo,2160,3000,4,2018-03-01,32,True,True,True,False,True,False,False,False,False,False,230.0,Android,8.0
+Y7 Prime (2018),Huawei,1440,3000,4,2018-03-01,32,False,True,False,False,True,False,False,False,False,False,170.0,Android,8.0
+Zone 4,LG,1280,2500,2,2018-03-01,16,False,True,False,False,True,False,False,False,False,False,180.0,Android,7.1.2
+F7,Oppo,2280,3400,6,2018-03-01,64,False,True,False,False,True,False,False,False,False,False,580.0,Android,8.1
+Y7 Pro (2018),Huawei,1440,3000,3,2018-03-01,32,False,True,False,False,True,False,False,False,False,False,220.0,Android,8.0
+Mate RS Porsche Design,Huawei,2880,4000,6,2018-03-01,256,True,True,True,False,True,True,False,False,False,True,240.0,Android,8.1
+P20 lite,Huawei,2280,3000,4,2018-03-20,32,False,True,False,False,True,False,False,False,False,False,150.0,Android,8.0
+P20 Pro,Huawei,2240,4000,8,2018-03-27,64,True,True,True,False,True,True,False,False,False,True,150.0,Android,8.1
+P20,Huawei,2240,3400,6,2018-03-27,64,True,True,True,False,True,True,False,False,False,True,170.0,Android,8.1
+Y6 (2018),Huawei,1440,3000,3,2018-04-01,16,False,True,False,False,True,False,False,False,False,False,330.0,Android,8.0
+Y6 Prime (2018),Huawei,1440,3000,3,2018-04-01,16,False,True,False,False,True,False,False,False,False,False,410.0,Android,8.0
+Xperia XZ2 Premium,Sony,2160,3540,6,2018-04-01,64,True,True,True,False,True,True,False,False,False,True,460.0,Android,8.0
+Galaxy J7 Duo,Samsung,1280,3000,4,2018-04-01,32,False,True,False,False,True,False,False,False,False,False,420.0,Android,8.0
+7A,Honor,1440,3000,3,2018-04-01,16,False,True,False,False,True,False,False,False,False,False,120.0,Android,8.0
+A3,Oppo,2280,3400,4,2018-04-01,128,False,True,False,False,True,False,False,False,False,False,280.0,Android,8.1
+Black Shark,Xiaomi,2160,4000,8,2018-04-01,64,True,True,True,False,True,False,True,False,False,False,400.0,Android,8.0
+1,Realme,2160,3410,6,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,130.0,Android,8.1
+10,Honor,2280,3400,8,2018-05-01,64,True,True,True,False,True,True,False,False,False,False,310.0,Android,8.1
+7C,Honor,1440,3000,4,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,8.0
+Y3 (2018),Huawei,854,2280,1,2018-05-01,8,True,False,False,False,True,False,False,False,False,False,1300.0,Android,8.0
+Galaxy J8,Samsung,1480,3500,4,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,140.0,Android,8.0
+Galaxy J6,Samsung,1480,3000,4,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,230.0,Android,8.0
+Galaxy J4,Samsung,1280,3000,3,2018-05-01,16,False,True,False,False,True,False,False,False,False,False,220.0,Android,8.0
+Galaxy A6+ (2018),Samsung,2220,3500,4,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,240.0,Android,8.0
+Galaxy A6 (2018),Samsung,1480,3000,4,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,170.0,Android,8.0
+7S,Honor,1440,3020,2,2018-05-01,16,False,True,False,False,True,False,False,False,False,False,110.0,Android,8.1
+Y5 Prime (2018),Huawei,1440,3020,2,2018-05-01,16,False,True,False,False,True,False,False,False,False,False,150.0,Android,8.1
+Galaxy S Light Luxury,Samsung,2220,3000,4,2018-05-01,64,True,True,True,False,True,False,False,False,False,False,180.0,Android,8.0
+V35 ThinQ,LG,2880,3300,6,2018-05-01,64,True,True,True,False,True,True,True,True,False,False,150.0,Android,8.0
+Q7,LG,2160,3000,4,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,370.0,Android,8.1
+F7 Youth,Oppo,2160,3410,4,2018-05-01,64,False,True,False,False,True,False,False,False,False,False,200.0,Android,8.1
+Mi 8 Explorer,Xiaomi,2248,3000,8,2018-05-01,128,True,True,True,False,True,True,True,True,False,True,400.0,Android,8.1
+Mi 8,Xiaomi,2248,3400,8,2018-05-01,64,True,True,True,False,True,True,True,True,False,True,430.0,Android,8.1
+Mi 8 SE,Xiaomi,2244,3120,6,2018-05-01,64,True,True,True,False,True,False,True,False,False,False,260.0,Android,8.1
+Redmi S2 (Redmi Y2),Xiaomi,1440,3080,4,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,160.0,Android,8.1
+K30,LG,1280,2880,2,2018-05-01,32,False,True,False,False,True,False,False,False,False,False,150.0,Android,7.1
+G7 ThinQ,LG,3120,3000,6,2018-05-02,64,True,True,True,False,True,True,True,True,False,False,300.0,Android,8.0
+6,OnePlus,2280,3300,8,2018-05-16,64,True,True,True,False,True,True,True,True,True,False,410.0,Android,8.1
+Find X Lamborghini,Oppo,2340,3400,8,2018-06-01,512,True,True,True,False,True,True,True,True,True,False,130.0,Android,8.1
+Galaxy J7 (2018),Samsung,1280,3300,2,2018-06-01,16,False,True,False,False,True,False,False,False,False,False,350.0,Android,8.0
+Galaxy J3 (2018),Samsung,1280,2600,2,2018-06-01,16,False,True,False,False,True,False,False,False,False,False,400.0,Android,8.0
+Galaxy A8 Star (A9 Star),Samsung,2220,3700,6,2018-06-01,64,True,True,True,False,True,False,False,False,False,False,310.0,Android,8.0
+K5 Note (2018),Lenovo,1440,3760,4,2018-06-01,32,False,True,False,False,True,False,False,False,False,False,110.0,Android,8.0
+Z5,Lenovo,2246,3300,6,2018-06-01,64,True,True,True,False,True,False,False,False,False,False,120.0,Android,8.1
+A5,Lenovo,1440,4000,3,2018-06-01,16,False,True,False,False,False,True,False,False,False,False,130.0,Android,8.0
+Q Stylo 4,LG,2160,3300,2,2018-06-01,32,False,True,False,False,True,False,False,False,False,False,300.0,Android,8.1
+Q Stylus,LG,2160,3300,4,2018-06-01,32,False,True,False,False,True,False,False,False,False,False,350.0,Android,8.1
+Redmi 6,Xiaomi,1440,3000,4,2018-06-01,32,False,True,False,False,True,False,False,False,False,False,130.0,Android,8.1
+Redmi 6A,Xiaomi,1440,3000,3,2018-06-01,16,False,True,False,False,True,False,False,False,False,False,110.0,Android,8.1
+9N (9i),Honor,2280,3000,4,2018-07-01,32,False,True,False,False,True,False,False,False,False,False,220.0,Android,8.0
+Note 10,Honor,2220,5000,8,2018-07-01,64,True,True,True,False,True,False,False,False,False,False,400.0,Android,8.1
+P Smart+ 2019,Huawei,2340,3400,6,2018-07-01,64,False,True,False,False,False,True,False,False,False,False,100.0,Android,9.0
+nova 3,Huawei,2340,3750,6,2018-07-01,64,True,True,True,False,True,True,False,False,False,False,140.0,Android,8.1
+Play,Honor,2340,3750,6,2018-07-01,64,True,True,True,False,True,True,False,False,False,False,250.0,Android,8.1
+K11 Plus,LG,1280,3000,3,2018-07-01,16,False,True,False,False,True,False,False,False,False,False,250.0,Android,7.1.2
+X power 3,LG,1280,4500,2,2018-07-01,16,False,True,False,False,True,False,False,False,False,False,160.0,Android,8.1
+Xperia XA2 Plus,Sony,2160,3580,6,2018-07-01,32,True,True,True,False,True,False,False,False,False,False,240.0,Android,8.0
+Mi Max 3,Xiaomi,2160,5500,6,2018-07-01,64,True,True,True,False,True,False,True,False,False,False,310.0,Android,8.1
+Mi A2 Lite (Redmi 6 Pro),Xiaomi,2280,4000,4,2018-07-01,32,False,True,False,False,True,False,False,False,False,False,380.0,Android,8.1
+Galaxy On6,Samsung,1480,3000,4,2018-07-01,32,False,True,False,False,True,False,False,False,False,False,150.0,Android,8.0
+A5 (AX5),Oppo,1520,4230,4,2018-07-01,32,False,True,False,False,True,False,False,False,False,False,150.0,Android,8.1
+A3s,Oppo,1520,4230,4,2018-07-13,16,False,True,False,False,True,False,False,False,False,False,460.0,Android,8.1
+nova 3i,Huawei,2340,3340,6,2018-07-18,64,False,True,False,False,True,False,False,False,False,False,90.0,Android,8.1
+Mi A2 (Mi 6X),Xiaomi,2160,3000,6,2018-07-24,32,True,True,True,False,True,False,True,False,False,False,270.0,Android,8.1
+R17,Oppo,2340,3500,8,2018-08-01,128,True,True,True,False,True,False,False,False,False,False,270.0,Android,8.1
+G7 One,LG,3120,3000,4,2018-08-01,32,True,True,True,False,True,False,False,False,False,False,300.0,Android,8.1
+Q8 (2018),LG,2160,3300,4,2018-08-01,64,False,True,False,False,True,False,False,False,False,False,140.0,Android,8.1
+F9 (F9 Pro),Oppo,2340,3500,6,2018-08-01,64,False,True,False,False,True,False,False,False,False,False,510.0,Android,8.1
+Galaxy J2 Core,Samsung,960,2600,1,2018-08-01,8,False,True,False,False,True,False,False,False,False,False,200.0,Android,8.1
+2,Realme,1520,4230,4,2018-08-01,32,False,True,False,False,True,False,False,False,False,False,120.0,Android,8.1
+G7 Fit,LG,3120,3000,4,2018-08-01,32,True,True,True,False,True,False,False,False,False,False,350.0,Android,8.1
+Mate 20 lite,Huawei,2340,3750,6,2018-08-01,64,False,True,False,False,False,True,False,False,False,False,350.0,Android,8.1
+RX17 Pro,Oppo,2340,3700,8,2018-08-01,128,True,True,True,False,True,False,False,False,False,False,330.0,Android,8.1
+Candy,LG,1280,2500,2,2018-08-01,16,False,True,False,False,True,False,False,False,False,False,200.0,Android,7.1.2
+Galaxy Note9,Samsung,2960,4000,8,2018-08-09,128,True,True,True,False,True,True,True,True,False,True,150.0,Android,8.1
+Pocophone F1,Xiaomi,2246,4000,8,2018-08-22,64,True,True,True,False,True,True,True,True,False,True,360.0,Android,8.1
+Xperia XZ3,Sony,2880,3300,6,2018-08-30,64,True,True,True,False,True,True,False,False,False,True,510.0,Android,9.0
+Mi 8 Lite,Xiaomi,2280,3350,6,2018-09-01,64,True,True,True,False,True,False,True,False,False,False,360.0,Android,8.1
+Mi 8 Pro,Xiaomi,2248,3000,8,2018-09-01,128,True,True,True,False,True,True,True,True,False,False,510.0,Android,8.1
+Redmi Note 6 Pro,Xiaomi,2280,4000,6,2018-09-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,8.1
+A7x,Oppo,2340,3500,4,2018-09-01,64,False,True,False,False,True,False,False,False,False,False,250.0,Android,8.1
+Galaxy J4+,Samsung,1480,3300,3,2018-09-01,16,False,True,False,False,True,False,False,False,False,False,100.0,Android,8.1
+8X,Honor,2340,3750,6,2018-09-01,64,False,True,False,False,False,True,False,False,True,False,220.0,Android,8.1
+8X Max,Honor,2244,5000,6,2018-09-01,64,False,True,False,False,True,False,False,False,False,False,250.0,Android,8.1
+C1,Realme,1520,4230,2,2018-09-01,16,False,True,False,False,True,False,False,False,False,False,100.0,Android,8.1
+Galaxy J6+,Samsung,1480,3300,4,2018-09-01,32,False,True,False,False,True,False,False,False,False,False,220.0,Android,8.1
+2 Pro,Realme,2340,3500,8,2018-09-01,64,True,True,True,False,True,True,True,True,False,False,150.0,Android,8.1
+iPhone XS Max,Apple,2688,3174,4,2018-09-12,64,True,True,True,False,True,True,True,True,False,False,570.0,iOS,12
+iPhone XS,Apple,2436,2658,4,2018-09-12,64,True,True,True,False,True,True,True,True,False,False,380.0,iOS,12
+iPhone XR,Apple,1792,2942,3,2018-09-12,64,True,True,True,False,True,True,True,True,False,False,310.0,iOS,12
+Galaxy A7 (2018),Samsung,2220,3300,6,2018-09-20,64,True,True,False,False,True,True,True,True,False,True,200.0,Android,8.0
+Black Shark Helo,Xiaomi,2160,4000,6,2018-10-01,128,True,True,True,False,True,False,True,False,False,False,450.0,Android,8.0
+Mi Mix 3,Xiaomi,2340,3200,6,2018-10-01,128,True,True,True,False,False,True,False,False,False,True,730.0,Android,9.0
+K9,Lenovo,1440,3000,3,2018-10-01,32,False,True,False,False,False,True,False,False,False,False,150.0,Android,8.1
+K5 Pro,Lenovo,2160,4050,6,2018-10-01,64,True,True,True,False,True,False,False,False,False,False,200.0,Android,8.1
+S5 Pro,Lenovo,2246,3500,6,2018-10-01,64,True,True,True,False,True,False,False,False,False,False,130.0,Android,8.1
+Mate 20 RS Porsche Design,Huawei,3120,4200,8,2018-10-01,256,True,True,True,False,True,True,False,False,False,True,460.0,Android,9.0
+Mate 20 X,Huawei,2244,5000,8,2018-10-01,128,True,True,True,False,True,True,False,False,False,True,180.0,Android,9.0
+Galaxy A6s,Samsung,2160,3300,6,2018-10-01,64,True,True,True,False,True,False,False,False,False,False,310.0,Android,8.0
+Mate 20,Huawei,2244,4000,6,2018-10-01,64,True,True,True,False,True,True,False,False,False,True,260.0,Android,9.0
+Galaxy A9 (2018),Samsung,2220,3800,8,2018-10-01,64,True,True,True,False,True,False,False,False,False,False,430.0,Android,8.0
+K1,Oppo,2340,3600,6,2018-10-01,64,True,True,True,False,True,False,False,False,False,False,1350.0,Android,8.1
+Y9 (2019),Huawei,2340,4000,6,2018-10-01,64,False,True,False,False,True,False,False,False,False,False,220.0,Android,8.1
+R15x,Oppo,2340,3600,6,2018-10-01,128,True,True,True,False,True,False,False,False,False,False,132.0,Android,8.1
+8C,Honor,1520,4000,4,2018-10-01,32,False,True,False,False,True,False,False,False,False,False,170.0,Android,8.1
+Magic 2,Honor,2340,3500,8,2018-10-01,128,True,True,True,False,True,False,False,False,True,False,550.0,Android,9.0
+V40 ThinQ,LG,3120,3300,6,2018-10-03,64,True,True,True,False,True,True,True,True,False,False,70.0,Android,8.1
+Pixel 3 XL,Google,2960,3430,4,2018-10-09,64,True,True,True,False,True,False,True,False,False,False,260.0,Android,9.0
+Pixel 3,Google,2160,2915,4,2018-10-09,64,True,True,True,False,True,False,True,False,False,False,450.0,Android,9.0
+Mate 20 Pro,Huawei,3120,4200,8,2018-10-16,128,True,True,True,False,True,True,False,False,False,True,230.0,Android,9.0
+6T,OnePlus,2340,3700,8,2018-10-29,128,True,True,True,False,True,True,True,True,True,False,430.0,Android,9.0
+U1,Realme,2340,3500,4,2018-11-01,32,True,True,False,False,True,False,False,False,False,False,130.0,Android,8.1
+Y Max,Huawei,2244,5000,4,2018-11-01,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,8.1
+Z5 Pro,Lenovo,2340,3350,6,2018-11-01,64,True,True,True,False,True,False,True,False,False,False,150.0,Android,8.1
+RX17 Neo,Oppo,2340,3600,4,2018-11-01,128,False,True,False,False,True,False,False,False,False,False,230.0,Android,8.1
+A7,Oppo,1520,4230,4,2018-11-01,32,False,True,False,False,True,False,False,False,False,False,290.0,Android,8.1
+Galaxy J4 Core,Samsung,1480,3300,1,2018-11-01,16,False,True,False,False,True,False,False,False,False,False,120.0,Android,8.1
+10 Lite,Honor,2340,3400,6,2018-11-01,32,False,True,False,False,False,True,False,False,False,False,180.0,Android,9.0
+Enjoy 9,Huawei,1520,4000,4,2018-12-01,32,False,True,False,False,True,False,False,False,False,False,800.0,Android,8.1
+Galaxy A8s,Samsung,2340,3400,8,2018-12-01,128,True,True,True,False,True,True,True,True,False,False,550.0,Android,9.0
+nova 4,Huawei,2310,3750,8,2018-12-01,128,True,True,True,False,True,False,False,False,False,False,1200.0,Android,9.0
+S5 Pro GT,Lenovo,2246,3500,6,2018-12-01,64,True,True,True,False,True,False,False,False,False,False,400.0,Android,8.1
+Y5 lite (2018),Huawei,1440,3020,1,2018-12-01,16,False,True,False,False,True,False,False,False,False,False,130.0,Android,8.1
+Mi Play,Xiaomi,2280,3000,6,2018-12-01,64,False,True,False,False,True,False,False,False,False,False,170.0,Android,9.0
+Z5 Pro GT,Lenovo,2340,3350,6,2018-12-01,128,True,True,True,False,True,False,True,False,False,False,200.0,Android,8.1
+6T McLaren,OnePlus,2340,3700,10,2018-12-11,256,True,True,True,False,True,True,True,True,True,False,700.0,Android,9.0
+Z5s,Lenovo,2340,3300,6,2018-12-18,64,True,True,True,False,True,False,False,False,False,False,300.0,Android,9.0
+P smart 2019,Huawei,2340,3400,3,2018-12-28,32,False,True,False,False,False,True,False,False,False,False,580.0,Android,9.0
+Y7 Pro (2019),Huawei,1520,4000,4,2019-01-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,8.1
+Y7 Prime (2019),Huawei,1520,4000,3,2019-01-01,32,False,True,False,False,True,False,False,False,False,False,400.0,Android,8.1
+Redmi Go,Xiaomi,1280,3000,1,2019-01-01,8,False,True,False,False,True,False,False,False,False,False,100.0,Android,8.1
+Tribute Empire,LG,1280,2500,2,2019-01-01,16,False,True,False,False,True,False,False,False,False,False,80.0,Android,8.1
+Play 8A,Honor,1560,3020,3,2019-01-01,32,False,True,False,False,True,False,False,False,False,False,100.0,Android,9.0
+Q9,LG,3120,3000,4,2019-01-01,64,True,True,True,False,True,False,False,False,False,False,330.0,Android,8.1
+Galaxy M10,Samsung,1520,3400,3,2019-01-01,16,False,True,False,False,True,False,False,False,False,False,90.0,Android,8.1
+C1 (2019),Realme,1520,4230,3,2019-01-01,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,8.1
+Redmi Note 7,Xiaomi,2340,4000,6,2019-01-10,32,False,True,False,False,False,False,True,False,False,False,170.0,Android,9.0
+Galaxy M20,Samsung,2340,5000,4,2019-01-28,32,False,True,False,False,True,False,False,False,False,False,380.0,Android,8.1
+Q60,LG,1520,3500,3,2019-02-01,64,False,True,False,False,True,False,False,False,False,False,180.0,Android,9.0
+K50,LG,1520,3500,3,2019-02-01,32,False,True,False,False,True,False,False,False,False,False,140.0,Android,9.0
+K40,LG,1440,3000,3,2019-02-01,32,False,True,False,False,True,False,False,False,False,False,400.0,Android,8.1
+Y6 Pro (2019),Huawei,1560,3020,3,2019-02-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+Galaxy Fold,Samsung,2152,4380,12,2019-02-01,512,True,True,True,False,True,True,True,True,False,True,260.0,Android,9.0
+Xperia L3,Sony,1440,3300,3,2019-02-01,32,False,True,False,False,True,False,False,False,False,False,230.0,Android,8.0
+Galaxy Fold 5G,Samsung,2152,4235,12,2019-02-01,512,True,True,True,False,True,True,True,True,False,True,400.0,Android,9.0
+Galaxy S10 5G,Samsung,3040,4500,8,2019-02-01,256,True,True,True,False,True,True,True,True,False,True,300.0,Android,9.0
+Mate X,Huawei,2480,4500,8,2019-02-01,512,True,True,True,False,True,False,False,False,False,False,200.0,Android,9.0
+Mi 9 Explorer,Xiaomi,2340,3300,8,2019-02-01,256,True,True,True,False,True,True,True,True,False,True,530.0,Android,9.0
+Mi Mix 3 5G,Xiaomi,2340,3800,6,2019-02-01,64,True,True,True,False,True,True,True,True,False,True,410.0,Android,9.0
+Galaxy S10,Samsung,3040,3400,8,2019-02-20,128,True,True,True,False,True,True,True,True,False,True,200.0,Android,9.0
+Mi 9,Xiaomi,2340,3300,8,2019-02-20,64,True,True,True,False,True,True,True,True,False,True,590.0,Android,9.0
+Mi 9 SE,Xiaomi,2340,3070,6,2019-02-20,64,True,True,True,False,True,True,True,False,False,True,460.0,Android,9.0
+Galaxy S10e,Samsung,2280,3100,8,2019-02-20,128,True,True,True,False,True,True,True,True,False,True,260.0,Android,9.0
+Galaxy S10+,Samsung,3040,4100,8,2019-02-20,128,True,True,True,False,True,True,True,True,False,True,360.0,Android,9.0
+V50 ThinQ 5G,LG,3120,4000,6,2019-02-24,128,True,True,True,False,True,True,True,True,False,False,480.0,Android,9.0
+G8S ThinQ,LG,2248,3550,6,2019-02-24,64,True,True,True,False,True,True,True,True,False,False,350.0,Android,9.0
+G8 ThinQ,LG,3120,3500,6,2019-02-24,128,True,True,True,False,True,True,True,True,False,False,230.0,Android,9.0
+Xperia 1,Sony,3840,3330,6,2019-02-25,64,True,True,True,False,True,True,False,False,False,True,500.0,Android,9.0
+Galaxy A50,Samsung,2340,4000,6,2019-02-25,64,False,True,False,False,True,False,False,False,False,False,110.0,Android,9.0
+Xperia 10 Plus,Sony,2520,3000,6,2019-02-25,64,True,True,True,False,True,False,False,False,False,False,560.0,Android,9.0
+Xperia 10,Sony,2520,2870,4,2019-02-25,64,True,True,True,False,True,False,False,False,False,False,280.0,Android,9.0
+Galaxy A30,Samsung,2340,4000,4,2019-02-25,32,False,True,False,False,True,False,False,False,False,False,100.0,Android,9.0
+Galaxy M30,Samsung,2340,5000,6,2019-02-27,32,False,True,False,False,True,False,False,False,False,False,240.0,Android,8.1
+Redmi Note 7 Pro,Xiaomi,2340,4000,6,2019-02-28,64,True,True,True,False,True,False,True,False,False,False,260.0,Android,9.0
+Galaxy A10,Samsung,1520,3400,4,2019-02-28,32,False,True,False,False,True,False,False,False,False,False,300.0,Android,9.0
+Black Shark 2,Xiaomi,2340,4000,6,2019-03-01,128,True,True,True,False,True,True,True,False,False,False,400.0,Android,9.0
+F11,Oppo,2340,4020,6,2019-03-01,64,False,True,False,False,True,False,False,False,False,False,600.0,Android,9.0
+3,Realme,1520,4230,4,2019-03-01,32,False,True,False,False,True,False,False,False,False,False,108.0,Android,9.0
+Magic 2 3D,Honor,2340,3500,8,2019-03-01,128,True,True,True,False,True,False,False,False,True,False,600.0,Android,9.0
+Enjoy 9s,Huawei,2340,3400,6,2019-03-01,64,False,True,False,False,False,True,False,False,False,False,130.0,Android,9.0
+F11 Pro,Oppo,2340,4000,6,2019-03-01,64,False,True,False,False,True,False,False,False,False,False,460.0,Android,9.0
+Enjoy 9e,Huawei,1560,3020,3,2019-03-01,32,False,True,False,False,True,False,False,False,False,False,120.0,Android,9.0
+nova 4e,Huawei,2312,3340,6,2019-03-01,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+Y6 (2019),Huawei,1560,3020,2,2019-03-02,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+Y7 (2019),Huawei,1520,4000,4,2019-03-07,32,False,True,False,False,True,False,False,False,False,False,100.0,Android,8.1
+Redmi 7,Xiaomi,1520,4000,4,2019-03-18,16,False,True,False,False,False,True,False,False,False,False,150.0,Android,9.0
+A5s (AX5s),Oppo,1520,4230,4,2019-03-18,32,False,True,False,False,True,False,False,False,False,False,270.0,Android,8.1
+Galaxy A20,Samsung,1560,4000,3,2019-03-19,32,False,True,False,False,True,False,False,False,False,False,400.0,Android,9.0
+Galaxy A40,Samsung,2340,3100,4,2019-03-19,64,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+P30,Huawei,2340,3650,8,2019-03-26,64,True,True,True,False,True,True,False,False,False,True,130.0,Android,9.0
+P30 Pro,Huawei,2340,4200,8,2019-03-26,128,True,True,True,False,True,True,False,False,False,True,270.0,Android,9.0
+Galaxy A70,Samsung,2400,4500,8,2019-03-26,128,True,True,True,False,True,True,True,True,False,False,270.0,Android,9.0
+P30 lite,Huawei,2312,3340,8,2019-03-27,64,False,True,False,False,True,False,False,False,False,False,120.0,Android,9.0
+Redmi Y3,Xiaomi,1520,4000,4,2019-04-01,32,False,True,False,False,False,True,False,False,False,False,120.0,Android,9.0
+A1k,Oppo,1560,4000,3,2019-04-01,32,False,True,False,False,True,False,False,False,False,False,330.0,Android,9.0
+A7n,Oppo,1520,4230,4,2019-04-01,64,False,True,False,False,True,False,False,False,False,False,210.0,Android,8.1
+8S,Honor,1520,3020,3,2019-04-01,32,False,True,False,False,True,False,False,False,False,False,120.0,Android,9.0
+A9,Oppo,2340,4020,8,2019-04-01,128,False,True,False,False,True,False,False,False,False,False,250.0,Android,9.0
+K6 Enjoy,Lenovo,1520,3300,4,2019-04-01,64,False,True,False,False,True,False,False,False,False,False,220.0,Android,9.0
+Galaxy A60,Samsung,2340,3500,6,2019-04-01,64,True,True,True,False,True,False,False,False,False,False,260.0,Android,9.0
+Galaxy A2 Core,Samsung,960,2600,1,2019-04-01,8,False,True,False,False,True,False,False,False,False,False,290.0,Android,8.0
+Reno 5G,Oppo,2340,4065,8,2019-04-01,256,True,True,True,False,True,True,True,True,False,False,320.0,Android,9.0
+8A Pro,Honor,1560,3020,3,2019-04-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+20i,Honor,2340,3400,6,2019-04-01,64,False,True,False,False,False,True,False,False,False,False,210.0,Android,9.0
+20 lite,Honor,2340,3400,8,2019-04-01,64,False,True,False,False,False,True,False,False,False,False,190.0,Android,9.0
+Reno,Oppo,2340,3765,8,2019-04-01,128,True,True,True,False,True,False,True,False,False,False,350.0,Android,9.0
+Reno 10x zoom,Oppo,2340,4065,6,2019-04-01,128,True,True,True,False,True,True,True,True,False,False,270.0,Android,9.0
+Galaxy A20e,Samsung,1560,3000,3,2019-04-10,32,False,True,False,False,False,True,False,False,False,False,160.0,Android,9.0
+Galaxy A80,Samsung,2400,3700,8,2019-04-10,128,True,True,True,False,True,True,False,False,True,False,290.0,Android,9.0
+A7,Lenovo,1560,4000,4,2019-04-13,64,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+C2,Realme,1560,4000,3,2019-04-22,16,False,True,False,False,True,False,False,False,False,False,72.0,Android,9.0
+3 Pro,Realme,2340,4045,6,2019-04-22,64,True,True,True,False,True,True,True,False,False,True,270.0,Android,9.0
+Z6 Pro,Lenovo,2340,4000,6,2019-04-23,128,True,True,True,False,True,False,True,False,False,False,200.0,Android,9.0
+Y5 (2019),Huawei,1520,3020,2,2019-04-24,16,False,True,False,False,True,False,False,False,False,False,280.0,Android,9.0
+20,Honor,2340,3750,8,2019-05-01,128,True,True,True,False,True,True,False,False,False,False,400.0,Android,9.0
+X,Realme,2340,3765,8,2019-05-01,64,True,True,True,False,True,True,True,False,False,True,160.0,Android,9.0
+P Smart Z,Huawei,2340,4000,4,2019-05-01,64,False,True,False,False,True,False,False,False,False,False,319.0,Android,9.0
+Mate 20 X (5G),Huawei,2244,4200,8,2019-05-01,128,True,True,True,False,True,True,False,False,False,True,420.0,Android,9.0
+Reno Z,Oppo,2340,4035,8,2019-05-01,128,True,True,True,False,True,False,True,False,False,False,470.0,Android,9.0
+Redmi K20,Xiaomi,2340,4000,8,2019-05-01,64,True,True,True,False,True,True,True,True,False,True,260.0,Android,9.0
+Z6 Youth,Lenovo,2340,4050,6,2019-05-01,64,False,True,False,False,True,False,False,False,False,False,190.0,Android,9.0
+K3,Oppo,2340,3765,8,2019-05-01,64,True,True,True,False,True,False,True,False,False,False,100.0,Android,9.0
+20 Pro,Honor,2340,4000,8,2019-05-01,128,True,True,True,False,True,True,False,False,False,False,470.0,Android,9.0
+Redmi Note 7S,Xiaomi,2340,4000,4,2019-05-01,32,False,True,False,False,False,False,True,False,False,False,140.0,Android,9.0
+A9x,Oppo,2340,4020,6,2019-05-01,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+Pixel 3a,Google,2220,3000,4,2019-05-07,64,True,True,True,False,True,False,True,False,False,False,290.0,Android,9.0
+Pixel 3a XL,Google,2160,3700,4,2019-05-07,64,True,True,True,False,True,False,True,False,False,False,290.0,Android,9.0
+7,OnePlus,2340,3700,6,2019-05-14,128,True,True,True,False,True,True,True,True,True,False,400.0,Android,9.0
+7 Pro,OnePlus,3120,4000,6,2019-05-14,128,True,True,True,False,True,True,True,True,True,False,590.0,Android,9.0
+7 Pro 5G,OnePlus,3120,4000,6,2019-05-14,128,True,True,True,False,True,True,True,True,True,False,800.0,Android,9.0
+Redmi 7A,Xiaomi,1440,4000,3,2019-05-24,16,False,True,False,False,True,False,False,False,False,False,130.0,Android,9.0
+Redmi K20 Pro,Xiaomi,2340,4000,8,2019-05-28,64,True,True,True,False,True,True,True,True,False,True,400.0,Android,9.0
+Galaxy M40,Samsung,2340,3500,6,2019-06-01,64,True,True,True,False,True,False,False,False,False,False,400.0,Android,9.0
+nova 5 Pro,Huawei,2340,3500,8,2019-06-01,128,True,True,True,False,True,False,False,False,False,False,220.0,Android,9.0
+P20 lite (2019),Huawei,2310,4000,4,2019-06-01,64,False,True,False,False,True,False,False,False,False,False,670.0,Android,9.0
+Galaxy Xcover 4s,Samsung,1280,2800,3,2019-06-01,32,False,True,False,False,True,False,False,False,False,False,380.0,Android,9.0
+nova 5,Huawei,2340,3500,8,2019-06-01,128,False,True,False,False,True,False,False,False,False,False,280.0,Android,9.0
+Stylo 5,LG,2160,3500,3,2019-06-01,32,False,True,False,False,True,False,False,False,False,False,550.0,Android,9.0
+nova 5i,Huawei,2310,4000,8,2019-06-01,128,False,True,False,False,True,False,False,False,False,False,280.0,Android,9.0
+W30,LG,1520,4000,4,2019-06-01,32,False,True,False,False,True,False,False,False,False,False,110.0,Android,9.0
+W30 Pro,LG,1520,4050,4,2019-06-01,64,True,True,True,False,True,False,False,False,False,False,130.0,Android,9.0
+W10,LG,1512,4000,3,2019-06-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+Mi 9T,Xiaomi,2340,4000,6,2019-06-12,64,True,True,True,False,True,True,True,True,False,True,460.0,Android,9.0
+Z6 Pro 5G,Lenovo,2340,4000,6,2019-06-26,128,True,True,True,False,True,False,True,False,False,False,430.0,Android,9.0
+Galaxy A10e,Samsung,1560,3000,3,2019-07-01,32,False,True,False,False,True,False,False,False,False,False,120.0,Android,9.0
+nova 5i Pro,Huawei,2340,4000,8,2019-07-01,128,True,True,True,False,True,False,False,False,False,False,390.0,Android,9.0
+Mi CC9,Xiaomi,2340,4030,8,2019-07-01,64,True,True,True,False,True,True,True,False,False,True,260.0,Android,9.0
+Mi CC9e,Xiaomi,1560,4030,6,2019-07-01,64,True,True,True,False,True,False,True,False,False,False,170.0,Android,9.0
+Black Shark 2 Pro,Xiaomi,2340,4000,8,2019-07-01,128,True,True,True,False,False,True,True,False,False,False,550.0,Android,9.0
+3i,Realme,1520,4230,4,2019-07-01,32,False,True,False,False,True,False,False,False,False,False,96.0,Android,9.0
+9X (China),Honor,2340,4000,8,2019-07-01,64,False,True,False,False,True,False,False,False,False,False,180.0,Android,9.0
+Z6,Lenovo,2340,4000,8,2019-07-04,64,True,True,True,False,True,False,False,False,False,False,160.0,Android,9.0
+Mi A3,Xiaomi,1560,4030,6,2019-07-17,64,True,True,True,False,True,False,True,False,False,False,230.0,Android,9.0
+9X Pro,Honor,2340,4000,8,2019-07-23,128,False,True,False,False,True,False,False,False,False,False,230.0,Android,9.0
+Y9 Prime (2019),Huawei,2340,4000,4,2019-08-01,64,False,True,False,False,True,False,False,False,False,False,760.0,Android,9.0
+Galaxy Note10 5G,Samsung,2280,3500,12,2019-08-01,256,True,True,True,False,True,True,True,True,False,True,180.0,Android,9.0
+Galaxy Note10+ 5G,Samsung,3040,4300,12,2019-08-01,256,True,True,True,False,True,True,True,True,False,True,1100.0,Android,9.0
+K40S,LG,1520,3500,3,2019-08-01,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+K50S,LG,1520,4000,3,2019-08-01,32,False,True,False,False,True,False,False,False,False,False,190.0,Android,9.0
+K20 (2019),LG,960,3000,1,2019-08-01,16,False,True,False,False,True,False,False,False,False,False,160.0,Android,9.0
+K30 (2019),LG,1440,3000,2,2019-08-01,16,False,True,False,False,True,False,False,False,False,False,100.0,Android,9.0
+Galaxy Note10+,Samsung,3040,4300,12,2019-08-07,256,True,True,True,False,True,True,True,True,False,True,590.0,Android,9.0
+Galaxy Note10,Samsung,2280,3500,8,2019-08-07,256,True,True,True,False,True,True,True,True,False,True,80.0,Android,9.0
+Galaxy A10s,Samsung,1520,4000,3,2019-08-12,32,False,True,False,False,True,False,False,False,False,False,260.0,Android,9.0
+5 Pro,Realme,2340,4035,8,2019-08-20,64,True,True,True,False,True,True,True,False,False,True,430.0,Android,9.0
+5,Realme,1600,5000,4,2019-08-20,32,True,True,True,False,True,False,False,False,False,False,190.0,Android,9.0
+Mi 9T Pro,Xiaomi,2340,4000,8,2019-08-21,64,True,True,True,False,True,True,True,True,False,True,325.38,Android,9.0
+Galaxy A30s,Samsung,1560,4000,4,2019-08-22,32,False,True,False,False,True,False,False,False,False,False,700.0,Android,9.0
+Galaxy A50s,Samsung,2340,4000,6,2019-08-22,64,True,True,True,False,True,False,False,False,False,False,590.0,Android,9.0
+nova 5T,Huawei,2340,3750,8,2019-08-27,128,True,True,True,False,True,True,False,False,False,False,260.0,Android,9.0
+Reno2,Oppo,2400,4000,8,2019-08-28,128,True,True,True,False,True,True,False,False,False,False,270.0,Android,9.0
+Reno2 F,Oppo,2340,4000,8,2019-08-28,128,False,True,False,False,True,False,False,False,False,False,880.0,Android,9.0
+Reno2 Z,Oppo,2340,4000,8,2019-08-28,128,True,True,True,False,True,False,False,False,False,False,1020.0,Android,9.0
+Redmi Note 8 Pro,Xiaomi,2340,4500,8,2019-08-29,64,True,True,True,False,True,True,True,False,False,True,220.0,Android,9.0
+Redmi Note 8,Xiaomi,2340,4000,6,2019-08-29,32,True,True,True,False,True,False,True,False,False,False,220.0,Android,9.0
+Galaxy M10s,Samsung,1560,4000,3,2019-09-01,32,False,True,False,False,True,False,False,False,False,False,1750.0,Android,9.0
+Galaxy A90 5G,Samsung,2400,4500,8,2019-09-01,128,True,True,True,False,True,True,False,False,False,True,290.0,Android,9.0
+Galaxy A70s,Samsung,2400,4500,8,2019-09-01,128,True,True,True,False,True,True,True,True,False,False,260.0,Android,9.0
+Q,Realme,2340,4035,8,2019-09-01,64,True,True,True,False,True,True,True,False,False,True,130.0,Android,9.0
+Redmi K20 Pro Premium,Xiaomi,2340,4000,8,2019-09-01,128,True,True,True,False,True,True,True,True,False,True,450.0,Android,10
+20S,Honor,2340,3750,8,2019-09-01,128,False,True,False,False,True,False,False,False,False,False,250.0,Android,9.0
+Mi 9 Pro 5G,Xiaomi,2340,4000,8,2019-09-01,128,True,True,True,False,True,True,True,True,False,True,600.0,Android,10
+Mate 30 RS Porsche Design,Huawei,2400,4500,12,2019-09-01,512,True,True,True,False,False,True,True,False,False,True,650.0,Android,10
+Reno A,Oppo,2340,3600,6,2019-09-01,128,True,True,True,False,True,False,False,False,False,False,330.0,Android,9.0
+Mate 30 5G,Huawei,2340,4200,8,2019-09-01,128,True,True,True,False,False,True,True,False,False,True,190.0,Android,10
+A6 Note,Lenovo,1560,4000,3,2019-09-01,16,False,True,False,False,True,False,False,False,False,False,400.0,Android,9.0
+Mate 30,Huawei,2340,4200,8,2019-09-01,128,True,True,True,False,False,True,True,False,False,True,340.0,Android,10
+Play 3,Honor,1560,4000,6,2019-09-01,64,False,True,False,False,True,False,False,False,False,False,130.0,Android,9.0
+Play 3e,Honor,1520,3020,3,2019-09-01,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,9.0
+Enjoy 10 Plus,Huawei,2340,4000,8,2019-09-01,128,False,True,False,False,True,False,False,False,False,False,360.0,Android,9.0
+Mi 9 Pro,Xiaomi,2340,4000,8,2019-09-01,128,True,True,True,False,True,True,True,True,False,True,500.0,Android,10
+K10 Note,Lenovo,2340,4050,6,2019-09-05,64,True,True,True,False,True,False,False,False,False,False,250.0,Android,9.0
+Xperia 5,Sony,2520,3140,6,2019-09-05,128,True,True,True,False,True,True,False,False,False,False,500.0,Android,9.0
+G8X ThinQ,LG,2340,4000,6,2019-09-06,128,True,True,True,False,True,True,True,True,False,False,320.0,Android,9.0
+iPhone 11 Pro Max,Apple,2688,3969,4,2019-09-10,64,True,True,True,False,True,True,True,True,False,False,397.78,iOS,13
+iPhone 11 Pro,Apple,2436,3046,4,2019-09-10,64,True,True,True,False,True,True,True,True,False,False,429.89,iOS,13
+iPhone 11,Apple,1792,3110,4,2019-09-10,64,True,True,True,False,True,True,True,True,False,False,494.0,iOS,13
+A9 (2020),Oppo,1600,5000,8,2019-09-10,128,True,True,True,False,True,False,False,False,False,False,260.0,Android,9.0
+XT,Realme,2340,4000,8,2019-09-13,64,True,True,True,False,True,True,True,False,False,True,290.0,Android,9.0
+Mi 9 Lite,Xiaomi,2340,4030,6,2019-09-16,64,True,True,True,False,True,True,True,False,False,True,320.0,Android,9.0
+Galaxy M30s,Samsung,2340,6000,6,2019-09-18,64,True,True,True,False,True,False,False,False,False,False,1400.0,Android,9.0
+Mate 30 Pro 5G,Huawei,2400,4500,8,2019-09-19,128,True,True,True,False,False,True,True,False,False,True,550.0,Android,10
+Mate 30 Pro,Huawei,2400,4500,8,2019-09-19,128,True,True,True,False,False,True,True,False,False,True,290.0,Android,10
+A5 (2020),Oppo,1600,5000,4,2019-09-21,32,True,True,True,False,True,False,False,False,False,False,210.0,Android,9.0
+K10 Plus,Lenovo,1520,4050,4,2019-09-23,64,False,True,False,False,True,False,False,False,False,False,100.0,Android,9.0
+X2,Realme,2340,4000,8,2019-09-24,64,True,True,True,False,True,True,True,False,False,True,480.0,Android,9.0
+Galaxy A20s,Samsung,1560,4000,4,2019-09-24,32,False,True,False,False,True,False,False,False,False,False,110.0,Android,9.0
+Redmi 8A,Xiaomi,1520,5000,4,2019-09-25,32,False,True,False,False,True,False,False,False,False,False,120.0,Android,9.0
+7T,OnePlus,2400,3800,8,2019-09-26,128,True,True,True,False,True,True,True,True,False,True,258.5,Android,10
+Q70,LG,2310,4000,4,2019-09-28,64,True,True,True,False,True,False,False,False,False,False,140.0,Android,9.0
+A11,Oppo,1600,5000,6,2019-10-01,64,True,True,True,False,True,False,False,False,False,False,500.0,Android,9.0
+K5,Oppo,2340,4000,8,2019-10-01,128,True,True,True,False,True,True,True,False,False,True,340.0,Android,9.0
+V50S ThinQ 5G,LG,2340,4000,8,2019-10-01,256,True,True,True,False,True,True,True,True,False,False,560.0,Android,9.0
+20 lite (China),Honor,2400,4000,8,2019-10-01,64,False,True,False,False,True,False,False,False,False,False,220.0,Android,9.0
+Enjoy 10,Huawei,1560,4000,6,2019-10-01,64,False,True,False,False,True,False,False,False,False,False,1290.0,Android,9.0
+Reno Ace,Oppo,2400,4000,8,2019-10-01,128,True,True,True,False,True,True,True,True,False,False,330.0,Android,9.0
+Galaxy Xcover FieldPro,Samsung,2560,4500,4,2019-10-01,64,False,True,False,False,True,False,False,False,False,False,250.0,Android,8.0
+nova 5z,Huawei,2340,4000,6,2019-10-01,64,True,True,True,False,True,False,False,False,False,False,1700.0,Android,9.0
+Redmi 8,Xiaomi,1520,5000,4,2019-10-09,32,False,True,False,False,True,False,False,False,False,False,210.0,Android,9.0
+7T Pro,OnePlus,3120,4085,8,2019-10-10,256,True,True,True,False,True,True,True,True,False,True,1030.0,Android,10
+Pixel 4 XL,Google,3040,3700,6,2019-10-15,64,True,True,True,False,True,False,True,False,False,False,250.0,Android,10
+Pixel 4,Google,2280,2800,6,2019-10-15,64,True,True,True,False,True,False,True,False,False,False,300.0,Android,10
+X2 Pro,Realme,2400,4000,6,2019-10-15,64,True,True,True,False,False,True,True,False,False,True,440.0,Android,9.0
+7T Pro 5G McLaren,OnePlus,3120,4085,12,2019-10-23,256,True,True,True,False,True,True,True,True,False,True,800.0,Android,10
+Enjoy 10s,Huawei,2400,4000,8,2019-10-28,64,False,True,False,False,True,False,False,False,False,False,1440.0,Android,9.0
+9X,Honor,2340,4000,6,2019-10-28,64,False,True,False,False,False,True,False,False,False,False,240.0,Android,9.0
+Mi CC9 Pro,Xiaomi,2340,5260,8,2019-11-01,128,True,True,True,False,True,True,True,True,False,True,400.0,Android,9.0
+V30 Pro,Honor,2400,4100,8,2019-11-01,128,True,True,True,False,True,True,False,False,False,True,500.0,Android,10
+C2 2020,Realme,1560,4000,3,2019-11-01,32,False,True,False,False,True,False,False,False,False,False,100.0,Android,9.0
+V30,Honor,2400,4200,8,2019-11-01,128,True,True,True,False,True,True,False,False,False,True,430.0,Android,10
+Redmi Note 8T,Xiaomi,2340,4000,4,2019-11-06,32,True,True,True,False,True,False,True,False,False,False,250.0,Android,9.0
+Mi Note 10 Pro,Xiaomi,2340,5260,8,2019-11-06,256,True,True,True,False,True,True,True,True,False,True,480.0,Android,9.0
+Mi Note 10,Xiaomi,2340,5260,6,2019-11-06,128,True,True,True,False,True,True,True,True,False,True,380.0,Android,9.0
+Y9s,Huawei,2340,4000,6,2019-11-08,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,9.0
+5s,Realme,1600,5000,4,2019-11-20,64,True,True,True,False,True,False,False,False,False,False,270.0,Android,9.0
+nova 6 SE,Huawei,2310,4200,8,2019-12-01,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,10
+nova 6,Huawei,2400,4100,8,2019-12-01,128,True,True,True,False,True,True,False,False,False,True,220.0,Android,10
+A8,Oppo,1600,4230,4,2019-12-01,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,9.0
+nova 6 5G,Huawei,2400,4200,8,2019-12-01,128,True,True,True,False,True,True,False,False,False,True,2150.0,Android,10
+Reno3 5G,Oppo,2400,4025,8,2019-12-01,128,True,True,True,False,True,False,True,False,False,False,280.0,Android,10
+Reno3 Pro 5G,Oppo,2400,4025,8,2019-12-01,128,True,True,True,False,True,True,True,True,False,False,240.0,Android,10
+P smart Pro 2019,Huawei,2340,4000,6,2019-12-01,128,False,True,False,False,True,False,False,False,False,False,280.0,Android,9.0
+Redmi K30 5G,Xiaomi,2400,4500,8,2019-12-10,64,True,True,True,False,True,True,True,False,False,True,260.0,Android,10
+Redmi K30,Xiaomi,2400,4500,8,2019-12-10,64,True,True,True,False,True,True,True,False,False,True,210.0,Android,10
+Galaxy A51,Samsung,2400,4000,8,2019-12-12,64,True,True,True,False,True,False,True,False,False,False,380.0,Android,10
+Galaxy A71,Samsung,2400,4500,8,2019-12-12,128,True,True,True,False,True,True,True,True,False,True,1020.0,Android,10
+Galaxy A01,Samsung,1520,3000,2,2019-12-17,16,False,True,False,False,True,False,False,False,False,False,240.0,Android,10
+A91,Oppo,2400,4025,8,2019-12-20,128,False,True,False,False,True,False,False,False,False,False,170.0,Android,9.0
+C2s,Realme,1560,4000,3,2020-01-01,32,False,True,False,False,True,False,False,False,False,False,40.0,Android,9.0
+Galaxy Xcover Pro,Samsung,2340,4050,4,2020-01-01,64,False,True,False,False,True,False,False,False,False,False,380.0,Android,10
+Galaxy Note10 Lite,Samsung,2400,4500,8,2020-01-03,128,True,True,True,False,True,True,True,True,False,False,200.0,Android,10
+Galaxy S10 Lite,Samsung,2400,4500,8,2020-01-03,128,True,True,True,False,True,True,True,True,False,False,336.5,Android,10
+5i,Realme,1600,5000,4,2020-01-06,32,True,True,True,False,True,False,False,False,False,False,170.0,Android,9.0
+X50 5G (China),Realme,2400,4200,6,2020-01-07,64,True,True,True,False,True,True,False,False,False,False,680.0,Android,10
+P30 lite New Edition,Huawei,2312,3340,6,2020-01-14,128,False,True,False,False,True,False,False,False,False,False,140.0,Android,9.0
+F15,Oppo,2400,4025,8,2020-01-16,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+nova 7i,Huawei,2310,4200,8,2020-01-30,128,False,True,False,False,True,False,False,False,False,False,160.0,Android,10
+Y6s (2019),Huawei,1560,3020,3,2020-01-30,32,False,True,False,False,True,False,False,False,False,False,290.0,Android,9.0
+Poco X2,Xiaomi,2400,4500,8,2020-02-04,64,True,True,True,False,True,True,True,False,False,True,179.88,Android,10
+C3,Realme,1600,5000,4,2020-02-05,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,10
+Y7p,Huawei,1560,4000,4,2020-02-07,64,False,True,False,False,True,False,False,False,False,False,240.0,Android,9.0
+Reno3 Youth,Oppo,2400,4025,8,2020-02-08,128,True,True,True,False,True,False,True,False,False,False,380.0,Android,10
+Galaxy S20 5G,Samsung,3200,4000,8,2020-02-11,128,True,True,True,True,True,True,True,True,False,True,770.0,Android,10
+Galaxy S20+ 5G,Samsung,3200,4500,8,2020-02-11,128,True,True,True,True,True,True,True,True,False,True,880.0,Android,10
+Galaxy S20 Ultra,Samsung,3200,5000,16,2020-02-11,128,True,True,True,True,True,True,True,True,False,True,540.0,Android,10
+Redmi 8A Dual,Xiaomi,1520,5000,3,2020-02-11,32,False,True,False,False,True,False,False,False,False,False,110.0,Android,9.0
+Galaxy S20 Ultra 5G,Samsung,3200,5000,16,2020-02-11,128,True,True,True,True,True,True,True,True,False,True,540.0,Android,10
+Galaxy S20+,Samsung,3200,4500,8,2020-02-11,128,True,True,True,True,True,True,True,True,False,True,280.0,Android,10
+Galaxy S20,Samsung,3200,4000,8,2020-02-11,128,True,True,True,True,True,True,True,True,False,True,389.99,Android,10
+Galaxy Z Flip,Samsung,2636,3300,8,2020-02-11,256,True,True,True,False,True,True,True,True,False,True,550.0,Android,10
+A31,Oppo,1600,4230,6,2020-02-13,64,False,True,False,False,True,False,False,False,False,False,150.0,Android,9.0
+Mi 10 5G,Xiaomi,2340,4780,6,2020-02-13,128,True,True,True,True,True,True,False,False,False,False,339.0,Android,10
+Mi 10 Pro 5G,Xiaomi,2340,4500,8,2020-02-13,256,True,True,True,True,True,True,False,False,False,True,930.0,Android,10
+K51S,LG,1600,4000,3,2020-02-18,64,False,True,False,False,True,False,False,False,False,False,220.0,Android,9.0
+K61,LG,2340,4000,4,2020-02-18,64,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+K41S,LG,1600,4000,3,2020-02-18,32,False,True,False,False,True,False,False,False,False,False,1100.0,Android,9.0
+C3 (3 cameras),Realme,1600,5000,4,2020-02-19,32,False,True,False,False,True,False,False,False,False,False,150.0,Android,10
+W10 Alpha,LG,1512,3450,3,2020-02-19,32,False,True,False,False,True,False,False,False,False,False,300.0,Android,9.0
+Xperia L4,Sony,1680,3580,3,2020-02-20,64,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+Xperia 1 II,Sony,3840,4000,8,2020-02-24,256,True,True,True,False,False,False,True,False,False,False,700.0,Android,10
+Xperia 10 II,Sony,2520,3600,4,2020-02-24,64,True,True,True,False,True,False,False,False,False,False,700.0,Android,10
+Mate Xs,Huawei,2480,4500,8,2020-02-24,512,True,True,True,False,True,False,False,False,False,False,360.0,Android,10
+X50 Pro 5G,Realme,2400,4200,6,2020-02-24,128,True,True,True,False,False,True,False,False,False,False,439.44,Android,10
+Xperia Pro,Sony,3840,4000,12,2020-02-24,512,True,True,True,False,False,True,True,False,False,False,2000.0,Android,10
+Galaxy M31,Samsung,2340,6000,8,2020-02-25,64,True,True,True,False,True,False,False,False,False,False,690.0,Android,10
+Q51,LG,1520,4000,3,2020-02-25,32,False,True,False,False,True,False,False,False,False,False,130.0,Android,10
+V60 ThinQ 5G,LG,2460,5000,8,2020-02-26,128,True,True,True,True,True,True,False,False,False,False,240.0,Android,10
+V60 ThinQ 5G UW,LG,2460,5000,8,2020-02-26,128,True,True,True,True,True,True,False,False,False,False,700.0,Android,10
+P40 lite,Huawei,2310,4200,8,2020-02-27,128,False,True,False,False,True,False,False,False,False,False,1950.0,Android,10
+Enjoy 10e,Huawei,1600,5000,4,2020-03-01,64,False,True,False,False,True,False,False,False,False,False,1000.0,Android,10
+Reno3 Pro,Oppo,2400,4025,8,2020-03-02,128,True,True,True,False,True,False,False,False,False,False,200.0,Android,10
+Black Shark 3,Xiaomi,2400,4720,8,2020-03-03,128,True,True,True,False,True,True,True,True,False,False,390.0,Android,10
+Black Shark 3 Pro,Xiaomi,3120,5000,8,2020-03-03,256,True,True,True,False,True,True,True,True,False,False,940.0,Android,10
+P40 lite E,Huawei,1560,4000,4,2020-03-04,64,False,True,False,False,True,False,False,False,False,False,249.99,Android,9.0
+6 Pro,Realme,2400,4300,8,2020-03-05,64,True,True,True,False,True,False,True,False,False,False,179.99,Android,10
+6,Realme,2400,4300,8,2020-03-05,64,True,True,True,False,True,False,True,False,False,False,190.0,Android,10
+Find X2 Pro,Oppo,3168,4260,12,2020-03-06,256,True,True,True,False,False,True,False,False,False,False,400.0,Android,10
+Find X2,Oppo,3168,4200,8,2020-03-06,128,True,True,True,False,False,True,False,False,False,False,440.0,Android,10
+Redmi Note 9 Pro Max,Xiaomi,2400,5020,8,2020-03-12,64,True,True,True,False,True,True,True,False,False,True,180.0,Android,10
+Redmi Note 9 Pro (India),Xiaomi,2400,5020,6,2020-03-12,64,True,True,True,False,True,True,True,False,False,True,280.0,Android,10
+Galaxy A11,Samsung,1560,4000,4,2020-03-13,32,False,True,False,False,True,False,False,False,False,False,650.0,Android,10
+Reno3,Oppo,2400,4025,8,2020-03-17,128,True,True,True,False,True,True,False,False,False,False,430.0,Android,10
+6i,Realme,1600,5000,4,2020-03-17,64,False,True,False,False,True,False,False,False,False,False,400.0,Android,10
+Galaxy A41,Samsung,2400,3500,8,2020-03-18,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,10
+Galaxy M21,Samsung,2340,6000,6,2020-03-18,64,True,True,True,False,True,True,True,True,False,False,310.0,Android,10
+Redmi Note 9S,Xiaomi,2400,5020,6,2020-03-23,64,True,True,True,False,True,True,True,False,False,True,204.95,Android,10
+Redmi K30 Pro,Xiaomi,2400,4700,6,2020-03-24,128,True,True,True,True,True,True,True,True,False,True,390.0,Android,10
+Galaxy A31,Samsung,2400,5000,8,2020-03-24,64,False,True,False,False,True,False,False,False,False,False,190.0,Android,10
+Redmi K30 Pro Zoom,Xiaomi,2400,4700,8,2020-03-24,128,True,True,True,True,True,True,True,True,False,True,500.0,Android,10
+P40 Pro,Huawei,2640,4200,8,2020-03-26,128,True,True,True,False,False,True,False,False,False,True,520.0,Android,10
+P40 Pro+,Huawei,2640,4200,8,2020-03-26,256,True,True,True,False,False,True,False,False,False,True,569.9,Android,10
+P40,Huawei,2340,3800,8,2020-03-26,128,True,True,True,False,False,True,False,False,False,True,150.0,Android,10
+M10 Plus,Lenovo,1920,5000,4,2020-03-27,32,False,True,False,False,True,False,False,False,False,False,180.0,Android,9.0
+Mi 10 Lite 5G,Xiaomi,2400,4160,8,2020-03-27,64,True,True,True,False,True,True,False,False,False,True,209.06,Android,10
+8A Prime,Honor,1560,3020,3,2020-03-30,64,False,True,False,False,True,False,False,False,False,False,110.0,Android,9.0
+30S,Honor,2400,4000,8,2020-03-30,128,True,True,True,False,True,True,False,False,False,True,310.0,Android,10
+Play 9A,Honor,1600,5000,4,2020-03-30,64,False,True,False,False,True,False,False,False,False,False,120.0,Android,10
+Galaxy M11,Samsung,1560,5000,4,2020-03-30,32,False,True,False,False,True,False,False,False,False,False,290.0,Android,10
+Redmi 8A Pro,Xiaomi,1520,5000,3,2020-04-02,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,9.0
+A12e,Oppo,1520,4230,3,2020-04-03,64,False,True,False,False,True,False,False,False,False,False,227.868,Android,8.1
+Galaxy A71 5G,Samsung,2400,4500,8,2020-04-08,128,True,True,True,False,True,True,True,True,False,True,108.88,Android,10
+Galaxy A21,Samsung,1600,4000,3,2020-04-08,32,False,True,False,False,True,False,False,False,False,False,190.0,Android,10
+Galaxy A51 5G,Samsung,2400,4500,8,2020-04-08,128,True,True,True,False,True,False,True,False,False,False,204.99,Android,10
+Play 4T,Honor,1560,4000,6,2020-04-09,128,False,True,False,False,True,False,False,False,False,False,160.0,Android,10
+Play 4T Pro,Honor,2400,4000,8,2020-04-09,128,True,True,True,False,True,False,False,False,False,False,200.0,Android,10
+8A 2020,Honor,1560,3020,3,2020-04-10,64,False,True,False,False,True,False,False,False,False,False,150.0,Android,9.0
+Ace2,Oppo,2400,4000,8,2020-04-13,128,True,True,True,False,True,True,True,True,False,False,156.8,Android,10
+8 Pro,OnePlus,3168,4510,8,2020-04-14,128,True,True,True,False,True,True,True,True,False,False,369.6,Android,10
+8 5G UW (Verizon),OnePlus,2400,4300,8,2020-04-14,128,True,True,True,False,True,True,True,True,False,False,740.0,Android,10
+8 5G (T-Mobile),OnePlus,2400,4300,8,2020-04-14,128,True,True,True,False,True,True,True,True,False,False,650.0,Android,10
+8,OnePlus,2400,4300,6,2020-04-14,128,True,True,True,False,True,True,True,True,False,False,876.0,Android,10
+Find X2 Neo,Oppo,2400,4025,12,2020-04-15,256,True,True,True,False,True,True,False,False,False,False,240.0,Android,10
+iPhone SE (2020),Apple,1334,1821,3,2020-04-15,64,True,True,True,False,True,True,True,True,False,False,189.5,iOS,13
+30 Pro+,Honor,2340,4000,8,2020-04-15,256,True,True,True,False,False,True,False,False,False,False,650.0,Android,10
+30 Pro,Honor,2340,4000,8,2020-04-15,128,True,True,True,False,False,True,False,False,False,False,670.0,Android,10
+30,Honor,2400,4000,8,2020-04-15,128,True,True,True,False,False,True,False,False,False,True,1170.0,Android,10
+20e,Honor,2340,3400,6,2020-04-16,64,False,True,False,False,False,True,False,False,False,False,180.0,Android,9.0
+9X Lite,Honor,2340,3750,4,2020-04-17,128,False,True,False,False,True,False,False,False,False,False,220.0,Android,9.0
+A92s,Oppo,2400,4000,8,2020-04-20,128,True,True,True,False,True,False,True,False,False,False,230.0,Android,10
+A52,Oppo,2400,5000,8,2020-04-20,64,True,True,True,False,True,False,True,False,False,False,120.0,Android,10
+A12,Oppo,1520,4230,4,2020-04-20,32,False,True,False,False,True,False,False,False,False,False,469.0,Android,9.0
+Find X2 Lite,Oppo,2400,4025,8,2020-04-20,128,True,True,True,False,True,True,False,False,False,False,540.0,Android,10
+A72,Oppo,2400,5000,8,2020-04-21,128,True,True,True,False,True,False,True,False,False,False,520.0,Android,10
+X50m 5G,Realme,2400,4200,8,2020-04-23,128,True,True,True,False,True,True,False,False,False,False,260.0,Android,10
+nova 7 5G,Huawei,2400,4000,8,2020-04-23,128,True,True,True,False,False,True,False,False,False,True,120.0,Android,10
+nova 7 Pro 5G,Huawei,2340,4000,8,2020-04-23,128,True,True,True,False,False,True,False,False,False,True,390.0,Android,10
+Galaxy J2 Core (2020),Samsung,960,2600,1,2020-04-27,16,False,True,False,False,True,False,False,False,False,False,238.19,Android,8.1
+Mi 10 Youth 5G,Xiaomi,2400,4160,8,2020-04-27,64,True,True,True,False,True,True,True,False,False,True,270.0,Android,10
+9C,Honor,1560,4000,4,2020-04-29,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,10
+9A,Honor,1600,5000,3,2020-04-29,64,False,True,False,False,True,False,False,False,False,False,150.0,Android,10
+P smart 2020,Huawei,2340,3400,4,2020-04-29,128,False,True,False,False,False,True,False,False,False,False,480.0,Android,9.0
+9S,Honor,1440,3020,2,2020-04-29,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,10
+Mi Note 10 Lite,Xiaomi,2340,5260,8,2020-04-30,64,True,True,True,False,True,True,True,False,False,True,254.44,Android,10
+Redmi Note 9,Xiaomi,2340,5020,6,2020-04-30,64,False,True,False,False,True,False,False,False,False,False,156.38,Android,10
+Redmi Note 9 Pro,Xiaomi,2400,5020,8,2020-04-30,64,True,True,True,False,True,True,True,False,False,True,220.0,Android,10
+A92,Oppo,2400,5000,8,2020-05-04,128,True,True,True,False,True,False,True,False,False,False,535.0,Android,10
+Y5p,Huawei,1440,3020,2,2020-05-05,32,False,True,False,False,True,False,False,False,False,False,200.0,Android,10
+Y6p,Huawei,1600,5000,4,2020-05-05,32,False,True,False,False,True,False,False,False,False,False,110.0,Android,10
+Y8s,Huawei,2340,4000,4,2020-05-06,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,9.0
+Velvet 5G,LG,2460,4300,8,2020-05-07,128,True,True,True,False,True,True,False,False,False,False,870.0,Android,10
+Narzo 10A,Realme,1600,5000,4,2020-05-11,32,False,True,False,False,True,False,False,False,False,False,100.0,Android,10
+Narzo 10,Realme,1600,5000,4,2020-05-11,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,10
+Redmi K30 5G Racing,Xiaomi,2400,4500,6,2020-05-11,128,True,True,True,False,True,True,True,False,False,True,260.0,Android,10
+Poco F2 Pro,Xiaomi,2400,4700,8,2020-05-12,128,True,True,True,True,True,True,True,True,False,True,247.66,Android,10
+P30 Pro New Edition,Huawei,2340,4200,8,2020-05-12,128,True,True,True,False,True,True,False,False,False,True,140.0,Android,10
+Galaxy A Quantum,Samsung,2400,4500,8,2020-05-14,128,True,True,True,False,True,True,True,True,False,True,299.99,Android,10
+Galaxy A21s,Samsung,1600,5000,6,2020-05-15,32,False,True,False,False,True,False,False,False,False,False,500.0,Android,10
+P40 lite 5G,Huawei,2400,4000,8,2020-05-15,128,True,True,True,False,True,False,False,False,False,False,820.0,Android,10
+Y8p,Huawei,2400,4000,6,2020-05-18,128,False,True,False,False,True,False,False,False,False,False,247.83,Android,10
+V6,Honor,2000,7250,8,2020-05-19,64,False,True,False,False,True,False,False,False,False,False,280.0,Android,10
+X10 5G,Honor,2400,4300,8,2020-05-20,64,True,True,True,False,True,True,False,False,False,True,250.0,Android,10
+Galaxy S20 5G UW,Samsung,3200,4000,8,2020-05-20,128,True,True,True,True,True,True,True,True,False,True,440.0,Android,10
+Stylo 6,LG,2460,4000,3,2020-05-20,64,False,True,False,False,True,False,False,False,False,False,360.0,Android,10
+Q61,LG,2340,4000,4,2020-05-21,64,False,True,False,False,True,False,False,False,False,False,200.0,Android,9.0
+Enjoy Z 5G,Huawei,2400,4000,8,2020-05-24,64,True,True,True,False,True,False,False,False,False,False,260.0,Android,10
+Redmi K30i 5G,Xiaomi,2400,4500,8,2020-05-25,128,True,True,True,False,True,False,False,False,False,False,250.0,Android,10
+X50 Pro Player,Realme,2400,4200,6,2020-05-25,128,True,True,True,False,False,True,False,False,False,True,350.0,Android,10
+Redmi 10X 4G,Xiaomi,2340,5020,6,2020-05-26,128,False,True,False,False,True,False,False,False,False,False,130.0,Android,10
+Redmi 10X 5G,Xiaomi,2400,4520,8,2020-05-26,64,True,True,True,False,True,True,False,False,False,True,200.0,Android,10
+Redmi 10X Pro 5G,Xiaomi,2400,4520,8,2020-05-26,128,True,True,True,False,True,True,False,False,False,True,290.0,Android,10
+X3 SuperZoom,Realme,2400,4200,8,2020-05-26,128,True,True,True,False,False,True,False,False,False,True,300.0,Android,10
+6S,Realme,2400,4300,6,2020-05-26,64,True,True,True,False,True,False,True,False,False,False,200.0,Android,11
+8S 2020,Honor,1520,3020,3,2020-05-27,64,False,True,False,False,True,False,False,False,False,False,110.0,Android,9.0
+Galaxy M01,Samsung,1520,4000,3,2020-06-02,32,False,True,False,False,True,False,False,False,False,False,130.0,Android,10
+Play4 Pro,Honor,2400,4200,8,2020-06-03,128,True,True,True,False,True,True,False,False,False,True,360.0,Android,10
+Play4,Honor,2400,4300,8,2020-06-03,128,True,True,True,False,True,False,False,False,False,False,250.0,Android,10
+Reno4 5G,Oppo,2400,4000,8,2020-06-05,128,True,True,True,False,True,False,True,False,False,False,100.0,Android,10
+Reno4 Pro 5G,Oppo,2400,4000,8,2020-06-05,128,True,True,True,False,True,False,True,False,False,False,240.0,Android,10
+P Smart S,Huawei,2400,4000,4,2020-06-09,128,False,True,False,False,True,False,False,False,False,False,240.0,Android,10
+Redmi 9,Xiaomi,2340,5020,6,2020-06-10,32,False,True,False,False,True,False,False,False,False,False,100.62,Android,10
+Enjoy 20 Pro,Huawei,2400,4000,8,2020-06-19,128,True,True,True,False,True,False,False,False,False,False,220.0,Android,10
+A11k,Oppo,1520,4230,2,2020-06-22,32,False,True,False,False,True,False,False,False,False,False,440.0,Android,9.0
+Narzo,Realme,2400,4300,4,2020-06-23,128,True,True,True,False,True,False,True,False,False,False,190.0,Android,10
+C3i,Realme,1600,5000,2,2020-06-24,32,True,True,False,False,True,False,True,False,False,False,100.0,Android,10
+X3,Realme,2400,4200,8,2020-06-25,128,True,True,True,False,False,True,False,False,False,True,290.0,Android,10
+Redmi 9C,Xiaomi,1600,5000,4,2020-06-30,32,False,True,False,False,True,False,False,False,False,False,77.77,Android,10
+C11,Realme,1560,5000,3,2020-06-30,32,False,True,False,False,True,False,False,False,False,False,126.99,Android,10
+Redmi 9A,Xiaomi,1600,5000,6,2020-06-30,32,False,True,False,False,False,True,False,False,False,False,73.99,Android,10
+X10 Max 5G,Honor,2280,5000,8,2020-07-02,64,True,True,True,False,True,False,False,False,False,False,240.0,Android,10
+30 Youth,Honor,2400,4000,8,2020-07-02,64,True,True,True,False,True,False,False,False,False,False,220.0,Android,10
+Galaxy A71 5G UW,Samsung,2400,4500,8,2020-07-07,128,True,True,True,False,True,True,True,True,False,True,220.0,Android,10
+Poco M2 Pro,Xiaomi,2400,5000,6,2020-07-07,64,True,True,True,False,True,True,True,False,False,True,170.0,Android,10
+X50 5G,Realme,2400,4200,8,2020-07-08,128,True,True,True,False,True,True,False,False,False,False,500.0,Android,10
+A12s,Oppo,1520,4230,3,2020-07-14,32,False,True,False,False,True,False,False,False,False,False,270.0,Android,9.0
+Galaxy M01s,Samsung,1520,4000,3,2020-07-16,32,False,True,False,False,True,False,False,False,False,False,60.0,Android,9.0
+Nord,OnePlus,2400,4115,6,2020-07-21,64,True,True,True,False,True,True,True,True,False,False,319.0,Android,10
+Galaxy A01 Core,Samsung,1480,3000,2,2020-07-21,16,False,True,False,False,True,False,False,False,False,False,110.0,Android,10
+Legion Pro,Lenovo,2340,5000,8,2020-07-22,128,True,True,True,False,True,False,False,False,False,False,100.0,Android,10
+Legion Duel,Lenovo,2340,5000,16,2020-07-22,256,True,True,True,False,True,False,False,False,False,False,510.0,Android,10
+Galaxy Z Flip 5G,Samsung,2636,3300,8,2020-07-22,256,True,True,True,False,True,True,True,True,False,True,300.0,Android,10
+6i (India),Realme,2400,4300,6,2020-07-24,64,True,True,True,False,True,False,True,False,False,False,150.0,Android,10
+A72 5G,Oppo,2400,4040,8,2020-07-27,128,True,True,True,False,True,False,True,False,False,False,290.0,Android,10
+Galaxy M01 Core,Samsung,1480,3000,2,2020-07-27,16,False,True,False,False,True,False,False,False,False,False,150.0,Android,10
+Velvet,LG,2460,4300,6,2020-07-28,128,True,True,True,False,True,True,False,False,False,False,470.0,Android,10
+C15,Realme,1600,6000,4,2020-07-28,32,False,True,False,False,True,False,False,False,False,False,95.988,Android,10
+Reno4,Oppo,2400,4015,8,2020-07-29,128,True,True,True,False,True,True,False,False,False,False,355.0,Android,10
+Galaxy M31s,Samsung,2400,6000,8,2020-07-30,128,True,True,True,False,True,False,False,False,False,False,110.0,Android,10
+Black Shark 3S,Xiaomi,2400,4729,12,2020-07-31,128,True,True,True,False,True,True,True,True,False,False,600.0,Android,10
+Reno4 Pro,Oppo,2400,4000,8,2020-07-31,128,True,True,True,False,True,False,True,False,False,False,250.0,Android,10
+V5 5G,Realme,2400,5000,8,2020-08-03,128,True,True,True,False,True,False,True,False,False,False,180.0,Android,10
+Pixel 4a,Google,2340,3140,6,2020-08-03,128,True,True,True,False,True,False,True,False,False,False,330.0,Android,10
+Redmi 9 Prime,Xiaomi,2340,5020,4,2020-08-04,64,False,True,False,False,True,False,False,False,False,False,127.188,Android,10
+K7 5G,Oppo,2400,4025,8,2020-08-04,128,True,True,True,False,True,True,False,False,False,False,1349.0,Android,10
+Galaxy Note20 5G,Samsung,2400,4300,8,2020-08-05,128,True,True,True,True,True,True,True,True,False,True,850.0,Android,10
+Galaxy Note20,Samsung,2400,4300,8,2020-08-05,256,True,True,True,True,True,True,True,True,False,True,800.0,Android,10
+Galaxy Note20 Ultra,Samsung,3088,4500,8,2020-08-05,256,True,True,True,True,True,True,True,True,False,True,261.0,Android,10
+Galaxy Note20 Ultra 5G,Samsung,3088,4500,8,2020-08-05,128,True,True,True,True,True,True,True,True,False,True,1250.0,Android,10
+Galaxy Z Fold2 5G,Samsung,2208,4500,12,2020-08-05,256,True,True,True,False,True,True,True,True,False,True,850.0,Android,10
+Redmi K30 Ultra,Xiaomi,2400,4500,8,2020-08-11,128,True,True,True,False,True,True,False,False,False,True,250.0,Android,10
+Mi 10 Ultra,Xiaomi,2340,4500,8,2020-08-11,128,True,True,True,True,False,True,False,False,False,True,650.0,Android,10
+C12,Realme,1560,6000,4,2020-08-14,32,False,True,False,False,True,False,False,False,False,False,110.0,Android,10
+Galaxy A51 5G UW,Samsung,2400,4500,6,2020-08-14,128,True,True,True,False,True,False,True,False,False,False,960.0,Android,10
+Velvet 5G UW,LG,2460,4300,6,2020-08-19,128,True,True,True,False,True,True,False,False,False,False,270.0,Android,10
+A53,Oppo,1600,5000,6,2020-08-20,64,False,True,False,False,True,False,False,False,False,False,1000.0,Android,10
+K31,LG,1520,3000,2,2020-08-21,32,False,True,False,False,True,False,False,False,False,False,590.0,Android,10
+Q92 5G,LG,2400,4000,6,2020-08-24,128,True,True,True,False,True,False,False,False,False,False,150.0,Android,10
+Redmi 9 (India),Xiaomi,1600,5000,4,2020-08-27,64,False,True,False,False,True,False,False,False,False,False,110.0,Android,10
+Redmi 9C NFC,Xiaomi,1600,5000,4,2020-08-27,32,False,True,False,False,True,False,False,False,False,False,100.0,Android,10
+Galaxy M51,Samsung,2400,7000,8,2020-08-31,128,True,True,True,False,True,False,False,False,False,False,470.0,Android,10
+X7 Pro,Realme,2400,4500,8,2020-09-01,128,True,True,True,False,False,True,True,False,False,False,470.0,Android,10
+X7,Realme,2400,4300,8,2020-09-01,128,True,True,True,False,True,False,True,False,False,False,330.0,Android,10
+V3,Realme,1600,5000,8,2020-09-01,64,True,True,True,False,False,True,False,False,False,False,120.0,Android,10
+F17 Pro,Oppo,2400,4015,8,2020-09-02,128,True,True,True,False,True,False,True,False,False,False,330.0,Android,10
+F17,Oppo,2400,4015,8,2020-09-02,64,False,True,False,False,True,False,False,False,False,False,230.0,Android,10
+Galaxy A42 5G,Samsung,1600,5000,8,2020-09-02,128,True,True,True,False,True,False,False,False,True,False,470.0,Android,10
+Enjoy 20 Plus 5G,Huawei,2400,4200,8,2020-09-03,128,True,True,True,False,True,False,False,False,False,False,210.0,Android,10
+7 (Asia),Realme,2400,5000,8,2020-09-03,64,True,True,True,False,True,False,True,False,False,False,170.0,Android,10
+7 Pro,Realme,2400,4500,8,2020-09-03,128,True,True,True,False,True,False,True,False,False,False,340.0,Android,10
+Enjoy 20 5G,Huawei,1600,5000,6,2020-09-03,64,False,True,False,False,True,False,False,False,False,False,250.0,Android,10
+Poco X3 NFC,Xiaomi,2400,5160,8,2020-09-07,64,True,True,True,False,True,True,True,False,False,True,260.0,Android,10
+Y9a,Huawei,2400,4300,8,2020-09-07,128,True,True,True,False,True,False,False,False,False,False,280.0,Android,10
+Poco M2,Xiaomi,2340,5000,6,2020-09-08,64,False,True,False,False,True,False,False,False,False,False,125.988,Android,10
+Redmi 9AT,Xiaomi,1600,5000,2,2020-09-09,32,False,True,False,False,False,True,False,False,False,False,75.73,Android,10
+A32,Oppo,1600,5000,8,2020-09-10,64,False,True,False,False,True,False,False,False,False,False,120.0,Android,10
+30i,Honor,2400,4000,4,2020-09-11,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,10
+K22,LG,1520,3000,3,2020-09-12,32,False,True,False,False,True,False,False,False,False,False,360.0,Android,10
+Wing 5G,LG,2460,4000,8,2020-09-14,128,True,True,True,False,False,True,False,False,False,False,140.0,Android,10
+Redmi 9i,Xiaomi,1600,5000,4,2020-09-15,64,False,True,False,False,True,False,False,False,False,False,113.988,Android,10
+Q31,LG,1520,3000,3,2020-09-17,32,False,True,False,False,True,False,False,False,False,False,130.0,Android,10
+7i,Realme,1600,5000,8,2020-09-17,64,False,True,False,False,True,False,False,False,False,False,180.0,Android,10
+Xperia 5 II,Sony,2520,4000,8,2020-09-17,128,True,True,True,False,False,False,True,False,False,False,650.0,Android,10
+K71,LG,2460,4000,4,2020-09-21,128,False,True,False,False,True,False,False,False,False,False,850.0,Android,10
+K42,LG,1600,4000,3,2020-09-21,64,False,True,False,False,True,False,False,False,False,False,140.0,Android,10
+Reno4 SE,Oppo,2400,4300,8,2020-09-21,128,True,True,True,False,True,False,True,False,False,False,390.0,Android,10
+Narzo 20,Realme,1600,6000,4,2020-09-21,64,False,True,False,False,False,True,False,False,False,False,130.0,Android,10
+C17,Realme,1600,5000,6,2020-09-21,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,10
+Narzo 20A,Realme,1600,5000,4,2020-09-21,32,True,True,True,False,True,False,True,False,False,False,100.0,Android,10
+Narzo 20 Pro,Realme,2400,4500,8,2020-09-21,64,True,True,True,False,True,True,False,False,False,False,170.0,Android,10
+Poco X3,Xiaomi,2400,6000,8,2020-09-22,64,True,True,True,False,True,True,True,False,False,True,191.88,Android,10
+K62,LG,1600,4000,4,2020-09-23,64,False,True,False,False,True,False,False,False,False,False,290.0,Android,10
+K52,LG,1600,4000,4,2020-09-23,64,False,True,False,False,True,False,False,False,False,False,220.0,Android,10
+Galaxy S20 FE,Samsung,2400,4500,8,2020-09-23,128,True,True,True,False,False,True,False,False,False,False,299.99,Android,10
+Galaxy S20 FE 5G,Samsung,2400,4500,8,2020-09-23,128,True,True,True,False,False,True,False,False,False,False,390.0,Android,10
+Q52,LG,1600,4000,4,2020-09-26,64,False,True,False,False,True,False,False,False,False,False,240.0,Android,10
+P smart 2021,Huawei,2400,5000,4,2020-09-28,64,False,True,False,False,False,True,False,False,False,False,200.0,Android,10
+Reno4 Lite,Oppo,2400,4015,8,2020-09-28,128,True,True,True,False,True,False,True,False,False,False,168.92,Android,10
+A33 (2020),Oppo,1600,5000,4,2020-09-28,32,False,True,False,False,True,False,False,False,False,False,190.0,Android,10
+K92 5G,LG,2400,4000,6,2020-09-29,128,True,True,True,False,True,False,False,False,False,False,340.0,Android,10
+Reno4 Z 5G,Oppo,2400,4000,8,2020-09-29,128,True,True,True,False,True,False,False,False,False,False,150.0,Android,10
+Pixel 5,Google,2340,4080,8,2020-09-30,128,True,True,True,False,True,True,True,True,False,False,238.0,Android,11
+Mi 10T Pro 5G,Xiaomi,2400,5000,8,2020-09-30,128,True,True,True,True,True,True,True,False,False,False,369.31,Android,10
+Pixel 4a 5G,Google,2340,3885,6,2020-09-30,128,True,True,True,False,True,True,True,True,False,False,380.0,Android,11
+Mi 10T 5G,Xiaomi,2400,5000,8,2020-09-30,128,True,True,True,True,True,True,False,False,False,True,429.99,Android,10
+Mi 10T Lite 5G,Xiaomi,2400,4820,6,2020-09-30,64,True,True,True,False,True,True,True,True,False,True,322.99,Android,10
+A93,Oppo,2400,4000,8,2020-10-01,128,True,True,True,False,True,False,True,False,False,False,200.0,Android,10
+A73,Oppo,2400,4015,6,2020-10-05,128,False,True,False,False,True,False,False,False,False,False,270.0,Android,10
+Poco C3,Xiaomi,1600,5000,4,2020-10-06,32,False,True,False,False,True,False,False,False,False,False,80.0,Android,10
+7 (Global),Realme,2400,5000,8,2020-10-07,64,True,True,True,False,True,False,True,False,False,False,250.0,Android,10
+Galaxy F41,Samsung,2340,6000,6,2020-10-08,64,True,True,True,False,True,False,False,False,False,False,330.0,Android,10
+Reno4 F,Oppo,2400,4000,8,2020-10-10,128,True,True,True,False,True,False,True,False,False,False,370.0,Android,10
+A53s,Oppo,1600,5000,4,2020-10-12,64,False,True,False,False,True,False,False,False,False,False,320.0,Android,10
+iPhone 12 Pro,Apple,2532,2815,6,2020-10-13,128,True,True,True,False,True,True,True,True,False,False,567.86,iOS,14.1
+iPhone 12,Apple,2532,2815,4,2020-10-13,64,True,True,True,False,True,True,True,True,False,False,607.0,iOS,14.1
+iPhone 12 Pro Max,Apple,2778,3687,6,2020-10-13,128,True,True,True,False,True,True,True,True,False,False,1298.67,iOS,14.1
+Q2i,Realme,1600,5000,4,2020-10-13,128,True,True,True,False,False,True,False,False,False,False,130.0,Android,10
+Q2,Realme,2400,5000,6,2020-10-13,128,True,True,True,False,True,False,True,False,False,False,160.0,Android,10
+Q2 Pro,Realme,2400,4300,8,2020-10-13,128,True,True,True,False,True,False,True,False,False,False,310.0,Android,10
+iPhone 12 mini,Apple,2340,2227,4,2020-10-13,64,True,True,True,False,True,True,True,True,False,False,868.24,iOS,14.1
+8T,OnePlus,2400,4500,8,2020-10-14,128,True,True,True,False,True,True,True,True,False,False,269.0,Android,11
+Galaxy M31 Prime,Samsung,2340,6000,6,2020-10-14,128,True,True,True,False,True,False,False,False,False,False,200.0,Android,10
+8T+ 5G,OnePlus,2400,4500,12,2020-10-14,256,True,True,True,False,True,True,True,True,False,False,640.0,Android,11
+A15,Oppo,1600,4230,3,2020-10-15,32,False,True,False,False,True,False,False,False,False,False,130.0,Android,10
+A8 2020,Lenovo,1560,5000,4,2020-10-15,64,False,True,False,False,True,False,False,False,False,False,90.0,Android,10
+nova 7 SE 5G Youth,Huawei,2400,4000,8,2020-10-16,128,True,True,True,False,True,False,False,False,False,False,160.0,Android,10
+Y7a,Huawei,2400,5000,4,2020-10-21,64,False,True,False,False,False,True,False,False,False,False,230.0,Android,10
+Mate 40 Pro+,Huawei,2772,4400,8,2020-10-22,256,True,True,True,False,False,True,False,False,True,True,790.0,Android,10
+Mate 40 Pro,Huawei,2772,4400,8,2020-10-22,128,True,True,True,False,False,True,False,False,True,True,630.0,Android,10
+Mate 40 RS Porsche Design,Huawei,2772,4400,8,2020-10-22,256,True,True,True,False,False,True,False,False,True,True,1400.0,Android,10
+Mate 30E Pro 5G,Huawei,2400,4500,8,2020-10-22,128,True,True,True,False,False,True,True,False,False,True,290.0,Android,10
+Mate 40,Huawei,2376,4200,8,2020-10-22,128,True,True,True,False,True,True,True,True,False,True,680.0,Android,10
+Nord N100,OnePlus,1600,5000,4,2020-10-26,64,False,True,False,False,True,False,False,False,False,False,123.22,Android,10
+Nord N10 5G,OnePlus,2400,4300,6,2020-10-26,128,True,True,True,False,True,False,True,False,False,False,226.72,Android,10
+Redmi K30S,Xiaomi,2400,5000,8,2020-10-27,128,True,True,True,True,True,True,False,False,False,True,330.0,Android,10
+C15 Qualcomm Edition,Realme,1600,6000,4,2020-10-28,32,False,True,False,False,True,False,False,False,False,False,110.0,Android,10
+10X Lite,Honor,2400,5000,4,2020-10-29,128,False,True,False,False,False,True,False,False,False,False,230.0,Android,10
+A73 5G,Oppo,2400,4040,8,2020-11-04,128,False,True,False,False,True,False,False,False,False,False,260.0,Android,10
+K7x,Oppo,2400,5000,8,2020-11-04,128,True,True,True,False,True,False,True,False,False,False,349.0,Android,10
+Galaxy M21s,Samsung,2340,6000,4,2020-11-06,64,True,True,True,False,True,False,False,False,False,False,190.0,Android,10
+W31,LG,1600,4000,4,2020-11-06,64,False,True,False,False,True,False,False,False,False,False,130.0,Android,10
+W31+,LG,1600,4000,4,2020-11-06,128,False,True,False,False,True,False,False,False,False,False,140.0,Android,10
+nova 8 SE,Huawei,2400,3800,8,2020-11-06,128,True,True,True,False,True,False,False,False,False,False,1400.0,Android,10
+7 5G,Realme,2400,5000,8,2020-11-19,128,True,True,True,False,True,False,True,False,False,False,276.92,Android,10
+Galaxy A02s,Samsung,1600,5000,4,2020-11-24,16,False,True,False,False,True,False,False,False,False,False,230.0,Android,10
+Poco M3,Xiaomi,2340,6000,6,2020-11-24,64,False,True,False,False,True,False,False,False,False,False,199.99,Android,10
+Galaxy A12,Samsung,1600,5000,6,2020-11-24,32,False,True,False,False,True,False,False,False,False,False,80.0,Android,10
+Redmi Note 9 5G,Xiaomi,2340,5000,8,2020-11-26,64,True,True,True,False,True,True,False,False,False,False,170.0,Android,10
+Redmi Note 9 Pro 5G,Xiaomi,2400,4820,8,2020-11-26,128,True,True,True,False,True,True,False,False,False,False,370.0,Android,10
+Redmi Note 9 4G,Xiaomi,2340,6000,8,2020-11-26,128,False,True,False,False,True,False,False,False,False,False,130.0,Android,10
+K12 Pro,Lenovo,1640,6000,4,2020-12-09,64,False,True,False,False,False,True,False,False,False,False,130.0,Android,10
+K12 (China),Lenovo,1600,5000,4,2020-12-09,64,False,True,False,False,False,True,False,False,False,False,100.0,Android,10
+Reno5 Pro 5G,Oppo,2400,4350,8,2020-12-10,128,True,True,True,False,True,False,True,False,False,False,529.0,Android,11
+Reno5 5G,Oppo,2400,4300,8,2020-12-10,128,True,True,True,False,True,False,True,False,False,False,280.0,Android,11
+Redmi 9 Power,Xiaomi,2340,6000,6,2020-12-17,64,False,True,False,False,True,False,False,False,False,False,120.0,Android,10
+A15s,Oppo,1600,4230,4,2020-12-18,64,False,True,False,False,True,False,False,False,False,False,299.0,Android,10
+A53 5G,Oppo,2400,4040,8,2020-12-18,128,True,True,True,False,True,False,True,False,False,False,169.0,Android,10
+7i (Global),Realme,1600,6000,4,2020-12-22,64,False,True,False,False,False,True,False,False,False,False,190.0,Android,10
+nova 8 Pro 5G,Huawei,2676,4000,8,2020-12-23,128,True,True,True,False,False,True,False,False,False,True,410.0,Android,10
+nova 8 5G,Huawei,2340,3800,8,2020-12-23,128,True,True,True,False,False,True,False,False,False,True,160.0,Android,10
+Enjoy 20 SE,Huawei,2400,5000,8,2020-12-23,128,False,True,False,False,False,True,False,False,False,False,330.0,Android,10
+Reno5 Pro+ 5G,Oppo,2400,4500,8,2020-12-24,128,True,True,True,False,True,True,True,True,False,False,250.0,Android,11
+Mi 11,Xiaomi,3200,4600,6,2020-12-28,128,True,True,True,True,True,True,True,True,False,False,792.43,Android,11
+Reno5 4G,Oppo,2400,4310,8,2020-12-31,128,True,True,True,False,True,True,False,False,True,True,240.0,Android,11
+Mi 10i 5G,Xiaomi,2400,4820,8,2021-01-05,128,True,True,True,False,True,True,True,False,False,True,250.0,Android,10
+Galaxy M02s,Samsung,1600,5000,4,2021-01-07,32,False,True,False,False,True,False,False,False,False,False,220.0,Android,10
+V15 5G,Realme,2400,4310,8,2021-01-07,128,True,True,True,False,True,False,True,False,False,False,190.0,Android,10
+Redmi Note 9T,Xiaomi,2340,5000,6,2021-01-08,64,True,True,True,False,True,True,False,False,False,False,163.98,Android,10
+Redmi 9T,Xiaomi,2340,6000,6,2021-01-08,64,False,True,False,False,True,False,False,False,False,False,189.99,Android,10
+Galaxy A32 5G,Samsung,1600,5000,8,2021-01-13,64,True,True,True,False,True,False,True,False,False,False,100.0,Android,11
+Galaxy S21 Ultra 5G,Samsung,3200,5000,16,2021-01-14,128,True,True,True,True,True,True,True,True,False,True,539.47,Android,11
+A93 5G,Oppo,2400,5000,8,2021-01-14,128,False,True,False,False,True,False,False,False,False,False,410.0,Android,11
+Galaxy S21 5G,Samsung,2400,4000,8,2021-01-14,128,True,True,True,True,True,True,True,True,False,True,240.45,Android,11
+Galaxy S21+ 5G,Samsung,2400,4800,8,2021-01-14,128,True,True,True,True,True,True,True,True,False,True,443.89,Android,11
+C20,Realme,1600,5000,2,2021-01-19,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,10
+V40 5G,Honor,2676,4000,8,2021-01-22,128,True,True,True,False,False,False,False,False,False,False,460.0,Android,10
+A55 5G,Oppo,1600,5000,8,2021-01-25,128,False,True,False,False,True,False,False,False,False,False,500.0,Android,11
+Galaxy A02,Samsung,1600,5000,4,2021-01-27,32,False,True,False,False,True,False,False,False,False,False,146.98,Android,10
+Galaxy M02,Samsung,1600,5000,3,2021-02-02,32,False,True,False,False,True,False,False,False,False,False,169.0,Android,10
+X7 (India),Realme,2400,4310,8,2021-02-04,128,True,True,True,False,True,False,True,False,False,False,230.0,Android,10
+Galaxy M12 (India),Samsung,1600,6000,6,2021-02-05,64,False,True,False,False,True,False,False,False,False,False,666.9,Android,11
+V11 5G,Realme,1600,5000,6,2021-02-05,128,True,True,True,False,False,True,False,False,False,False,160.0,Android,11
+Galaxy F62,Samsung,2400,7000,8,2021-02-15,128,True,True,True,False,True,False,False,False,False,False,130.0,Android,11
+Mate X2,Huawei,2480,4500,8,2021-02-22,256,True,True,True,False,False,True,False,False,False,False,600.0,Android,10
+W41 Pro,LG,1600,5000,6,2021-02-22,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,10
+W41+,LG,1600,5000,4,2021-02-22,128,False,True,False,False,True,False,False,False,False,False,170.0,Android,10
+W41,LG,1600,5000,4,2021-02-22,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,10
+Galaxy M62,Samsung,2400,7000,8,2021-02-24,128,True,True,True,False,True,False,False,False,False,False,270.0,Android,11
+Narzo 30A,Realme,1600,6000,4,2021-02-24,32,False,True,False,False,True,False,False,False,False,False,435.0,Android,10
+Narzo 30 Pro 5G,Realme,2400,5000,8,2021-02-24,64,True,True,True,False,True,False,True,False,False,False,200.0,Android,10
+Redmi K40,Xiaomi,2400,4520,6,2021-02-25,128,True,True,True,False,True,True,False,False,False,True,280.0,Android,11
+Redmi K40 Pro,Xiaomi,2400,4520,6,2021-02-25,128,True,True,True,True,True,True,False,False,False,True,360.0,Android,11
+Redmi K40 Pro+,Xiaomi,2400,4520,12,2021-02-25,256,True,True,True,True,True,True,False,False,False,True,470.0,Android,11
+Reno5 K,Oppo,2400,4300,8,2021-02-25,128,True,True,True,False,True,False,True,False,False,False,310.0,Android,11
+Galaxy A32,Samsung,2400,5000,8,2021-02-25,64,False,True,False,False,True,False,False,False,False,False,274.44,Android,11
+P40 4G,Huawei,2340,3800,8,2021-02-26,128,True,True,True,False,False,True,False,False,False,True,2300.0,Android,10
+Mi Mix Fold,Xiaomi,2480,5020,16,2021-03-01,256,True,True,True,True,True,True,False,False,False,False,1300.0,Android,10
+Redmi Note 10S,Xiaomi,2400,5000,8,2021-03-04,64,True,True,True,False,True,True,True,False,False,True,179.0,Android,11
+Redmi Note 10 Pro,Xiaomi,2400,5020,8,2021-03-04,64,True,True,True,False,True,True,False,False,False,False,199.0,Android,11
+Redmi Note 10 5G,Xiaomi,2400,5000,8,2021-03-04,64,False,True,False,False,True,False,False,False,False,False,176.4,Android,11
+Redmi Note 10,Xiaomi,2400,5000,6,2021-03-04,64,True,True,True,False,True,True,False,False,False,False,249.99,Android,11
+Redmi Note 10 Pro Max,Xiaomi,2400,5020,8,2021-03-04,64,True,True,True,False,True,True,True,False,False,True,220.0,Android,11
+Redmi Note 10 Pro (India),Xiaomi,2400,5020,8,2021-03-04,64,True,True,True,False,True,True,True,False,False,True,180.0,Android,11
+Galaxy Xcover 5,Samsung,1480,3000,4,2021-03-04,64,False,True,False,False,True,False,False,False,False,False,215.98,Android,11
+GT 5G,Realme,2400,4500,8,2021-03-04,128,True,True,True,False,True,True,True,True,False,False,349.99,Android,11
+A94,Oppo,2400,4310,8,2021-03-05,128,True,True,True,False,True,False,True,False,False,False,260.0,Android,11
+C21,Realme,1600,5000,4,2021-03-05,32,False,True,False,False,True,False,False,False,False,False,141.04,Android,10
+F19 Pro+ 5G,Oppo,2400,4310,8,2021-03-08,128,True,True,True,False,True,False,True,False,False,False,370.0,Android,11
+F19 Pro,Oppo,2400,4310,8,2021-03-08,128,True,True,True,False,True,False,True,False,False,False,200.0,Android,11
+Mi 10S,Xiaomi,2340,4780,8,2021-03-10,128,True,True,True,True,True,True,True,False,False,False,430.0,Android,11
+Mate 40E,Huawei,2376,4200,8,2021-03-10,128,True,True,True,False,False,False,False,False,False,False,500.0,Android,10
+Find X3 Lite,Oppo,2400,4300,8,2021-03-11,128,True,True,True,False,True,False,True,False,False,False,250.0,Android,11
+Find X3 Neo,Oppo,2400,4500,12,2021-03-11,128,True,True,True,False,False,True,False,False,False,False,275.0,Android,11
+Find X3,Oppo,3216,4500,8,2021-03-11,128,True,True,True,False,True,True,True,True,False,False,300.0,Android,11
+Find X3 Pro,Oppo,3216,4500,8,2021-03-11,256,True,True,True,False,True,True,True,True,False,False,250.0,Android,11
+Galaxy A52 5G,Samsung,2400,4500,8,2021-03-17,128,True,True,True,False,True,True,False,False,False,False,364.88,Android,11
+Galaxy A72,Samsung,2400,5000,8,2021-03-17,128,True,True,True,False,True,True,False,False,False,False,449.9,Android,11
+Galaxy A52,Samsung,2400,4500,8,2021-03-17,128,True,True,True,False,True,True,False,False,False,False,349.0,Android,11
+Reno5 F,Oppo,2400,4310,8,2021-03-17,128,True,True,True,False,True,False,True,False,False,False,130.0,Android,11
+Poco F3,Xiaomi,2400,4520,8,2021-03-22,128,True,True,True,False,True,True,False,False,False,True,380.0,Android,11
+Poco X3 Pro,Xiaomi,2400,5160,8,2021-03-22,128,True,True,True,False,True,True,True,True,False,True,274.09,Android,11
+V40 Lite,Honor,2340,3800,8,2021-03-23,128,True,True,True,False,False,True,False,False,False,True,390.0,Android,10
+9R,OnePlus,2400,4500,8,2021-03-23,128,True,True,True,False,True,True,True,True,False,False,308.0,Android,10
+9,OnePlus,2400,4500,8,2021-03-23,128,True,True,True,True,True,True,True,True,False,False,304.2,Android,11
+Reno5 Lite,Oppo,2400,4310,8,2021-03-23,128,True,True,True,False,True,False,True,False,False,False,260.0,Android,11
+9 Pro,OnePlus,3216,4500,8,2021-03-23,128,True,True,True,True,True,True,True,True,False,False,372.4,Android,11
+C25,Realme,1600,6000,4,2021-03-23,64,False,True,False,False,True,False,False,False,False,False,140.0,Android,11
+Black Shark 4,Xiaomi,2400,4500,6,2021-03-23,128,True,True,True,False,True,True,True,True,False,True,930.0,Android,11
+Black Shark 4 Pro,Xiaomi,2400,4500,8,2021-03-23,128,True,True,True,False,True,True,True,True,False,True,500.0,Android,11
+vivo iQOO Neo5 Lite,Vivo,2408,4500,8,2021-03-24,128,True,True,True,False,True,False,False,False,False,False,320.0,Android,11
+8 Pro,Realme,2400,4500,8,2021-03-24,128,True,True,True,False,True,True,False,False,True,True,550.0,Android,11
+8,Realme,2400,5000,8,2021-03-24,64,True,True,True,False,True,False,True,False,False,False,178.9,Android,11
+A54,Oppo,1600,5000,6,2021-03-26,64,False,True,False,False,True,False,False,False,False,False,311.88,Android,10
+Mi 11 Ultra,Xiaomi,3200,5000,8,2021-03-29,256,True,True,True,True,False,True,False,False,False,False,1500.0,Android,11
+Mi 11 Lite,Xiaomi,2400,4250,8,2021-03-29,64,True,True,True,False,True,False,True,False,False,False,478.13,Android,11
+Mi 11i,Xiaomi,2400,4520,8,2021-03-29,128,True,True,True,True,True,True,False,False,False,True,525.0,Android,11
+Mi 11 Lite 5G,Xiaomi,2400,4250,8,2021-03-29,64,True,True,True,False,True,False,True,False,False,False,271.8,Android,11
+Mi 11 Pro,Xiaomi,3200,5000,8,2021-03-29,128,True,True,True,True,False,True,False,False,False,False,561.25,Android,11
+GT Neo,Realme,2400,4500,6,2021-03-31,128,True,True,True,False,False,True,False,False,True,False,260.0,Android,11
+V13 5G,Realme,2400,5000,8,2021-03-31,128,False,True,False,False,True,False,False,False,False,False,210.0,Android,11
+F19,Oppo,2400,5000,6,2021-04-01,128,False,True,False,False,True,False,False,False,False,False,255.0,Android,11
+X7 Pro Ultra,Realme,2400,4500,8,2021-04-02,128,True,True,True,False,False,True,False,False,False,False,310.0,Android,11
+Reno5 Z,Oppo,2400,4310,8,2021-04-04,128,True,True,True,False,True,False,False,False,False,False,161.88,Android,11
+Galaxy F02s,Samsung,1600,5000,4,2021-04-05,32,False,True,False,False,True,False,False,False,False,False,100.0,Android,10
+A74 5G,Oppo,2400,5000,8,2021-04-05,128,False,True,False,False,True,False,False,False,False,False,600.0,Android,11
+A74,Oppo,2400,5000,8,2021-04-05,128,False,True,False,False,True,False,False,False,False,False,405.99,Android,11
+Galaxy F12,Samsung,1600,6000,4,2021-04-05,64,False,True,False,False,True,False,False,False,False,False,130.0,Android,11
+Legion 2 Pro,Lenovo,2460,5500,18,2021-04-08,128,True,True,True,True,True,True,True,True,False,False,880.0,Android,11
+Legion Duel 2,Lenovo,2460,5500,16,2021-04-08,256,True,True,True,True,True,True,True,True,False,False,800.0,Android,11
+Galaxy Quantum 2,Samsung,3200,4500,6,2021-04-13,128,True,True,True,False,True,True,True,True,False,False,520.0,Android,11
+A35,Oppo,1600,4230,4,2021-04-14,64,False,True,False,False,True,False,False,False,False,False,220.0,Android,10
+Xperia 1 III,Sony,3840,4500,12,2021-04-14,256,True,True,True,False,False,False,True,False,False,False,495.0,Android,11
+Xperia 5 III,Sony,2520,4500,8,2021-04-14,128,True,True,True,False,False,False,True,False,False,False,589.99,Android,11
+A54 5G,Oppo,2400,5000,4,2021-04-14,64,False,True,False,False,True,False,False,False,False,False,517.28,Android,11
+Xperia 10 III,Sony,2520,4500,6,2021-04-14,128,True,True,True,False,True,False,False,False,False,False,746.0,Android,11
+A94 5G,Oppo,2400,4310,8,2021-04-16,128,True,True,True,False,True,False,False,False,False,False,300.0,Android,11
+Galaxy M12,Samsung,1600,5000,4,2021-04-19,32,False,True,False,False,True,False,False,False,False,False,428.47,Android,11
+Play 5T Youth,Honor,1600,5000,8,2021-04-20,128,False,True,False,False,True,False,False,False,False,False,170.0,Android,10
+8 5G,Realme,2400,5000,8,2021-04-21,64,False,True,False,False,True,False,False,False,False,False,405.0,Android,11
+Poco M2 Reloaded,Xiaomi,2340,5000,4,2021-04-21,64,False,True,False,False,True,False,False,False,False,False,100.0,Android,10
+Q3i 5G,Realme,2400,5000,6,2021-04-22,128,False,True,False,False,True,False,False,False,False,False,130.0,Android,11
+Q3 5G,Realme,2400,5000,8,2021-04-22,128,True,True,True,False,True,True,False,False,False,False,170.0,Android,11
+Q3 Pro 5G,Realme,2400,4500,8,2021-04-22,128,True,True,True,False,False,True,False,False,False,False,210.0,Android,11
+Mi 11X,Xiaomi,2400,4520,8,2021-04-23,128,True,True,True,False,True,True,False,False,False,True,359.988,Android,11
+Mi 11X Pro,Xiaomi,2400,4520,8,2021-04-23,128,True,True,True,True,True,True,False,False,False,True,479.988,Android,11
+vivo iQOO 7 (India),Vivo,2400,4400,8,2021-04-26,128,True,True,True,False,True,False,False,False,False,False,350.0,Android,11
+Play 20,Honor,1600,5000,8,2021-04-26,64,False,True,False,False,True,False,False,False,False,False,110.0,Android,10
+nova 8 Pro 4G,Huawei,2676,4000,8,2021-04-26,128,True,True,True,False,False,True,False,False,False,True,600.0,Android,10
+A53s 5G,Oppo,1600,5000,8,2021-04-27,128,False,True,False,False,True,False,False,False,False,False,151.9,Android,11
+vivo V21e,Vivo,2400,4000,8,2021-04-27,128,True,True,True,False,True,True,False,False,False,False,350.0,Android,11
+A95 5G,Oppo,2400,4310,8,2021-04-27,128,True,True,True,False,True,False,True,False,False,False,215.0,Android,11
+vivo V21,Vivo,2400,4000,8,2021-04-27,128,True,True,True,False,True,True,False,False,False,False,350.0,Android,11
+vivo V21 5G,Vivo,2400,4000,8,2021-04-27,128,True,True,True,False,True,True,False,False,False,False,350.0,Android,11
+Redmi K40 Gaming,Xiaomi,2400,5065,6,2021-04-27,128,True,True,True,False,True,True,True,False,False,True,260.0,Android,11
+Galaxy M42 5G,Samsung,1600,5000,8,2021-04-28,128,True,True,True,False,True,False,False,False,True,False,220.0,Android,11
+vivo Y52s t1,Vivo,2408,5000,8,2021-05-03,128,False,True,False,False,True,False,False,False,False,False,350.0,Android,11
+K9,Oppo,2400,4300,8,2021-05-06,128,True,True,True,False,True,False,True,False,False,False,330.0,Android,11
+C20A,Realme,1600,5000,2,2021-05-11,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,10
+vivo Y12s 2021,Vivo,1600,5000,3,2021-05-12,32,False,True,False,False,True,False,False,False,False,False,350.0,Android,11
+Play5 5G,Honor,2400,3800,8,2021-05-18,128,True,True,True,False,True,False,False,False,False,False,270.0,Android,10
+Narzo 30,Realme,2400,5000,6,2021-05-18,64,True,True,True,False,True,False,True,False,False,False,445.0,Android,11
+vivo Y52 5G,Vivo,2408,5000,4,2021-05-18,128,False,True,False,False,True,False,False,False,False,False,240.0,Android,11
+Poco M3 Pro 5G,Xiaomi,2400,5000,6,2021-05-19,64,False,True,False,False,True,False,False,False,False,False,188.41,Android,11
+Galaxy F52 5G,Samsung,2408,4500,8,2021-05-20,128,True,True,True,False,True,False,True,False,False,False,260.0,Android,11
+vivo X60s,Vivo,2376,4200,8,2021-05-24,128,True,True,True,False,True,False,False,False,False,False,269.0,Android,11
+GT Neo Flash,Realme,2400,4500,8,2021-05-25,256,True,True,True,False,False,True,False,False,True,False,290.0,Android,11
+Redmi Note 8 2021,Xiaomi,2340,4000,4,2021-05-25,64,False,True,False,False,False,False,True,False,False,False,179.0,Android,11
+Q3 Pro Carnival,Realme,2400,4500,8,2021-05-25,128,True,True,True,False,False,True,False,False,False,False,230.0,Android,11
+Redmi Note 10 Pro (China),Xiaomi,2400,5000,8,2021-05-26,128,True,True,True,False,True,True,True,False,False,True,200.0,Android,11
+Narzo 30 5G,Realme,2400,5000,6,2021-05-26,64,False,True,False,False,True,False,False,False,False,False,219.98,Android,11
+Reno6 Pro 5G,Oppo,2400,4500,8,2021-05-27,128,True,True,True,False,True,True,False,False,False,False,170.0,Android,11
+Reno6 5G,Oppo,2400,4300,8,2021-05-27,128,True,True,True,False,True,True,False,False,False,False,264.61,Android,11
+Reno6 Pro+ 5G,Oppo,2400,4500,8,2021-05-27,128,True,True,True,False,False,True,True,False,False,False,260.0,Android,11
+X7 Max 5G,Realme,2400,4500,8,2021-05-31,128,True,True,True,False,False,True,False,False,True,False,310.0,Android,11
+Galaxy A22,Samsung,1600,5000,6,2021-06-03,64,False,True,False,False,True,False,False,False,False,False,310.14,Android,11
+Galaxy A22 5G,Samsung,2400,5000,8,2021-06-03,64,False,False,False,False,True,False,False,False,False,False,229.0,Android,11
+vivo Y70t,Vivo,2340,4500,8,2021-06-03,128,True,True,True,False,True,True,False,False,False,False,270.0,Android,10
+vivo iQOO U3x Standard,Vivo,1600,5000,6,2021-06-07,128,False,True,False,False,True,False,False,False,False,False,212.4,Android,11
+C25s,Realme,1600,6000,4,2021-06-08,64,False,True,False,False,False,True,False,False,False,False,239.95,Android,11
+vivo Y53s,Vivo,2408,5000,8,2021-06-09,128,False,True,False,False,False,True,False,False,False,False,120.0,Android,11
+vivo Y73,Vivo,2400,4000,8,2021-06-10,128,True,True,True,False,True,True,False,False,False,False,230.0,Android,11
+Nord CE 5G,OnePlus,2400,4500,6,2021-06-10,128,True,True,True,False,True,False,True,False,False,False,455.0,Android,11
+50,Honor,2340,4300,6,2021-06-16,128,True,True,True,False,True,True,False,False,False,False,455.0,Android,11
+50 SE,Honor,2388,4000,8,2021-06-16,128,True,True,True,False,True,True,False,False,False,False,310.0,Android,11
+50 Pro,Honor,2676,4000,8,2021-06-16,256,True,True,True,False,True,True,False,False,False,False,480.0,Android,11
+C21Y,Realme,1600,5000,4,2021-06-21,32,False,True,False,False,True,False,False,False,False,False,130.0,Android,10
+Nord N200 5G,OnePlus,2400,5000,4,2021-06-21,64,False,True,False,False,True,False,False,False,False,False,149.99,Android,11
+Galaxy M32,Samsung,2400,6000,8,2021-06-21,64,False,True,False,False,True,False,False,False,False,False,269.99,Android,11
+vivo Y12a,Vivo,1600,5000,3,2021-06-21,32,False,True,False,False,True,False,False,False,False,False,221.88,Android,11
+K13 Note,Lenovo,1600,5000,4,2021-06-22,128,False,True,False,False,True,False,False,False,False,False,120.0,Android,11
+vivo V21e 5G,Vivo,2400,4000,8,2021-06-24,128,True,True,True,False,True,False,False,False,False,False,240.0,Android,11
+vivo X60t Pro+,Vivo,2376,4200,8,2021-06-28,128,True,True,True,True,True,True,False,False,False,False,290.0,Android,11
+C11 (2021),Realme,1600,5000,4,2021-06-28,32,False,True,False,False,True,False,False,False,False,False,89.988,Android,11
+X20 SE,Honor,2400,4000,8,2021-06-30,128,False,True,False,False,True,False,False,False,False,False,240.0,Android,11
+Galaxy F22,Samsung,1600,6000,6,2021-07-06,64,False,True,False,False,True,False,False,False,False,False,170.0,Android,11
+nova 8i,Huawei,2376,4300,8,2021-07-07,128,False,True,False,False,True,False,False,False,False,False,246.68,Android,10
+vivo Y53s 4G,Vivo,2408,5000,8,2021-07-09,128,False,True,False,False,True,False,False,False,False,False,460.0,Android,11
+vivo S10 Pro,Vivo,2400,4050,8,2021-07-15,128,True,True,True,False,True,False,False,False,False,False,650.0,Android,11
+vivo S10,Vivo,2400,4050,8,2021-07-15,128,True,True,True,False,True,False,False,False,False,False,310.89,Android,11
+vivo Y72 5G (India),Vivo,2408,5000,8,2021-07-15,128,False,True,False,False,True,False,False,False,False,False,190.0,Android,11
+A16,Oppo,1600,5000,4,2021-07-17,32,False,True,False,False,True,False,False,False,False,False,309.99,Android,11
+Redmi Note 10T 5G,Xiaomi,2400,5000,6,2021-07-20,64,False,True,False,False,True,False,False,False,False,False,170.0,Android,11
+Reno6 Z,Oppo,2400,4310,8,2021-07-20,128,True,True,True,False,True,False,True,False,False,False,520.0,Android,11
+Galaxy M21 2021,Samsung,2340,6000,6,2021-07-21,64,True,True,True,False,True,True,True,True,False,False,130.0,Android,11
+GT Explorer Master,Realme,2400,4500,8,2021-07-21,128,True,True,True,False,False,True,False,False,False,False,380.0,Android,11
+GT Master,Realme,2400,4300,8,2021-07-21,128,True,True,True,False,True,True,False,False,False,False,499.0,Android,11
+Nord 2 5G,OnePlus,2400,4500,6,2021-07-22,128,True,True,True,False,True,False,True,False,False,False,299.0,Android,11
+Poco F3 GT,Xiaomi,2400,5065,8,2021-07-23,128,True,True,True,False,True,True,True,False,False,True,239.988,Android,11
+A93s 5G,Oppo,2400,5000,8,2021-07-26,128,False,True,False,False,True,False,False,False,False,False,160.0,Android,11
+Reno6,Oppo,2400,4310,8,2021-07-27,128,True,True,True,False,True,False,True,False,False,False,175.95,Android,11
+Poco X3 GT,Xiaomi,2400,5000,8,2021-07-28,128,True,True,True,False,True,False,True,False,False,False,309.52,Android,11
+nova 8 SE Youth,Huawei,2400,4000,8,2021-07-28,128,False,True,False,False,True,False,False,False,False,False,250.0,Android,10
+Play 5T Pro,Honor,2400,4000,8,2021-08-05,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,11
+nova 8,Huawei,2340,3800,8,2021-08-05,128,True,True,True,False,False,True,False,False,False,True,420.0,Android,11
+Galaxy A12 Nacho,Samsung,1600,5000,4,2021-08-09,32,False,True,False,False,True,False,False,False,False,False,249.0,Android,11
+Mix 4,Xiaomi,2400,4500,8,2021-08-10,128,True,True,True,True,False,True,False,False,True,False,660.0,Android,11
+Galaxy Z Flip3 5G,Samsung,2640,3300,8,2021-08-11,128,True,True,True,False,True,True,True,True,False,True,613.0,Android,11
+Galaxy Z Fold3 5G,Samsung,2208,4400,12,2021-08-11,256,True,True,True,False,True,True,True,True,False,True,835.0,Android,11
+Magic3 Pro+,Honor,2772,4600,12,2021-08-12,512,True,True,True,False,False,True,False,False,False,False,1070.0,Android,11
+Magic3,Honor,2772,4600,8,2021-08-12,128,True,True,True,False,False,True,False,False,False,False,670.0,Android,11
+Galaxy A12 (India),Samsung,1600,5000,6,2021-08-12,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,11
+Magic3 Pro,Honor,2772,4600,8,2021-08-12,256,True,True,True,False,False,True,False,False,False,False,800.0,Android,11
+X20,Honor,2376,4300,8,2021-08-13,128,True,True,True,False,True,False,False,False,False,False,250.0,Android,11
+A16s,Oppo,1600,5000,4,2021-08-14,64,False,True,False,False,True,False,False,False,False,False,329.0,Android,11
+Galaxy A52s 5G,Samsung,2400,4500,8,2021-08-17,128,True,True,True,False,True,True,False,False,False,False,334.0,Android,11
+vivo iQOO 8,Vivo,2376,4350,8,2021-08-17,128,True,True,True,False,True,False,False,False,False,False,240.0,Android,11
+Pixel 5a 5G,Google,2400,4680,6,2021-08-17,128,True,True,True,False,True,True,True,True,False,False,357.61,Android,11
+vivo iQOO 8 Pro,Vivo,3200,4500,8,2021-08-17,256,False,True,False,True,True,False,False,False,False,False,370.0,Android,11
+Galaxy A03s,Samsung,1600,5000,4,2021-08-18,32,False,True,False,False,True,False,False,False,False,False,149.0,Android,11
+Redmi 10,Xiaomi,2400,5000,6,2021-08-18,64,False,True,False,False,True,False,False,False,False,False,135.52,Android,11
+vivo Y21,Vivo,1600,5000,4,2021-08-20,64,False,True,False,False,True,False,False,False,False,False,500.0,Android,11
+Xperia 10 III Lite,Sony,2520,4500,6,2021-08-20,64,True,True,True,False,True,False,False,False,False,False,370.0,Android,11
+vivo Y33s,Vivo,2408,5000,8,2021-08-24,64,False,True,False,False,True,False,False,False,False,False,120.0,Android,11
+Galaxy M32 5G,Samsung,1600,5000,8,2021-08-25,128,True,True,True,False,True,False,False,False,False,False,220.0,Android,11
+K13,Lenovo,1600,5000,2,2021-08-30,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,10
+K13 Pro,Lenovo,1600,5000,6,2021-09-01,64,False,True,False,False,False,True,False,False,False,False,150.0,Android,11
+Redmi 10 Prime,Xiaomi,2400,6000,6,2021-09-03,64,False,True,False,False,True,False,False,False,False,False,140.0,Android,11
+nova Y60,Huawei,1600,5000,4,2021-09-07,64,False,True,False,False,True,False,False,False,False,False,150.0,Android,10
+8i,Realme,2412,5000,6,2021-09-09,64,False,True,False,False,True,False,False,False,False,False,149.99,Android,11
+vivo X70 Pro+,Vivo,3200,4500,8,2021-09-09,256,True,True,True,True,True,True,False,False,False,False,660.0,Android,11
+vivo X70 Pro,Vivo,2376,4450,8,2021-09-09,128,True,True,True,False,False,True,False,False,False,False,120.0,Android,11
+vivo X70,Vivo,2376,4400,8,2021-09-09,128,True,True,True,False,False,True,False,False,False,False,500.0,Android,11
+Reno6 Pro 5G (Snapdragon),Oppo,2400,4500,12,2021-09-09,256,True,True,True,False,False,True,True,False,False,False,145.0,Android,11
+8s 5G,Realme,2400,5000,8,2021-09-09,128,False,True,False,False,True,False,False,False,False,False,269.988,Android,11
+Galaxy M22,Samsung,1600,5000,6,2021-09-14,64,False,True,False,False,True,False,False,False,False,False,243.38,Android,11
+iPhone 13 Pro Max,Apple,2778,4352,6,2021-09-14,128,True,True,True,False,True,True,True,True,False,False,897.62,iOS,15
+iPhone 13 mini,Apple,2340,2438,4,2021-09-14,128,True,True,True,False,True,True,True,True,False,False,684.0,iOS,15
+iPhone 13,Apple,2532,3240,4,2021-09-14,128,True,True,True,False,True,True,True,True,False,False,648.0,iOS,15
+iPhone 13 Pro,Apple,2532,3095,6,2021-09-14,128,True,True,True,False,True,True,True,True,False,False,1580.09,iOS,15
+11 Lite 5G NE,Xiaomi,2400,4250,8,2021-09-15,128,True,True,True,False,True,True,True,False,False,True,319.03,Android,11
+11T,Xiaomi,2400,5000,8,2021-09-15,128,True,True,True,False,True,False,False,False,False,False,329.9,Android,11
+11T Pro,Xiaomi,2400,5000,8,2021-09-15,128,True,True,True,True,True,True,False,False,False,False,389.9,Android,11
+C25Y,Realme,1600,5000,6,2021-09-16,64,False,True,False,False,True,False,False,False,False,False,123.18,Android,11
+vivo Y21s,Vivo,1600,5000,6,2021-09-21,128,False,True,False,False,True,False,False,False,False,False,167.88,Android,11
+GT Neo2,Realme,2400,5000,8,2021-09-22,128,True,True,True,False,True,True,False,False,False,False,278.0,Android,11
+vivo iQOO Z5,Vivo,2400,5000,8,2021-09-23,128,True,True,True,False,False,True,False,False,False,False,188.988,Android,11
+Narzo 50i,Realme,1600,5000,4,2021-09-24,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,11
+Narzo 50A,Realme,1600,6000,4,2021-09-24,64,False,True,False,False,False,True,False,False,False,False,125.988,Android,11
+Galaxy M52 5G,Samsung,2400,5000,8,2021-09-24,128,True,True,True,False,True,True,False,False,False,False,398.94,Android,11
+Redmi 9 Activ,Xiaomi,1600,5000,6,2021-09-24,64,False,True,False,False,True,False,False,False,False,False,110.0,Android,10
+K9 Pro,Oppo,2400,4500,8,2021-09-26,128,True,True,True,False,True,False,True,False,False,False,350.0,Android,11
+Civi,Xiaomi,2400,4500,8,2021-09-27,128,True,True,True,False,True,True,True,False,False,True,350.0,Android,11
+F19s,Oppo,2400,5000,6,2021-09-27,128,False,True,False,False,True,False,False,False,False,False,560.0,Android,11
+Redmi 9A Sport,Xiaomi,1600,5000,3,2021-09-28,32,False,True,False,False,False,True,False,False,False,False,89.988,Android,10
+Redmi 9i Sport,Xiaomi,1600,5000,4,2021-09-28,64,False,True,False,False,True,False,False,False,False,False,94.788,Android,10
+Galaxy F42 5G,Samsung,2408,5000,8,2021-09-29,128,False,False,False,False,True,False,False,False,False,False,240.0,Android,11
+Poco C31,Xiaomi,1600,5000,4,2021-09-30,32,False,True,False,False,True,False,False,False,False,False,80.16,Android,10
+A55,Oppo,1600,5000,6,2021-10-01,64,False,True,False,False,True,False,False,False,False,False,399.28,Android,11
+Redmi Note 10 Lite,Xiaomi,2400,5020,6,2021-10-01,64,True,True,True,False,True,True,True,False,False,True,143.988,Android,10
+vivo Y33,Vivo,2408,5000,4,2021-10-04,128,False,True,False,False,True,False,False,False,False,False,560.0,Android,11
+vivo Y20t,Vivo,1600,5000,6,2021-10-11,64,False,True,False,False,True,False,False,False,False,False,520.0,Android,11
+Black Shark 4S Pro,Xiaomi,2400,4500,8,2021-10-13,256,True,True,True,False,True,True,True,True,False,True,650.0,Android,11
+9RT 5G,OnePlus,2400,4500,8,2021-10-13,128,True,True,True,False,True,True,True,True,False,False,789.0,Android,11
+Black Shark 4S,Xiaomi,2400,4500,8,2021-10-13,128,True,True,True,False,True,True,True,True,False,True,360.0,Android,11
+vivo Y3s (2021),Vivo,1600,5000,2,2021-10-18,32,False,True,False,False,True,False,False,False,False,False,720.0,Android,11
+vivo S10e,Vivo,2400,4000,8,2021-10-18,128,True,True,True,False,True,False,False,False,False,False,1040.0,Android,11
+Pixel 6,Google,2400,4614,8,2021-10-19,128,True,True,True,False,True,True,True,True,False,False,339.96,Android,12
+GT Neo2T,Realme,2400,4500,8,2021-10-19,128,True,True,True,False,False,True,False,False,True,False,260.0,Android,11
+Q3s,Realme,2412,5000,8,2021-10-19,128,True,True,True,False,True,True,False,False,False,False,200.0,Android,11
+Pixel 6 Pro,Google,3120,5003,12,2021-10-19,128,True,True,True,False,True,True,True,True,False,False,336.0,Android,12
+vivo T1,Vivo,2400,5000,8,2021-10-20,128,True,True,True,False,False,True,False,False,False,False,250.0,Android,11
+vivo iQOO Z5x,Vivo,2408,5000,8,2021-10-20,128,True,True,True,False,True,True,False,False,False,False,320.0,Android,11
+vivo T1x,Vivo,2408,5000,8,2021-10-20,128,True,True,True,False,True,True,False,False,False,False,180.0,Android,11
+K9s,Oppo,2412,5000,8,2021-10-20,128,True,True,True,False,True,False,True,False,False,False,360.0,Android,11
+vivo Y71t,Vivo,2400,4000,8,2021-10-21,128,False,True,False,False,True,False,False,False,False,False,110.0,Android,11
+50 Lite,Honor,2376,4300,8,2021-10-25,128,False,True,False,False,True,False,False,False,False,False,285.0,Android,11
+A56 5G,Oppo,1600,5000,6,2021-10-25,128,False,True,False,False,True,False,False,False,False,False,230.0,Android,11
+Play5 Youth,Honor,2376,4300,8,2021-10-25,128,True,True,True,False,True,False,False,False,False,False,240.0,Android,11
+Xperia Pro-I,Sony,3840,4500,12,2021-10-26,512,True,True,True,False,False,False,True,False,False,False,998.0,Android,11
+A54s,Oppo,1600,5000,8,2021-10-27,128,False,True,False,False,True,False,False,False,False,False,469.0,Android,11
+Redmi Note 11 Pro+ 5G,Xiaomi,2400,4500,8,2021-10-28,128,True,True,True,False,True,True,True,False,False,True,259.99,Android,11
+Redmi Note 11 (China),Xiaomi,2400,5000,8,2021-10-28,128,False,True,False,False,False,True,False,False,False,False,140.0,Android,11
+Redmi Note 11 Pro (China),Xiaomi,2400,5160,8,2021-10-28,128,True,True,True,False,True,True,True,False,False,True,220.0,Android,11
+X30i,Honor,2388,4000,8,2021-10-28,128,False,True,False,False,True,False,False,False,False,False,190.0,Android,11
+X30 Max,Honor,2280,5000,8,2021-10-28,128,True,True,True,False,True,False,False,False,False,False,320.0,Android,11
+A16K,Oppo,1600,4230,8,2021-11-08,32,False,True,False,False,True,False,False,False,False,False,220.0,Android,11
+vivo V23e,Vivo,2400,4050,8,2021-11-09,128,True,True,True,False,True,False,False,False,False,False,240.0,Android,11
+vivo Y15s,Vivo,1600,5000,4,2021-11-09,32,False,True,False,False,True,False,False,False,False,False,300.0,Android,11
+Poco M4 Pro 5G,Xiaomi,2400,5000,8,2021-11-09,64,False,True,False,False,False,True,False,False,False,False,200.43,Android,11
+vivo Y76s,Vivo,2408,4100,8,2021-11-10,128,False,True,False,False,True,False,False,False,False,False,230.0,Android,11
+Q3t,Realme,2412,5000,8,2021-11-10,256,True,True,True,False,True,True,False,False,False,False,290.0,Android,11
+Galaxy A03 Core,Samsung,1600,5000,2,2021-11-15,32,False,True,False,False,True,False,False,False,False,False,98.78,Android,11
+vivo Y15a,Vivo,1600,5000,4,2021-11-15,64,False,True,False,False,True,False,False,False,False,False,240.0,Android,11
+vivo Y50t,Vivo,2340,4500,8,2021-11-16,128,True,True,True,False,True,True,False,False,False,False,120.0,Android,10
+A95,Oppo,2400,5000,8,2021-11-16,128,False,True,False,False,True,False,False,False,False,False,192.82,Android,11
+vivo Y74s,Vivo,2408,4100,8,2021-11-22,256,False,True,False,False,True,False,False,False,False,False,220.0,Android,11
+vivo V23e 5G,Vivo,2400,4050,8,2021-11-23,128,True,True,True,False,True,False,False,False,False,False,140.0,Android,11
+vivo Y76 5G,Vivo,2408,4100,8,2021-11-23,128,False,True,False,False,True,False,False,False,False,False,320.0,Android,11
+Redmi Note 11 4G,Xiaomi,2400,5000,6,2021-11-25,128,False,True,False,False,True,False,False,False,False,False,164.55,Android,11
+Reno7 SE 5G,Oppo,2400,4500,8,2021-11-25,128,True,True,True,False,True,False,True,False,False,False,499.0,Android,11
+Reno7 Pro 5G,Oppo,2400,4500,8,2021-11-25,256,True,True,True,False,True,False,True,False,False,False,310.0,Android,11
+Reno7 5G (China),Oppo,2400,4500,8,2021-11-25,128,True,True,True,False,True,False,True,False,False,False,230.0,Android,11
+Galaxy A03,Samsung,1600,5000,4,2021-11-26,32,False,True,False,False,True,False,False,False,False,False,155.0,Android,11
+Redmi Note 11T 5G,Xiaomi,2400,5000,8,2021-11-30,64,False,True,False,False,False,True,False,False,False,False,191.988,Android,11
+60,Honor,2400,4800,8,2021-12-01,128,True,True,True,False,True,True,False,False,False,False,500.0,Android,11
+60 Pro,Honor,2652,4800,8,2021-12-01,256,True,True,True,False,True,True,False,False,False,False,390.0,Android,11
+Galaxy A13 5G,Samsung,1600,5000,6,2021-12-02,64,False,True,False,False,True,False,False,False,False,False,163.0,Android,11
+vivo Y55s (2021),Vivo,2408,6000,8,2021-12-04,128,False,True,False,False,True,False,False,False,False,False,190.0,Android,11
+Find N,Oppo,1920,4500,8,2021-12-15,256,True,True,True,False,True,True,True,True,False,False,380.0,Android,11
+Play 30 Plus,Honor,1600,5000,8,2021-12-16,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,11
+X30,Honor,2388,4800,6,2021-12-16,128,False,True,False,False,True,False,False,False,False,False,210.0,Android,11
+vivo Y32,Vivo,1600,5000,8,2021-12-18,64,False,True,False,False,True,False,False,False,False,False,330.0,Android,11
+vivo iQOO Neo5 SE,Vivo,2400,4500,8,2021-12-20,128,True,True,True,False,True,False,False,False,False,False,209.0,Android,11
+vivo iQOO Neo5 S,Vivo,2400,4500,8,2021-12-20,128,True,True,True,False,True,False,False,False,False,False,350.0,Android,11
+vivo S12,Vivo,2400,4200,8,2021-12-22,128,True,True,True,False,True,False,False,False,False,False,210.0,Android,11
+vivo S12 Pro,Vivo,2400,4300,8,2021-12-22,128,True,True,True,False,True,False,False,False,False,False,140.0,Android,11
+K9x,Oppo,2400,5000,8,2021-12-23,128,False,True,False,False,True,False,False,False,False,False,299.0,Android,11
+vivo iQOO U5,Vivo,2408,5000,8,2021-12-24,128,False,True,False,False,True,False,False,False,False,False,300.0,Android,12
+A11s,Oppo,1600,5000,8,2021-12-27,64,False,True,False,False,True,False,False,False,False,False,1070.0,Android,10
+12 Pro,Xiaomi,3200,4600,8,2021-12-28,128,True,True,True,True,False,True,False,False,False,True,620.96,Android,12
+12,Xiaomi,2400,4500,8,2021-12-28,128,True,True,True,True,False,True,False,False,False,True,399.99,Android,12
+12X,Xiaomi,2400,4500,8,2021-12-28,128,True,True,True,True,False,True,False,False,False,True,429.89,Android,11
+vivo Y21t,Vivo,1600,5000,6,2022-01-03,128,False,True,False,False,True,False,False,False,False,False,380.0,Android,11
+vivo Y21t (India),Vivo,2408,5000,4,2022-01-03,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,11
+GT2,Realme,2400,5000,8,2022-01-04,128,True,True,True,False,True,False,False,False,False,False,699.0,Android,12
+Galaxy S21 FE 5G,Samsung,2340,4500,8,2022-01-04,128,True,True,True,False,True,True,True,True,False,True,475.0,Android,12
+GT2 Pro,Realme,3216,5000,8,2022-01-04,128,True,True,True,True,True,True,True,True,False,False,480.0,Android,12
+vivo V23 Pro,Vivo,2376,4300,8,2022-01-05,128,True,True,True,False,True,False,False,False,False,False,183.48,Android,12
+vivo iQOO 9 Pro,Vivo,3200,4700,8,2022-01-05,256,True,True,True,True,True,True,False,False,False,False,260.0,Android,12
+vivo V23 5G,Vivo,2400,4200,8,2022-01-05,128,True,True,True,False,True,False,False,False,False,False,150.0,Android,12
+vivo iQOO 9 (China),Vivo,2400,4700,8,2022-01-05,128,True,True,True,False,True,False,False,False,False,False,230.0,Android,12
+11i HyperCharge 5G,Xiaomi,2400,4500,8,2022-01-06,128,True,True,True,False,True,True,True,False,False,True,300.0,Android,11
+11i,Xiaomi,2400,5160,8,2022-01-06,128,True,True,True,False,True,True,True,False,False,True,262.788,Android,11
+9i,Realme,2412,5000,6,2022-01-10,64,False,True,False,False,True,False,False,False,False,False,144.99,Android,11
+Magic V,Honor,2272,4750,12,2022-01-10,256,True,True,True,False,False,True,False,False,False,False,1400.0,Android,12
+A36,Oppo,1612,5000,8,2022-01-10,128,False,True,False,False,True,False,False,False,False,False,190.0,Android,11
+vivo Y33t,Vivo,2408,5000,8,2022-01-11,128,False,True,False,False,True,False,False,False,False,False,190.0,Android,11
+10 Pro,OnePlus,3216,5000,8,2022-01-11,128,True,True,True,True,True,True,True,True,False,False,439.94,Android,12
+A96 (China),Oppo,2400,4500,8,2022-01-12,128,False,True,False,False,True,False,False,False,False,False,140.0,Android,11
+vivo Y21e,Vivo,1600,5000,3,2022-01-14,64,False,True,False,False,True,False,False,False,False,False,390.0,Android,11
+Reno6 Lite,Oppo,2400,5000,6,2022-01-17,128,False,True,False,False,True,False,False,False,False,False,220.0,Android,11
+vivo Y55 5G,Vivo,2408,5000,6,2022-01-17,128,False,True,False,False,True,False,False,False,False,False,424.15,Android,11
+vivo Y21a,Vivo,1600,5000,4,2022-01-22,64,False,True,False,False,True,False,False,False,False,False,430.0,Android,11
+Redmi Note 11,Xiaomi,2400,5000,6,2022-01-26,64,False,True,False,False,True,False,False,False,False,False,146.99,Android,11
+Redmi Note 11S,Xiaomi,2400,5000,8,2022-01-26,64,False,True,False,False,True,False,False,False,False,False,184.9,Android,11
+Redmi Note 11 Pro,Xiaomi,2400,5000,8,2022-01-26,64,False,True,False,False,True,False,False,False,False,False,222.64,Android,11
+Redmi Note 11 Pro 5G,Xiaomi,2400,5000,8,2022-01-26,64,False,True,False,False,True,False,False,False,False,False,233.22,Android,11
+vivo Y75 5G,Vivo,2408,5000,8,2022-01-27,128,False,True,False,False,True,False,False,False,False,False,393.42,Android,11
+Reno7 5G,Oppo,2400,4500,8,2022-02-04,128,True,True,True,False,True,False,True,False,False,False,280.0,Android,11
+60 SE,Honor,2400,4300,8,2022-02-07,128,False,True,False,False,True,False,False,False,False,False,300.0,Android,11
+Galaxy S22 Ultra 5G,Samsung,3088,5000,8,2022-02-09,128,True,True,True,True,True,True,True,True,False,True,825.0,Android,12
+Galaxy S22 5G,Samsung,2340,3700,8,2022-02-09,128,True,True,True,True,True,True,True,True,False,True,564.98,Android,12
+vivo T1 5G,Vivo,2408,5000,8,2022-02-09,128,False,True,False,False,True,False,False,False,False,False,250.0,Android,11
+Galaxy S22+ 5G,Samsung,2340,4500,8,2022-02-09,128,True,True,True,True,True,True,True,True,False,True,749.9,Android,12
+C35,Realme,2408,5000,6,2022-02-10,64,False,True,False,False,True,False,False,False,False,False,153.5,Android,11
+K14 Plus,Lenovo,1600,5000,4,2022-02-15,64,False,True,False,False,True,False,False,False,False,False,200.0,Android,11
+Redmi 10 2022,Xiaomi,2400,5000,6,2022-02-15,64,False,True,False,False,True,False,False,False,False,False,128.89,Android,11
+9 Pro,Realme,2412,5000,8,2022-02-16,128,False,True,False,False,True,False,False,False,False,False,237.28,Android,12
+9 Pro+,Realme,2400,4500,8,2022-02-16,128,True,True,True,False,True,True,False,False,True,True,621.99,Android,12
+Redmi K50 Gaming,Xiaomi,2400,4700,8,2022-02-16,128,True,True,True,False,False,True,True,False,False,True,460.0,Android,12
+A76,Oppo,1612,5000,6,2022-02-17,128,False,True,False,False,True,False,False,False,False,False,380.0,Android,11
+Nord CE 2 5G,OnePlus,2400,4500,8,2022-02-17,128,True,True,True,False,True,False,True,False,False,False,319.0,Android,11
+vivo iQOO 9 SE,Vivo,2400,4500,8,2022-02-23,128,True,True,True,False,False,True,False,False,False,False,270.0,Android,12
+vivo iQOO 9,Vivo,2376,4350,8,2022-02-23,128,True,True,True,False,False,True,False,False,False,False,180.0,Android,12
+Find X5,Oppo,2400,4800,8,2022-02-24,128,True,True,True,False,True,True,True,True,False,False,174.99,Android,12
+Find X5 Pro,Oppo,3216,5000,8,2022-02-24,256,True,True,True,False,True,True,True,True,False,False,299.0,Android,12
+Narzo 50,Realme,2412,5000,6,2022-02-24,64,False,True,False,False,False,False,True,False,False,False,509.0,Android,11
+Find X5 Lite,Oppo,2400,4500,8,2022-02-24,256,True,True,True,False,True,False,True,False,False,False,335.988,Android,11
+Magic4,Honor,2664,4800,8,2022-02-28,128,True,True,True,False,False,True,False,False,False,False,900.0,Android,12
+Poco M4 Pro,Xiaomi,2400,5000,8,2022-02-28,64,False,True,False,False,True,False,False,False,False,False,267.15,Android,11
+Poco X4 Pro 5G,Xiaomi,2400,5000,8,2022-02-28,64,False,True,False,False,True,False,False,False,False,False,315.87,Android,11
+Magic4 Pro,Honor,2848,4600,8,2022-02-28,256,True,True,True,False,False,True,False,False,False,False,955.0,Android,12
+Legion Y90,Lenovo,2460,5600,18,2022-03-01,256,True,True,True,True,True,True,True,True,False,False,570.0,Android,12
+Legion Y700,Lenovo,2560,6550,8,2022-03-01,128,False,True,False,False,True,False,False,False,False,False,360.0,Android,12
+vivo Y33s 5G,Vivo,1600,5000,8,2022-03-01,128,False,True,False,False,True,False,False,False,False,False,630.0,Android,12
+Reno7 Z 5G,Oppo,2400,4500,8,2022-03-02,128,False,True,False,False,True,False,False,False,False,False,464.78,Android,12
+Redmi Note 11E,Xiaomi,2408,5000,6,2022-03-02,128,False,True,False,False,True,False,False,False,False,False,170.0,Android,11
+Redmi Note 11E Pro,Xiaomi,2400,5000,8,2022-03-02,128,False,True,False,False,True,False,False,False,False,False,240.0,Android,11
+V25,Realme,2412,5000,12,2022-03-03,256,False,True,False,False,True,False,False,False,False,False,290.0,Android,12
+Galaxy M23,Samsung,2408,5000,6,2022-03-04,64,True,True,True,False,True,False,False,False,True,False,219.0,Android,12
+Galaxy M33,Samsung,2408,6000,8,2022-03-04,128,True,True,True,False,True,False,False,False,False,False,223.08,Android,12
+Galaxy A23,Samsung,2408,5000,8,2022-03-04,64,False,True,False,False,True,False,False,False,False,False,210.0,Android,12
+Galaxy A13,Samsung,2408,5000,6,2022-03-04,32,False,True,False,False,True,False,False,False,False,False,160.81,Android,12
+iPhone SE (2022),Apple,1334,2018,4,2022-03-08,64,True,True,True,False,True,True,True,True,False,False,498.0,iOS,15.4
+Galaxy F23,Samsung,2408,5000,6,2022-03-08,128,True,True,True,False,True,False,False,False,True,False,227.88,Android,12
+nova 9 SE,Huawei,2388,4000,8,2022-03-08,128,False,True,False,False,True,False,False,False,False,False,222.61,Android,11
+Redmi Note 11 Pro+ 5G (India),Xiaomi,2400,5000,8,2022-03-09,64,False,True,False,False,True,False,False,False,False,False,250.0,Android,11
+vivo Y01,Vivo,1600,5000,3,2022-03-09,32,False,True,False,False,True,False,False,False,False,False,400.0,Android,11
+9 5G Speed,Realme,2412,5000,8,2022-03-10,128,True,True,True,False,True,False,True,False,False,False,240.0,Android,11
+9 5G (India),Realme,2400,5000,6,2022-03-10,64,False,True,False,False,True,False,False,False,False,False,180.0,Android,11
+X8,Honor,2388,4000,6,2022-03-11,128,False,True,False,False,True,False,False,False,False,False,162.12,Android,11
+A96,Oppo,2412,5000,8,2022-03-16,128,False,True,False,False,True,False,False,False,False,False,350.0,Android,11
+vivo iQOO Z6,Vivo,2408,5000,8,2022-03-16,128,False,True,False,False,True,False,False,False,False,False,510.0,Android,12
+Galaxy A33 5G,Samsung,2400,5000,8,2022-03-17,128,True,True,True,False,True,True,False,False,False,False,243.71,Android,12
+Galaxy A73 5G,Samsung,2400,5000,8,2022-03-17,128,True,True,True,False,True,True,False,False,False,False,399.5,Android,12
+Galaxy A53 5G,Samsung,2400,5000,8,2022-03-17,128,True,True,True,False,True,True,False,False,False,False,309.4,Android,12
+Redmi K50 Pro,Xiaomi,3200,5000,8,2022-03-17,128,True,True,True,False,True,True,True,False,False,True,410.0,Android,12
+Magic4 Ultimate,Honor,2848,4600,12,2022-03-17,512,True,True,True,False,False,True,False,False,False,False,1150.0,Android,12
+Redmi K50,Xiaomi,3200,5500,8,2022-03-17,128,True,True,True,False,True,True,True,False,False,True,475.0,Android,12
+Redmi K40S,Xiaomi,2400,4500,6,2022-03-17,128,True,True,True,False,True,True,True,False,False,True,260.0,Android,12
+Redmi 10 (India),Xiaomi,1650,6000,6,2022-03-17,64,False,True,False,False,True,False,False,False,False,False,116.64,Android,11
+Redmi 10C,Xiaomi,1650,5000,4,2022-03-21,64,False,True,False,False,True,False,False,False,False,False,108.0,Android,11
+A16e,Oppo,1600,4230,4,2022-03-21,32,False,True,False,False,True,False,False,False,False,False,699.99,Android,11
+GT Neo 3,Realme,2412,5000,6,2022-03-22,128,True,True,True,False,False,True,False,False,False,False,839.95,Android,12
+Narzo 50A Prime,Realme,2408,5000,4,2022-03-22,64,False,True,False,False,True,False,False,False,False,False,119.95,Android,11
+GT Neo 3 150W,Realme,2412,4500,8,2022-03-22,256,True,True,True,False,False,True,False,False,False,False,519.95,Android,12
+K10,Oppo,2412,5000,8,2022-03-23,128,False,True,False,False,True,False,False,False,False,False,120.0,Android,11
+Magic4 Lite,Honor,2388,4800,8,2022-03-23,128,False,True,False,False,True,False,False,False,False,False,375.0,Android,11
+C31,Realme,1600,5000,4,2022-03-25,32,False,True,False,False,True,False,False,False,False,False,109.99,Android,11
+vivo iQOO U5x,Vivo,1600,5000,8,2022-03-28,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,11
+Redmi 10A,Xiaomi,1600,5000,6,2022-03-29,32,False,True,False,False,True,False,False,False,False,False,85.58,Android,11
+Redmi Note 11S 5G,Xiaomi,2400,5000,8,2022-03-29,64,False,True,False,False,False,True,False,False,False,False,194.99,Android,11
+Redmi 10 5G,Xiaomi,2408,5000,6,2022-03-29,64,False,True,False,False,True,False,False,False,False,False,159.06,Android,12
+Reno7,Oppo,2400,4500,8,2022-03-29,128,False,True,False,False,True,False,False,False,False,False,234.08,Android,12
+X9 5G,Honor,2388,4800,8,2022-03-29,128,False,True,False,False,True,False,False,False,False,False,240.0,Android,11
+Black Shark 5,Xiaomi,2400,4650,8,2022-03-30,128,True,True,True,False,True,True,True,True,False,True,600.0,Android,12
+Black Shark 5 RS,Xiaomi,2400,4500,8,2022-03-30,256,True,True,True,False,True,True,True,True,False,True,470.0,Android,12
+X7,Honor,1600,5000,6,2022-03-30,128,False,True,False,False,True,False,False,False,False,False,190.0,Android,11
+Black Shark 5 Pro,Xiaomi,2400,4650,8,2022-03-30,128,True,True,True,False,True,True,True,True,False,True,720.0,Android,12
+X9,Honor,2388,4800,8,2022-03-31,128,False,True,False,False,True,False,False,False,False,False,230.0,Android,11
+Galaxy S20 FE 2022,Samsung,2400,4500,6,2022-04-01,128,True,True,True,False,False,True,False,False,False,False,520.0,Android,12
+Play6T,Honor,1600,5000,8,2022-04-07,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,11
+vivo Y21G,Vivo,1600,5000,4,2022-04-07,64,False,True,False,False,True,False,False,False,False,False,150.0,Android,11
+Play6T Pro,Honor,2388,4000,8,2022-04-07,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,11
+9,Realme,2400,5000,8,2022-04-07,128,False,True,False,False,True,False,False,False,False,False,249.96,Android,12
+Galaxy M53,Samsung,2408,5000,8,2022-04-07,128,True,True,True,False,True,True,False,False,False,False,350.0,Android,12
+vivo X Fold,Vivo,2160,4600,12,2022-04-11,256,True,True,True,True,True,True,False,False,False,False,190.0,Android,12
+vivo X Note,Vivo,3080,5000,8,2022-04-11,256,True,True,True,True,True,True,False,False,False,False,140.0,Android,12
+F21 Pro,Oppo,2400,4500,8,2022-04-12,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,12
+F21 Pro 5G,Oppo,2400,4500,8,2022-04-12,128,False,True,False,False,True,False,False,False,False,False,339.0,Android,12
+vivo iQOO Neo6 (China),Vivo,2400,4700,8,2022-04-13,128,True,True,True,False,True,False,False,False,False,False,170.0,Android,12
+V23,Realme,2408,5000,8,2022-04-14,256,False,True,False,False,True,False,False,False,False,False,240.0,Android,12
+Reno7 Lite,Oppo,2400,4500,8,2022-04-14,128,False,True,False,False,True,False,False,False,False,False,280.0,Android,11
+A57,Oppo,1612,5000,8,2022-04-14,128,False,True,False,False,True,False,False,False,False,False,330.0,Android,12
+A55s,Oppo,1600,5000,8,2022-04-18,128,False,True,False,False,True,False,False,False,False,False,350.0,Android,11
+Q5i,Realme,2400,5000,6,2022-04-18,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,12
+Redmi 10 Power,Xiaomi,1650,6000,8,2022-04-20,128,False,True,False,False,True,False,False,False,False,False,149.988,Android,11
+nova Y70 Plus,Huawei,1600,6000,4,2022-04-20,64,False,True,False,False,True,False,False,False,False,False,235.0,EMUI,12
+nova 9 SE 5G,Huawei,2388,4000,8,2022-04-20,128,False,True,False,False,True,False,False,False,False,False,370.0,Android,11
+Q5 Pro,Realme,2400,5000,8,2022-04-20,128,True,True,True,False,True,True,False,False,False,False,330.0,Android,12
+Q5,Realme,2412,5000,8,2022-04-20,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,12
+Civi 1S,Xiaomi,2400,4500,8,2022-04-21,128,True,True,True,False,True,True,True,False,False,True,330.0,Android,12
+Ace,OnePlus,2412,4500,8,2022-04-21,128,True,True,True,False,True,True,True,True,False,False,360.0,Android,12
+K10 5G (China),Oppo,2412,5000,8,2022-04-24,128,True,True,True,False,True,False,True,False,False,False,200.0,Android,12
+K10 Pro,Oppo,2400,5000,8,2022-04-24,128,True,True,True,False,True,True,True,True,False,False,160.0,Android,12
+vivo S15e,Vivo,2404,4700,8,2022-04-25,128,True,True,True,False,True,False,False,False,False,False,1300.0,Android,11
+vivo X80,Vivo,2400,4500,8,2022-04-25,128,True,True,True,False,False,True,False,False,False,False,300.0,Android,12
+vivo X80 Pro,Vivo,3200,4700,8,2022-04-25,256,True,True,True,True,True,True,False,False,False,False,150.0,Android,12
+vivo T1 (Snapdragon 778G),Vivo,2404,4700,8,2022-04-26,128,False,True,False,False,True,False,False,False,False,False,400.0,Android,12
+Poco F4 GT,Xiaomi,2400,4700,8,2022-04-26,128,True,True,True,False,False,True,True,False,False,True,399.9,Android,12
+vivo iQOO Z6 44W,Vivo,2400,5000,8,2022-04-27,128,False,True,False,False,True,False,False,False,False,False,300.0,Android,12
+vivo iQOO Z6 Pro,Vivo,2404,4700,6,2022-04-27,128,True,True,True,False,True,True,False,False,False,False,850.0,Android,12
+Nord N20 5G,OnePlus,2400,4500,6,2022-04-28,128,False,True,False,False,True,False,False,False,False,False,164.99,Android,11
+Mate Xs 2,Huawei,2480,4880,8,2022-04-28,256,True,True,True,False,True,True,True,True,False,False,1995.99,EMUI,12
+10R 150W,OnePlus,2412,4500,12,2022-04-28,256,True,True,True,False,True,False,True,False,False,False,340.0,Android,12
+10R,OnePlus,2412,5000,8,2022-04-28,128,True,True,True,False,True,False,True,False,False,False,395.988,Android,12
+Nord CE 2 Lite 5G,OnePlus,2412,5000,8,2022-04-28,128,False,True,False,False,True,False,False,False,False,False,229.0,Android,12
+Poco M4 5G (India),Xiaomi,2400,5000,6,2022-04-29,64,False,True,False,False,True,False,False,False,False,False,140.16,Android,12
+vivo T1 (Snapdragon 680),Vivo,2400,5000,8,2022-05-04,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,12
+vivo T1 Pro,Vivo,2404,4700,8,2022-05-04,128,False,True,False,False,True,False,False,False,False,False,250.0,Android,12
+vivo iQOO Neo6 SE,Vivo,2400,4700,8,2022-05-06,128,True,True,True,False,True,False,False,False,False,False,300.0,Android,12
+Redmi 10 Prime 2022,Xiaomi,2400,6000,6,2022-05-09,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,11
+Play 30,Honor,1600,5000,8,2022-05-10,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,11
+Xperia 1 IV,Sony,3840,5000,12,2022-05-11,256,True,True,True,False,False,False,True,False,False,False,889.99,Android,12
+Pixel 6a,Google,2400,4410,6,2022-05-11,128,True,True,True,False,True,True,True,True,False,False,285.0,Android,12
+Xperia 10 IV,Sony,2520,5000,6,2022-05-11,128,False,True,False,False,True,False,False,False,False,False,329.99,Android,12
+9 5G,Realme,2412,5000,4,2022-05-12,64,False,True,False,False,True,False,False,False,False,False,199.99,Android,12
+Ace Racing,OnePlus,2412,5000,8,2022-05-17,128,True,True,True,False,True,False,True,False,False,False,280.0,Android,12
+Narzo 50 5G,Realme,2408,5000,6,2022-05-18,64,False,True,False,False,True,False,False,False,False,False,299.0,Android,12
+Narzo 50 Pro,Realme,2400,5000,8,2022-05-18,128,False,True,False,False,True,False,False,False,False,False,233.988,Android,12
+vivo S15 Pro,Vivo,2376,4500,8,2022-05-19,256,True,True,True,False,True,False,False,False,False,False,300.0,Android,12
+vivo S15,Vivo,2400,4500,8,2022-05-19,128,True,True,True,False,True,False,False,False,False,False,190.0,Android,12
+Nord 2T,OnePlus,2400,4500,8,2022-05-19,128,True,True,True,False,True,False,False,False,True,False,309.0,Android,12
+vivo Y75,Vivo,2400,4050,8,2022-05-21,128,False,True,False,False,True,False,False,False,False,False,290.0,Android,12
+Reno8 Pro+,Oppo,2412,4500,8,2022-05-23,256,True,True,True,False,True,False,True,False,False,False,350.0,Android,12
+Reno8 Pro (China),Oppo,2400,4500,8,2022-05-23,128,True,True,True,False,True,False,True,False,False,False,360.0,Android,12
+Reno8 (China),Oppo,2400,4500,8,2022-05-23,128,True,True,True,False,True,False,True,False,False,False,290.0,Android,12
+vivo Y72t,Vivo,2408,6000,8,2022-05-23,128,False,True,False,False,True,False,False,False,False,False,380.0,Android,11
+Redmi Note 11SE,Xiaomi,2400,5000,8,2022-05-24,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,11
+Redmi Note 11T Pro,Xiaomi,2460,5080,6,2022-05-24,128,True,True,True,False,True,True,True,False,False,True,250.0,Android,12
+Redmi Note 11T Pro+,Xiaomi,2460,4400,8,2022-05-24,128,True,True,True,False,True,True,True,False,False,True,300.0,Android,12
+A57 4G,Oppo,1612,5000,4,2022-05-27,64,False,True,False,False,True,False,False,False,False,False,420.0,Android,12
+Galaxy M13,Samsung,2408,5000,4,2022-05-27,64,False,True,False,False,True,False,False,False,False,False,144.8,Android,12
+70 Pro,Honor,2652,4500,8,2022-05-30,256,True,True,True,False,True,True,False,False,False,False,520.0,Android,12
+vivo T2x,Vivo,2408,6000,8,2022-05-30,128,True,True,True,False,True,True,False,False,False,False,480.0,Android,12
+70 Pro+,Honor,2652,4500,8,2022-05-30,256,True,True,True,False,True,True,False,False,False,False,600.0,Android,12
+70,Honor,2400,4800,8,2022-05-30,128,True,True,True,False,True,True,False,False,False,False,529.0,Android,12
+vivo iQOO Neo 6,Vivo,2400,4700,8,2022-05-31,128,True,True,True,False,False,True,False,False,False,False,231.6,Android,12
+K10 5G,Oppo,1612,5000,8,2022-06-01,128,False,True,False,False,True,False,False,False,False,False,209.99,Android,12
+A77,Oppo,1612,5000,6,2022-06-01,64,False,True,False,False,True,False,False,False,False,False,520.0,Android,12
+Galaxy A13 (SM-A137),Samsung,2408,5000,4,2022-06-01,32,False,True,False,False,True,False,False,False,False,False,188.0,Android,12
+Reno8 Lite,Oppo,2400,4500,8,2022-06-04,128,False,True,False,False,True,False,False,False,False,False,169.99,Android,11
+Poco C40,Xiaomi,1650,6000,4,2022-06-06,32,False,True,False,False,True,False,False,False,False,False,89.99,Android,11
+GT Neo 3T,Realme,2400,5000,8,2022-06-07,128,True,True,True,False,True,True,False,False,False,False,514.5,Android,12
+V20,Realme,1600,5000,8,2022-06-13,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,12
+C30,Realme,1600,5000,4,2022-06-20,32,False,True,False,False,True,False,False,False,False,False,87.48,Android,11
+Narzo 50i Prime,Realme,1600,5000,4,2022-06-22,32,False,True,False,False,True,False,False,False,False,False,120.0,Android,11
+Galaxy F13,Samsung,2408,6000,4,2022-06-22,64,False,True,False,False,True,False,False,False,False,False,119.988,Android,12
+Poco F4,Xiaomi,2400,4500,8,2022-06-23,128,True,True,True,False,False,True,False,False,False,False,398.99,Android,12
+Poco X4 GT,Xiaomi,2460,5080,8,2022-06-23,128,True,True,True,False,True,True,False,False,False,False,380.42,Android,12
+nova Y90,Huawei,2388,5000,8,2022-06-23,128,False,True,False,False,True,False,False,False,False,False,219.0,EMUI,12
+Galaxy Xcover6 Pro,Samsung,2408,4050,6,2022-06-29,128,True,True,True,False,True,False,False,False,False,False,425.5,Android,12
+vivo Y55,Vivo,2400,5000,8,2022-07-02,128,False,True,False,False,True,False,False,False,False,False,559.99,Android,12
+vivo Y77,Vivo,2408,5000,8,2022-07-04,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,12
+12S Ultra,Xiaomi,3200,4860,8,2022-07-04,256,True,True,True,True,True,True,True,True,False,False,749.0,Android,12
+12 Pro (Dimensity),Xiaomi,3200,5160,8,2022-07-04,128,True,True,True,False,False,True,True,False,False,False,570.0,Android,12
+12S Pro,Xiaomi,3200,4600,8,2022-07-04,128,True,True,True,True,False,True,False,False,False,True,670.0,Android,12
+12S,Xiaomi,2400,4500,8,2022-07-04,128,True,True,True,True,False,True,False,False,False,False,570.0,Android,12
+vivo Y77 (China),Vivo,2388,4500,6,2022-07-08,128,False,True,False,False,True,False,False,False,False,False,220.0,Android,12
+12 Lite,Xiaomi,2400,4300,8,2022-07-09,128,True,True,True,False,True,False,True,False,False,False,307.72,Android,12
+A97,Oppo,2408,5000,12,2022-07-12,256,False,True,False,False,True,False,False,False,False,False,270.0,Android,12
+GT2 Explorer Master,Realme,2400,5000,8,2022-07-12,256,True,True,True,False,False,True,False,False,False,False,500.0,Android,12
+X40i,Honor,2388,4000,8,2022-07-13,128,False,True,False,False,True,False,False,False,False,False,240.0,Android,12
+Galaxy M13 (India),Samsung,2408,6000,6,2022-07-14,64,False,True,False,False,True,False,False,False,False,False,131.988,Android,12
+Galaxy M13 5G,Samsung,1600,5000,6,2022-07-14,64,False,True,False,False,True,False,False,False,False,False,207.05,Android,12
+Reno8 Pro,Oppo,2412,4500,8,2022-07-18,256,True,True,True,False,True,True,True,True,False,True,310.0,Android,12
+Reno8,Oppo,2400,4500,8,2022-07-18,128,True,True,True,False,True,False,True,False,False,False,339.0,Android,12
+vivo iQOO 10 Pro,Vivo,3200,4700,8,2022-07-19,256,True,True,True,True,True,True,False,False,False,False,190.0,Android,12
+vivo iQOO 10,Vivo,2400,4700,8,2022-07-19,128,True,True,True,False,True,False,False,False,False,False,360.0,Android,12
+Redmi K50i,Xiaomi,2460,5080,8,2022-07-20,128,True,True,True,False,True,True,False,False,False,False,320.0,Android,12
+vivo Y30 5G,Vivo,1600,5000,6,2022-07-25,128,False,True,False,False,True,False,False,False,False,False,580.0,Android,12
+X8 5G,Honor,1600,5000,6,2022-07-25,128,False,True,False,False,True,False,False,False,False,False,445.0,Android,11
+vivo Y02s,Vivo,1600,5000,3,2022-08-01,32,False,True,False,False,True,False,False,False,False,False,150.0,Android,12
+vivo iQOO 9T,Vivo,2400,4700,8,2022-08-02,128,True,True,True,False,False,True,False,False,False,False,870.0,Android,12
+A77 4G,Oppo,1612,5000,4,2022-08-03,64,False,True,False,False,True,False,False,False,False,False,395.0,Android,12
+10T,OnePlus,2412,4800,8,2022-08-03,128,True,True,True,False,True,True,True,True,False,False,329.99,Android,12
+Reno8 Z,Oppo,2400,4500,8,2022-08-04,128,True,True,False,False,True,False,True,False,False,False,999.0,Android,12
+Nord N20 SE,OnePlus,1612,5000,4,2022-08-05,64,False,True,False,False,True,False,False,False,False,False,119.0,Android,12
+Galaxy A23 5G,Samsung,2408,5000,8,2022-08-05,64,False,True,False,False,True,False,False,False,False,False,210.0,Android,12
+Ace Pro,OnePlus,2412,4800,16,2022-08-09,256,True,True,True,False,True,True,True,True,False,False,500.0,Android,12
+Galaxy Z Fold4,Samsung,2176,4400,12,2022-08-10,256,True,True,True,True,True,True,True,True,False,True,1179.0,Android,12
+Galaxy Z Flip4,Samsung,2640,3700,8,2022-08-10,128,True,True,True,False,True,True,True,True,False,True,691.27,Android,12
+Mix Fold 2,Xiaomi,2160,4500,12,2022-08-11,256,True,True,True,True,False,True,False,False,False,True,1300.0,Android,12
+Redmi K50 Ultra,Xiaomi,2712,5000,8,2022-08-11,128,True,True,True,False,False,True,False,False,False,True,430.0,Android,12
+vivo Y77e,Vivo,2408,5000,8,2022-08-12,128,False,True,False,False,True,False,False,False,False,False,230.0,Android,12
+vivo Y35,Vivo,2408,5000,8,2022-08-15,64,False,True,False,False,True,False,False,False,False,False,600.0,Android,11
+Poco M4 5G,Xiaomi,2408,5000,6,2022-08-15,64,False,True,False,False,True,False,False,False,False,False,179.0,Android,12
+vivo V25 Pro,Vivo,2376,4830,8,2022-08-17,128,True,True,True,False,True,False,False,False,False,False,250.0,Android,12
+Reno8 4G,Oppo,2400,4500,8,2022-08-17,256,False,True,False,False,True,False,False,False,False,False,200.0,Android,12
+vivo V25,Vivo,2404,4500,8,2022-08-17,128,True,True,True,False,True,False,False,False,False,False,100.0,Android,12
+9i 5G,Realme,2408,5000,6,2022-08-18,64,False,True,False,False,True,False,False,False,False,False,179.88,Android,12
+Legion Y70,Lenovo,2400,5100,8,2022-08-18,128,True,True,True,True,True,True,True,True,False,False,440.0,Android,12
+vivo Y22s,Vivo,1612,5000,8,2022-08-23,128,False,True,False,False,True,False,False,False,False,False,279.0,Android,12
+Redmi Note 11 SE (India),Xiaomi,2400,5000,8,2022-08-24,64,True,True,True,False,True,True,False,False,False,False,155.88,Android,11
+Galaxy A04,Samsung,1600,5000,4,2022-08-24,32,False,True,False,False,True,False,False,False,False,False,102.0,Android,12
+vivo iQOO Z6x,Vivo,2408,6000,8,2022-08-25,128,False,True,False,False,True,False,False,False,False,False,251.28,Android,11
+vivo iQOO Z6 (China),Vivo,2388,4500,8,2022-08-25,128,True,True,True,False,True,True,False,False,False,False,261.0,Android,12
+V23i,Realme,1612,5000,4,2022-08-25,128,False,True,False,False,True,False,False,False,False,False,270.0,Android,12
+vivo V25e,Vivo,2404,4500,8,2022-08-30,128,False,True,False,False,True,False,False,False,False,False,250.0,Android,12
+A57e,Oppo,1612,5000,4,2022-08-31,64,False,True,False,False,True,False,False,False,False,False,330.0,Android,12
+Galaxy A04s,Samsung,1600,5000,4,2022-08-31,32,False,True,False,False,True,False,False,False,False,False,118.16,Android,12
+A57s,Oppo,1612,5000,4,2022-08-31,64,False,True,False,False,True,False,False,False,False,False,350.0,Android,12
+vivo Y16,Vivo,1600,5000,4,2022-09-01,32,False,True,False,False,True,False,False,False,False,False,300.0,Android,12
+Xperia 5 IV,Sony,2520,5000,8,2022-09-01,128,True,True,True,False,False,False,True,False,False,False,704.99,Android,12
+Poco M5,Xiaomi,2408,5000,6,2022-09-05,64,False,True,False,False,True,False,False,False,False,False,144.0,Android,12
+Poco M5 (India),Xiaomi,2400,5000,6,2022-09-05,64,False,True,False,False,True,False,False,False,False,False,103.8,Android,12
+Poco M5s,Xiaomi,2400,5000,8,2022-09-05,64,True,True,True,False,True,True,True,False,False,True,159.9,Android,12
+vivo Y22,Vivo,1612,5000,6,2022-09-05,64,False,True,False,False,True,False,False,False,False,False,180.0,Android,12
+C33,Realme,1600,5000,4,2022-09-06,32,False,True,False,False,True,False,False,False,False,False,108.072,Android,12
+Redmi 11 Prime,Xiaomi,2408,5000,6,2022-09-06,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,12
+Redmi 11 Prime 5G,Xiaomi,2408,5000,6,2022-09-06,64,False,True,False,False,True,False,False,False,False,False,167.988,Android,12
+Redmi A1,Xiaomi,1600,5000,3,2022-09-06,32,False,True,False,False,True,False,False,False,False,False,78.89,Android,12
+iPhone 14 Pro Max,Apple,2796,4323,6,2022-09-07,128,True,True,True,False,True,True,True,True,False,False,1213.33,iOS,16
+vivo Y75s,Vivo,2408,5000,8,2022-09-07,256,True,True,True,False,True,False,False,False,False,False,250.0,Android,11
+iPhone 14 Pro,Apple,2556,3200,6,2022-09-07,128,True,True,True,False,True,True,True,True,False,False,1087.84,iOS,16
+iPhone 14 Plus,Apple,2778,4323,6,2022-09-07,128,True,True,True,False,True,True,True,True,False,False,933.0,iOS,16
+iPhone 14,Apple,2532,3279,6,2022-09-07,128,True,True,True,False,True,True,True,True,False,False,816.0,iOS,16
+C30s,Realme,1600,5000,4,2022-09-14,32,False,True,False,False,True,False,False,False,False,False,100.0,Android,12
+vivo iQOO Z6 Lite,Vivo,2408,5000,6,2022-09-14,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,12
+X40,Honor,2400,5100,6,2022-09-15,128,False,True,False,False,True,False,False,False,False,False,210.0,Android,12
+K10x,Oppo,2412,5000,6,2022-09-16,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,12
+vivo Y52t,Vivo,1600,5000,8,2022-09-18,128,False,True,False,False,True,False,False,False,False,False,270.0,Android,12
+X6,Honor,1600,5000,4,2022-09-21,64,False,True,False,False,True,False,False,False,False,False,128.75,Android,12
+vivo X80 Lite,Vivo,2404,4500,8,2022-09-22,256,True,True,True,False,True,False,False,False,False,False,131.988,Android,12
+Redmi A1+,Xiaomi,1600,5000,3,2022-09-23,32,False,True,False,False,True,False,False,False,False,False,90.85,Android,12
+vivo X Fold+,Vivo,2160,4730,12,2022-09-26,256,True,True,True,True,True,True,False,False,False,False,180.0,Android,12
+A17,Oppo,1612,5000,4,2022-09-26,64,False,True,False,False,True,False,False,False,False,False,210.0,Android,12
+Civi 2,Xiaomi,2400,4500,8,2022-09-27,128,True,True,True,False,True,True,True,False,False,True,350.0,Android,12
+vivo Y73t,Vivo,2408,6000,8,2022-09-29,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,11
+Redmi Note 11R,Xiaomi,2408,5000,8,2022-09-30,128,False,True,False,False,True,False,False,False,False,False,160.0,Android,12
+12T,Xiaomi,2712,5000,8,2022-10-04,128,True,True,True,False,True,True,True,True,False,False,439.99,Android,12
+12T Pro,Xiaomi,2712,5000,8,2022-10-04,128,True,True,True,True,True,True,True,True,False,False,648.0,Android,12
+nova 10 SE,Huawei,2400,4500,8,2022-10-05,128,False,True,False,False,True,False,False,False,False,False,311.87,EMUI,12
+A77s,Oppo,1612,5000,8,2022-10-05,128,False,True,False,False,True,False,False,False,False,False,149.76,Android,12
+Pixel 7,Google,2400,4355,8,2022-10-06,128,True,True,True,False,True,True,True,True,False,False,463.0,Android,13
+Pixel 7 Pro,Google,3120,5000,8,2022-10-06,128,True,True,True,False,True,True,True,True,False,False,670.0,Android,13
+Play6C,Honor,1600,5000,8,2022-10-13,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,11
+X40 GT,Honor,2388,4800,8,2022-10-13,256,True,True,True,False,True,False,False,False,False,False,300.0,Android,12
+A17k,Oppo,1612,5000,3,2022-10-13,64,False,True,False,False,True,False,False,False,False,False,220.0,Android,12
+vivo iQOO Neo7 (China),Vivo,2400,5000,8,2022-10-20,128,True,True,True,False,True,False,False,False,False,False,1450.0,Android,13
+Play 40 Plus,Honor,1600,6000,8,2022-10-20,128,False,True,False,False,True,False,False,False,False,False,170.0,Android,12
+Galaxy A04e,Samsung,1600,5000,4,2022-10-21,32,False,True,False,False,True,False,False,False,False,False,94.0,Android,12
+Nord N300,OnePlus,1612,5000,4,2022-10-24,64,False,True,False,False,True,False,False,False,False,False,230.0,Android,12
+Redmi Note 12 Discovery,Xiaomi,2400,4300,8,2022-10-27,256,True,True,True,False,True,True,True,False,False,True,380.0,Android,12
+Redmi Note 12 Pro,Xiaomi,2400,5000,6,2022-10-27,128,True,True,True,False,True,True,True,False,False,True,204.24,Android,12
+Redmi Note 12 Pro+,Xiaomi,2400,5000,8,2022-10-27,256,True,True,True,False,True,True,True,False,False,True,343.62,Android,12
+Redmi Note 12 (China),Xiaomi,2400,5000,8,2022-10-27,128,False,True,False,False,False,True,False,False,False,False,190.0,Android,12
+Redmi Note 12,Xiaomi,2400,5000,8,2022-10-27,128,False,True,False,False,True,False,False,False,False,False,199.0,Android,12
+nova Y61,Huawei,1600,5000,6,2022-11-01,64,False,True,False,False,True,False,False,False,False,False,189.3,EMUI,12
+A58,Oppo,1612,5000,8,2022-11-08,128,False,True,False,False,True,False,False,False,False,False,130.0,Android,12
+10,Realme,2400,5000,8,2022-11-09,64,False,True,False,False,True,False,False,False,False,False,139.8,Android,12
+10 5G,Realme,2408,5000,8,2022-11-11,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,12
+A1 Pro,Oppo,2412,4800,8,2022-11-16,128,False,True,False,False,True,False,False,False,False,False,230.0,Android,13
+10 Pro+,Realme,2412,5000,6,2022-11-17,128,True,True,True,False,True,True,False,False,True,True,205.5,Android,13
+vivo V21s,Vivo,2404,4000,8,2022-11-17,128,True,True,True,False,True,True,False,False,False,False,200.0,Android,12
+10 Pro,Realme,2400,5000,8,2022-11-17,128,False,True,False,False,True,False,False,False,False,False,187.0,Android,13
+vivo X90,Vivo,2800,4810,8,2022-11-22,128,True,True,True,False,False,True,False,False,False,False,380.0,Android,13
+vivo X90 Pro+,Vivo,3200,4700,12,2022-11-22,256,True,True,True,True,True,True,False,False,False,False,630.0,Android,13
+vivo X90 Pro,Vivo,2800,4870,8,2022-11-22,256,True,True,True,True,False,True,False,False,False,False,360.0,Android,13
+Magic Vs,Honor,2272,5000,8,2022-11-23,256,True,True,True,False,False,True,False,False,False,False,1379.99,Android,13
+Magic Vs Ultimate,Honor,2272,5000,16,2022-11-23,512,True,True,True,False,False,True,False,False,False,False,1500.0,Android,12
+80 SE,Honor,2400,4600,8,2022-11-23,256,True,True,True,False,True,True,False,False,False,False,370.0,Android,12
+80 Pro,Honor,2700,4800,8,2022-11-23,256,True,True,True,False,True,True,False,False,False,False,419.99,Android,12
+80,Honor,2400,4800,8,2022-11-23,256,True,True,True,False,True,True,False,False,False,False,370.0,Android,12
+Reno9,Oppo,2412,4500,8,2022-11-24,256,True,True,True,False,True,False,True,False,False,False,260.0,Android,13
+Reno9 Pro,Oppo,2412,4500,16,2022-11-24,256,True,True,True,False,True,False,True,False,False,False,600.0,Android,13
+Reno9 Pro+,Oppo,2412,4700,16,2022-11-24,256,True,True,True,False,True,True,True,True,False,False,470.0,Android,13
+vivo Y02,Vivo,1600,5000,3,2022-11-29,32,False,True,False,False,True,False,False,False,False,False,1019.0,Android,12
+vivo iQOO 11,Vivo,3200,5000,8,2022-12-08,128,True,True,True,True,True,True,True,True,False,False,90.0,Android,13
+vivo iQOO Neo7 SE,Vivo,2400,5000,8,2022-12-08,128,True,True,True,False,True,False,False,False,False,False,1030.0,Android,13
+vivo iQOO 11 Pro,Vivo,3200,4700,8,2022-12-08,256,True,True,True,True,True,True,True,True,False,False,300.0,Android,13
+vivo Y35 5G,Vivo,1600,5000,8,2022-12-09,128,False,True,False,False,True,False,False,False,False,False,659.988,Android,13
+Galaxy M04,Samsung,1600,5000,4,2022-12-10,64,False,True,False,False,True,False,False,False,False,False,101.988,Android,12
+13,Xiaomi,2400,4500,8,2022-12-11,128,True,True,True,True,False,True,False,False,False,True,929.0,Android,13
+13 Pro,Xiaomi,3200,4820,8,2022-12-11,128,True,True,True,True,False,True,False,False,False,True,1191.87,Android,13
+A58x,Oppo,1612,5000,8,2022-12-15,128,False,True,False,False,True,False,False,False,False,False,740.0,Android,12
+Find N2 Flip,Oppo,2520,4300,8,2022-12-15,256,True,True,True,False,True,True,True,True,False,False,1100.0,Android,13
+Find N2,Oppo,1920,4520,16,2022-12-15,256,True,True,True,False,True,True,True,True,False,False,180.0,Android,13
+10s,Realme,2408,5000,8,2022-12-16,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,12
+vivo S16,Vivo,2400,4600,8,2022-12-22,128,True,True,True,False,True,False,False,False,False,False,160.0,Android,13
+vivo S16 Pro,Vivo,2400,4600,8,2022-12-22,256,True,True,True,False,True,False,False,False,False,False,280.0,Android,13
+vivo S16e,Vivo,2400,4600,8,2022-12-22,128,True,True,True,False,True,False,False,False,False,False,800.0,Android,11
+80 GT,Honor,2400,4800,16,2022-12-26,256,True,True,True,False,True,True,False,False,False,False,450.0,Android,12
+Redmi Note 12 Pro Speed,Xiaomi,2400,5000,6,2022-12-27,128,True,True,True,False,True,True,True,False,False,True,230.0,Android,13
+Redmi K60 Pro,Xiaomi,3200,5000,8,2022-12-27,128,True,True,True,True,False,True,False,False,False,True,460.0,Android,13
+Redmi K60E,Xiaomi,3200,5500,8,2022-12-27,128,True,True,True,False,True,True,True,False,False,True,300.0,Android,12
+Redmi K60,Xiaomi,3200,5500,8,2022-12-27,128,True,True,True,True,False,True,False,False,False,True,350.0,Android,13
+vivo iQOO Neo7 Racing,Vivo,2400,5000,8,2022-12-29,256,True,True,True,False,True,False,False,False,False,False,340.0,Android,13
+Redmi 12C,Xiaomi,1650,5000,6,2022-12-31,32,False,True,False,False,True,False,False,False,False,False,94.75,Android,12
+Poco C50,Xiaomi,1600,5000,3,2023-01-03,32,False,True,False,False,True,False,False,False,False,False,80.0,Android,12
+11,OnePlus,3216,5000,8,2023-01-04,128,True,True,True,True,True,True,True,True,False,False,619.0,Android,13
+Galaxy A14 5G,Samsung,2408,5000,8,2023-01-04,64,False,True,False,False,True,False,False,False,False,False,179.0,Android,13
+Galaxy F04,Samsung,1600,5000,4,2023-01-04,64,False,True,False,False,True,False,False,False,False,False,97.08,Android,12
+X9a,Honor,2400,5100,8,2023-01-04,128,False,True,False,False,True,False,False,False,False,False,260.0,Android,12
+X7a,Honor,1600,6000,6,2023-01-04,128,False,True,False,False,True,False,False,False,False,False,309.0,Android,12
+A56s,Oppo,1612,5000,8,2023-01-05,128,False,True,False,False,True,False,False,False,False,False,1079.99,Android,12
+80 Pro Flat,Honor,2400,4800,12,2023-01-06,256,True,True,True,False,True,True,False,False,False,False,450.0,Android,12
+A78,Oppo,1612,5000,8,2023-01-07,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,12
+vivo Y55s (2023),Vivo,2408,5000,6,2023-01-21,128,False,True,False,False,True,False,False,False,False,False,400.0,Android,12
+X5,Honor,1600,5000,2,2023-01-24,32,False,True,False,False,True,False,False,False,False,False,90.0,Android,12
+Galaxy S23 Ultra,Samsung,3088,5000,8,2023-02-01,256,True,True,True,True,True,True,True,True,False,True,1126.73,Android,13
+Galaxy S23+,Samsung,2340,4700,8,2023-02-01,256,True,True,True,True,True,True,True,True,False,True,1039.0,Android,13
+Galaxy S23,Samsung,2340,3900,8,2023-02-01,128,True,True,True,True,True,True,True,True,False,True,706.5,Android,13
+Reno8 T 5G,Oppo,2412,4800,8,2023-02-01,128,False,True,False,False,True,False,False,False,False,False,230.0,Android,13
+Reno8 T,Oppo,2400,5000,8,2023-02-02,128,False,True,False,False,True,False,False,False,False,False,340.0,Android,13
+Poco X5,Xiaomi,2400,5000,8,2023-02-06,128,False,True,False,False,True,False,False,False,False,False,206.0,Android,12
+Poco X5 Pro,Xiaomi,2400,5000,8,2023-02-06,128,True,True,True,False,True,False,True,False,False,False,259.0,Android,12
+Ace 2,OnePlus,2772,5000,16,2023-02-07,256,True,True,True,False,True,True,True,True,False,False,390.0,Android,13
+11R,OnePlus,2772,5000,8,2023-02-07,128,True,True,True,False,True,True,True,True,False,False,479.988,Android,13
+X8a,Honor,2388,4500,8,2023-02-08,128,False,True,False,False,True,False,False,False,False,False,189.0,Android,12
+GT Neo 5 240W,Realme,2772,4600,16,2023-02-09,256,True,True,True,False,False,True,False,False,False,False,440.0,Android,13
+GT Neo 5,Realme,2772,5000,8,2023-02-09,256,True,True,True,False,False,True,False,False,False,False,340.0,Android,13
+V30,Realme,1600,5000,8,2023-02-09,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,12
+Magic5 Lite,Honor,2400,5100,8,2023-02-15,128,False,True,False,False,True,False,False,False,False,False,309.0,Android,12
+vivo Y100,Vivo,2400,4500,8,2023-02-16,128,True,True,True,False,True,False,False,False,False,False,250.0,Android,13
+vivo iQOO Neo 7,Vivo,2400,5000,8,2023-02-16,128,True,True,True,False,True,False,False,False,False,False,380.0,Android,13
+vivo Y56,Vivo,2408,5000,8,2023-02-17,128,False,True,False,False,True,False,False,False,False,False,335.988,Android,13
+Poco C55,Xiaomi,1650,5000,6,2023-02-21,64,False,True,False,False,True,False,False,False,False,False,94.2,Android,12
+13 Lite,Xiaomi,2400,4500,8,2023-02-26,128,True,True,True,False,True,True,True,False,False,True,394.49,Android,12
+Magic5,Honor,2688,5100,12,2023-02-27,256,True,True,True,False,False,True,False,False,False,False,900.0,Android,13
+Magic5 Pro,Honor,2848,5100,8,2023-02-27,256,True,True,True,False,False,True,False,False,False,False,1027.0,Android,13
+GT3,Realme,2772,4600,8,2023-02-28,128,True,True,True,False,False,True,False,False,False,False,630.0,Android,13
+Galaxy A14,Samsung,2408,5000,6,2023-02-28,64,False,True,False,False,True,False,False,False,False,False,130.27,Android,13
+vivo V27e,Vivo,2400,4600,8,2023-03-01,128,True,True,True,False,True,True,False,False,False,False,287.988,Android,13
+vivo V27,Vivo,2400,4600,8,2023-03-01,128,True,True,True,False,True,True,False,False,False,False,219.852,Android,13
+vivo V27 Pro,Vivo,2400,4600,8,2023-03-01,128,True,True,True,False,True,True,False,False,False,False,270.0,Android,13
+Redmi Note 12 Pro 4G,Xiaomi,2400,5000,8,2023-03-03,128,True,True,True,False,True,True,False,False,False,False,207.6,Android,11
+Redmi Note 12S,Xiaomi,2400,5000,8,2023-03-06,64,False,True,False,False,True,False,False,False,False,False,186.54,Android,13
+Magic5 Ultimate,Honor,2848,5450,16,2023-03-06,512,True,True,True,False,False,True,False,False,False,False,900.0,Android,13
+Ace 2V,OnePlus,2772,5000,16,2023-03-07,256,True,True,True,False,False,True,True,False,False,False,310.0,Android,13
+C55,Realme,2400,5000,8,2023-03-07,64,False,True,False,False,False,True,False,False,False,False,207.99,Android,13
+Galaxy M14,Samsung,2408,6000,6,2023-03-08,64,False,True,False,False,True,False,False,False,False,False,179.88,Android,13
+vivo iQOO Z7i,Vivo,1600,5000,8,2023-03-13,128,False,True,False,False,True,False,False,False,False,False,380.0,Android,13
+C33 2023,Realme,1600,5000,4,2023-03-14,64,False,True,False,False,True,False,False,False,False,False,131.988,Android,12
+Galaxy A34,Samsung,2340,5000,8,2023-03-14,128,True,True,True,False,True,True,False,False,True,False,280.99,Android,13
+Galaxy A54,Samsung,2340,5000,8,2023-03-15,128,True,True,True,False,True,True,False,False,True,False,359.0,Android,13
+vivo iQOO Z7,Vivo,2400,4500,8,2023-03-17,128,True,True,True,False,True,False,False,False,False,False,180.0,Android,13
+vivo iQOO Z7x,Vivo,2388,6000,8,2023-03-20,128,False,True,False,False,True,False,False,False,False,False,440.0,Android,13
+70 Lite,Honor,1600,5000,4,2023-03-20,128,False,True,False,False,True,False,False,False,False,False,210.79,Android,12
+vivo iQOO Z7 (China),Vivo,2388,5000,8,2023-03-20,128,True,True,True,False,True,False,False,False,False,False,130.0,Android,13
+10T,Realme,2408,5000,8,2023-03-21,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,12
+Find X6,Oppo,2772,4800,16,2023-03-21,256,True,True,True,False,True,True,True,True,False,False,299.99,Android,13
+Find X6 Pro,Oppo,3168,5000,16,2023-03-21,256,True,True,True,False,True,True,True,True,False,False,759.0,Android,13
+Galaxy M54,Samsung,2400,6000,8,2023-03-22,128,True,True,True,False,True,True,False,False,False,False,190.0,Android,13
+Redmi Note 12 4G,Xiaomi,2400,5000,8,2023-03-23,64,False,True,False,False,True,False,False,False,False,False,160.0,Android,13
+Redmi A2,Xiaomi,1600,5000,4,2023-03-24,32,False,True,False,False,True,False,False,False,False,False,71.37,Android,12
+Galaxy F14,Samsung,2408,6000,6,2023-03-24,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,13
+Redmi A2+,Xiaomi,1600,5000,4,2023-03-24,32,False,True,False,False,True,False,False,False,False,False,95.99,Android,12
+Redmi Note 12 Turbo,Xiaomi,2400,5000,8,2023-03-28,256,True,True,True,False,True,True,True,True,False,False,270.0,Android,13
+Play7T,Honor,1600,6000,8,2023-03-28,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,12
+Play7T Pro,Honor,2388,4000,8,2023-03-28,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,12
+A1x,Oppo,1612,5000,8,2023-03-31,128,False,True,False,False,True,False,False,False,False,False,820.0,Android,12
+vivo Y11 (2023),Vivo,1600,5000,6,2023-04-01,128,False,True,False,False,True,False,False,False,False,False,200.0,Android,12
+vivo Y02A,Vivo,1600,5000,3,2023-04-03,32,False,True,False,False,True,False,False,False,False,False,220.0,Android,12
+GT Neo5 SE,Realme,2772,5500,8,2023-04-03,256,True,True,True,False,True,False,False,False,False,False,270.0,Android,13
+A1,Oppo,2400,5000,8,2023-04-04,256,False,True,False,False,True,False,False,False,False,False,180.0,Android,13
+Nord CE 3 Lite,OnePlus,2400,5000,8,2023-04-04,128,False,True,False,False,True,False,False,False,False,False,229.0,Android,13
+Poco C51,Xiaomi,1600,5000,4,2023-04-07,64,False,True,False,False,True,False,False,False,False,False,82.656,Android,13
+vivo T2 (India),Vivo,2400,4500,8,2023-04-11,128,False,True,False,False,True,False,False,False,False,False,120.0,Android,13
+vivo T2x (India),Vivo,2408,5000,8,2023-04-11,128,False,True,False,False,True,False,False,False,False,False,110.0,Android,13
+Narzo N55,Realme,2400,5000,8,2023-04-12,64,False,True,False,False,False,True,False,False,False,False,131.988,Android,13
+13 Ultra,Xiaomi,3200,5000,16,2023-04-18,256,True,True,True,True,False,True,False,False,False,False,899.0,Android,13
+Galaxy A24 4G,Samsung,2340,5000,8,2023-04-19,128,False,True,False,False,True,False,False,False,False,False,176.0,Android,13
+vivo X Fold2,Vivo,2160,4800,12,2023-04-20,256,True,True,True,True,True,True,False,False,False,False,227.988,Android,13
+vivo X Flip,Vivo,2520,4400,12,2023-04-20,256,True,True,True,False,True,True,False,False,False,False,167.68800000000002,Android,13
+vivo Y78+,Vivo,2400,5000,8,2023-04-24,128,False,True,False,False,True,False,False,False,False,False,800.0,Android,13
+nova 11i,Huawei,2388,5000,8,2023-05-01,128,False,True,False,False,True,False,False,False,False,False,279.0,EMUI,13
+Poco F5 Pro,Xiaomi,3200,5160,8,2023-05-09,256,True,True,True,True,True,True,True,True,False,False,529.9,Android,13
+A98,Oppo,2400,5000,8,2023-05-09,256,False,True,False,False,True,False,False,False,False,False,270.0,Android,13
+nova Y71,Huawei,1600,6000,8,2023-05-09,128,False,True,False,False,True,False,False,False,False,False,190.0,EMUI,12
+Poco F5,Xiaomi,2400,5000,8,2023-05-09,256,True,True,True,False,True,False,True,False,False,False,400.99,Android,13
+Pixel 7a,Google,2400,4385,8,2023-05-10,128,True,True,True,False,True,True,True,True,False,False,394.0,Android,13
+Pixel Fold,Google,2208,4821,12,2023-05-10,256,True,True,True,False,True,True,True,True,False,False,1750.0,Android,13
+11,Realme,2400,5000,8,2023-05-10,128,False,True,False,False,True,False,False,False,False,False,240.0,Android,13
+vivo Y78 (China),Vivo,2388,5000,8,2023-05-10,128,False,True,False,False,True,False,False,False,False,False,1330.0,Android,13
+11 Pro+,Realme,2412,5000,8,2023-05-10,256,True,True,True,False,True,True,False,False,True,True,486.3,Android,13
+11 Pro,Realme,2412,5000,8,2023-05-10,128,True,True,True,False,True,True,False,False,True,True,329.9,Android,13
+Xperia 1 V,Sony,3840,5000,12,2023-05-11,256,True,True,True,False,False,False,True,False,False,False,1079.0,Android,13
+Xperia 10 V,Sony,2520,5000,8,2023-05-11,128,False,True,False,False,True,False,False,False,False,False,378.0,Android,13
+F23,Oppo,2400,5000,8,2023-05-15,256,False,True,False,False,True,False,False,False,False,False,290.0,Android,13
+Narzo N53,Realme,2400,5000,6,2023-05-18,64,False,True,False,False,True,False,False,False,False,False,100.0,Android,13
+vivo iQOO Z7s,Vivo,2400,4500,8,2023-05-22,128,False,True,False,False,True,False,False,False,False,False,210.0,Android,13
+vivo iQOO Neo8 Pro,Vivo,2800,5000,16,2023-05-23,256,True,True,True,True,True,True,False,False,False,False,220.0,Android,13
+vivo iQOO Neo8,Vivo,2800,5000,16,2023-05-23,256,True,True,True,True,True,True,False,False,False,False,180.0,Android,13
+nova Y91,Huawei,2376,7000,8,2023-05-23,128,False,True,False,False,True,False,False,False,False,False,280.0,EMUI,13
+vivo S17e,Vivo,2400,4600,8,2023-05-24,128,True,True,True,False,True,False,False,False,False,False,330.0,Android,13
+Reno10 Pro (China),Oppo,2772,4600,16,2023-05-24,256,True,True,True,False,True,False,True,False,False,False,330.0,Android,13
+Reno10 Pro+,Oppo,2772,4700,16,2023-05-24,256,True,True,True,False,False,True,False,False,True,False,520.0,Android,13
+Reno10 (China),Oppo,2412,4600,8,2023-05-24,256,True,True,True,False,True,True,False,False,False,False,270.0,Android,13
+Civi 3,Xiaomi,2400,4500,16,2023-05-25,256,True,True,True,False,True,True,True,False,False,True,330.0,Android,13
+K11x,Oppo,2400,5000,8,2023-05-25,128,False,True,False,False,True,False,False,False,False,False,899.0,Android,13
+vivo Y36,Vivo,2388,5000,8,2023-05-27,128,False,True,False,False,True,False,False,False,False,False,360.0,Android,13
+vivo Y36 5G,Vivo,2388,5000,8,2023-05-27,256,False,True,False,False,True,False,False,False,False,False,200.0,Android,13
+90,Honor,2664,5000,8,2023-05-29,256,True,True,True,False,True,True,False,False,False,False,392.79,Android,13
+90 Pro,Honor,2700,5000,16,2023-05-29,256,True,True,True,False,True,True,False,False,False,False,440.0,Android,13
+Redmi Note 12T Pro,Xiaomi,2460,5080,8,2023-05-29,128,True,True,True,False,True,True,True,True,False,False,340.0,Android,13
+vivo Y78,Vivo,2400,5000,8,2023-05-29,256,False,True,False,False,True,False,False,False,False,False,430.0,Android,13
+vivo Y35+,Vivo,2388,5000,8,2023-05-29,128,False,True,False,False,True,False,False,False,False,False,280.0,Android,13
+C53,Realme,2400,5000,6,2023-05-31,128,False,True,False,False,True,False,False,False,False,False,179.9,Android,13
+vivo S17,Vivo,2800,4600,8,2023-05-31,256,True,True,True,False,True,False,False,False,False,False,400.0,Android,13
+vivo S17 Pro,Vivo,2800,4600,8,2023-05-31,256,True,True,True,False,True,False,False,False,False,False,330.0,Android,13
+vivo S17t,Vivo,2800,4600,12,2023-05-31,512,True,True,True,False,True,False,False,False,False,False,240.0,Android,13
+vivo V29 Lite,Vivo,2400,5000,8,2023-06-02,128,False,True,False,False,True,False,False,False,False,False,410.0,Android,13
+Galaxy F54,Samsung,2400,6000,8,2023-06-06,256,True,True,True,False,True,True,False,False,False,False,380.28,Android,13
+Nord N30,OnePlus,2400,5000,8,2023-06-06,128,False,True,False,False,True,False,False,False,False,False,299.99,Android,13
+Redmi 12,Xiaomi,2460,5000,8,2023-06-15,128,False,True,False,False,True,False,False,False,False,False,134.0,Android,13
+90 Lite,Honor,2388,4500,8,2023-06-20,256,False,True,False,False,True,False,False,False,False,False,199.0,Android,13
+vivo Y36 (India),Vivo,2388,5000,8,2023-06-22,128,False,True,False,False,True,False,False,False,False,False,220.0,Android,13
+vivo X90s,Vivo,2800,4810,8,2023-06-26,256,True,True,True,False,False,True,False,False,False,False,191.988,Android,13
+Redmi Note 12R,Xiaomi,2460,5000,8,2023-06-28,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,13
+Galaxy M34 5G,Samsung,2340,6000,8,2023-07-03,128,True,True,True,False,True,False,False,False,False,False,227.988,Android,13
+vivo iQOO 11S,Vivo,3200,4700,16,2023-07-04,256,True,True,True,True,True,True,True,True,False,False,419.988,Android,13
+vivo iQOO Neo 7 Pro,Vivo,2400,5000,8,2023-07-04,128,True,True,True,False,True,False,False,False,False,False,510.0,Android,13
+Play 40,Honor,1612,5200,8,2023-07-05,128,False,True,False,False,True,False,False,False,False,False,180.0,Android,13
+X50i,Honor,2388,4500,8,2023-07-05,256,False,True,False,False,True,False,False,False,False,False,180.0,Android,13
+Nord 3,OnePlus,2772,5000,8,2023-07-05,128,True,True,True,False,False,True,True,False,False,False,429.0,Android,13
+Nord CE3,OnePlus,2412,5000,8,2023-07-05,128,True,True,True,False,True,False,True,False,False,False,323.988,Android,13
+X50,Honor,2652,5800,8,2023-07-05,128,True,True,True,False,True,False,False,False,False,False,180.0,Android,13
+Narzo 60,Realme,2400,5000,8,2023-07-06,128,False,True,False,False,True,False,False,False,False,False,215.988,Android,13
+Narzo 60 Pro,Realme,2412,5000,8,2023-07-06,128,True,True,True,False,True,False,True,False,False,False,287.988,Android,13
+Reno10 Pro,Oppo,2412,4600,12,2023-07-08,256,True,True,True,False,True,False,False,False,True,False,479.0,Android,13
+Reno10,Oppo,2412,5000,8,2023-07-08,128,True,True,True,False,True,False,False,False,True,False,200.0,Android,13
+A78 4G,Oppo,2400,5000,8,2023-07-10,128,False,True,False,False,True,False,False,False,False,False,250.0,Android,13
+vivo Y02t,Vivo,1600,5000,4,2023-07-12,64,False,True,False,False,True,False,False,False,False,False,500.0,Android,13
+Magic V2,Honor,2344,5000,16,2023-07-12,256,True,True,True,False,False,True,False,False,False,False,1130.0,Android,13
+C53 (India),Realme,2400,5000,6,2023-07-19,64,False,True,False,False,True,False,False,False,False,False,110.0,Android,13
+vivo Y27,Vivo,2388,5000,6,2023-07-20,128,False,True,False,False,True,False,False,False,False,False,140.0,Android,13
+Legion Y700 (2023),Lenovo,2560,6550,16,2023-07-22,256,False,True,False,False,True,False,False,False,False,False,300.0,Android,13
+C51,Realme,1600,5000,4,2023-07-24,64,False,True,False,False,True,False,False,False,False,False,150.0,Android,13
+K11,Oppo,2400,5000,8,2023-07-25,256,True,True,True,False,True,False,True,False,False,False,759.0,Android,13
+A58 4G,Oppo,2400,5000,6,2023-07-26,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,13
+Galaxy Z Flip5,Samsung,2640,3700,8,2023-07-26,256,True,True,True,False,True,True,True,True,False,True,899.0,Android,13
+Galaxy Z Fold5,Samsung,2176,4400,12,2023-07-26,256,True,True,True,True,True,True,True,True,False,True,1498.2,Android,13
+X6a,Honor,1612,5200,4,2023-07-28,128,False,True,False,False,True,False,False,False,False,False,150.0,Android,13
+11 5G,Realme,2400,5000,8,2023-07-31,128,False,True,False,False,True,False,False,False,False,False,296.0,Android,13
+11 4G,Realme,2400,5000,8,2023-07-31,128,False,True,False,False,True,False,False,False,False,False,280.0,Android,12
+Redmi 12 5G,Xiaomi,2460,5000,8,2023-08-01,128,False,True,False,False,True,False,False,False,False,False,120.0,Android,13
+Poco M6 Pro,Xiaomi,2460,5000,6,2023-08-05,64,False,True,False,False,True,False,False,False,False,False,135.48,Android,13
+Galaxy F34,Samsung,2340,6000,8,2023-08-07,128,True,True,True,False,True,False,False,False,False,False,210.0,Android,13
+Mix Fold 3,Xiaomi,2160,4800,16,2023-08-14,256,True,True,True,True,False,True,False,False,False,False,1150.0,Android,13
+Redmi K60 Ultra,Xiaomi,2712,5000,24,2023-08-15,256,True,True,True,True,False,True,False,False,False,True,330.0,Android,13
+Ace 2 Pro,OnePlus,2772,5000,24,2023-08-16,256,True,True,True,False,True,True,True,True,False,False,380.0,Android,13
+vivo Y77t,Vivo,2388,5000,8,2023-08-18,256,False,True,False,False,True,False,False,False,False,False,170.0,Android,13
+11x,Realme,2400,5000,8,2023-08-23,128,False,True,False,False,True,False,False,False,False,False,182.88,Android,13
+GT5,Realme,2772,5240,16,2023-08-28,256,True,True,True,False,False,True,False,False,False,False,380.0,Android,13
+GT5 240W,Realme,2772,4600,24,2023-08-28,1,True,True,True,False,False,True,False,False,False,False,470.0,Android,13
+vivo iQOO Z7 Pro,Vivo,2400,4600,8,2023-08-31,128,True,True,True,False,True,False,False,False,False,False,287.988,Android,13
