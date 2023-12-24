@@ -27,7 +27,7 @@ Currently working on a portable release version.
 ## Built With
 I used this Kaggle dataset: https://www.kaggle.com/datasets/berkayeserr/phone-prices
 
-Thank you :- [@berkay-eser] https://github.com/berkay-eser  :)
+Thank you :- [@berkay-eser](https://github.com/berkay-eser)  :)
 
 ## Versioning
 0.9: Core functionalities finished.
