@@ -6,7 +6,7 @@ For more information visit the [complete documentation](./Docs/overview.md).
 <!-- Brief introduction and how to get started -->
 
 ## Introduction
-This utility that compares an input phone with a list of phones and, given a set of conditions, outputs all phone models that are an upgrade relative to the input phone sorted by score. The score takes into account several factors, and is adjusted for price. Is can be understood as a 'Value per additional dollar' of the upgradded specs between two phones. 
+This utility compares an input phone with a list of phones and, given a set of conditions, outputs all phone models that are an upgrade relative to the input phone sorted by score. The score takes into account several factors, and is adjusted for price. Is can be understood as a 'Value per additional dollar' of the upgradded specs between two phones. 
 
 ## Features
 <!-- List of features -->
