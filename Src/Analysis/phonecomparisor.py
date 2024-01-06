@@ -2,11 +2,12 @@
 
 
 #Author: Jacinto27
+
+# Author: Jacinto27
 import os
 
 import Levenshtein as Lev
 import pandas as pd
-from pandas import Series, DataFrame
 
 # Path configuration
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -98,7 +99,7 @@ def optimized_suggestion(user_phone, strict_specs, data_compare_to=data):
     phone_in_data = upgrade.loc[upgrade['phone_name'] == user_phone_row['phone_name'].iloc(0)]
 
     if len(phone_in_data) == 0:  # If phone inside upgrade list then show only results above phone, else show the top 50
-        return upgrade[['brand', 'phone_name', 'announcement_date', 'norm_results', 'price(USD)']].loc[1:50, ]
+        return upgrade[['brand', 'phone_name', 'announcement_date', 'norm_results', 'price(USD)']].iloc[1:50]
     else:
         return upgrade[['brand', 'phone_name', 'announcement_date', 'norm_results', 'price(USD)']].loc[
             (upgrade['norm_results'] > phone_in_data['norm_results']),]
