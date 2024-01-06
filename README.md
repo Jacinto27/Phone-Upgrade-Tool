@@ -21,10 +21,17 @@ to compare OS versions and can even limit results for the same original phone's 
 It also has a phone data cleaning tool, but this is specifically for the data I used, so it's not expandable or universal.
 
 ## Getting Started
-Download the repository and run the phonecomparisor.py file, adjust the location of the data if needed. It pulls from the 'Processed' folder in the repository, I call it using the *NOT AT ALL RECOMMENDED* os file location method .dirname, it's not easy to make it run on other PCs so just adjust the location manually by inputting the route to the 'Processed' folder in your compter. 
 
-After thats done, answer the prompts as instructed on the console log, ignore the warnings (I'm working on them) and get an output. 
+Download the repository and run the phonecomparisor.py file, adjust the location of the data if needed. It pulls from
+the 'Processed' folder in the repository, I call it using the *NOT AT ALL RECOMMENDED* os file location method .dirname,
+it's not easy to make it run on other PCs so just adjust the location manually by inputting the route to the 'Processed'
+folder in your computer.
 
+After that's done, answer the prompts as instructed on the console log, ignore the warnings (I'm working on them) and
+get an output.
+
+The Levenshtein function used to search phones on file isn't always reliable, phone models should be searched with their
+brand for better results: 'Apple iPhone 14 Pro' or 'Xiaomi Poco X3 Pro' for example.
 I tried to turn this into an executable for easier deployment, but I don't want to remove my antivirus for that, I'll create a release version when the project is ironed out.
 
 ## Prerequisites
