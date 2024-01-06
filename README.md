@@ -27,16 +27,16 @@ After thats done, answer the prompts as instructed on the console log, ignore th
 
 I tried to turn this into an executable for easier deployment, but I don't want to remove my antivirus for that, I'll create a release version when the project is ironed out.
 
-##Prerequisites
+## Prerequisites
 I used Python 3.11
 Unsure about library version requirements.
 
-##Usage
+## Usage
 This project is for personal and academic use, it is not intended for commercial use. Please consult the LICENSE file for more information.
 
-#Contributing
+## Contributing
 Feel free to make changes to this tool. Please follow standard git guidelines for feature-branch development through pull requests. Thanks :)
 
-#Authors
+## Authors
 
 Me :) Jacinto27
