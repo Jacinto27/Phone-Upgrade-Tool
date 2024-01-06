@@ -1,7 +1,12 @@
+# Data must be continiously updated to mantain valuable results
+
+
+#Author: Jacinto27
 import os
 
 import Levenshtein as Lev
 import pandas as pd
+from pandas import Series, DataFrame
 
 # Path configuration
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -27,12 +32,12 @@ def user_conditions():
     for key in conditions_strictness:
         if key == 'system':
             if input(f'Is the launch OS version strict? (this only takes into account version numbers for the same '
-                     f'OSs) (y): ').lower().strip() in ('y', 1):
+                     f'OSs) (y): ').lower().strip() in ('y', 1, '1'):
                 conditions_strictness[key] = True
         else:
-            if input(f'Is {key} strict? (y): ').lower().strip() in ('y', 1):
+            if input(f'Is {key} strict? (y): ').lower().strip() in ('y', 1, '1'):
                 conditions_strictness[key] = True
-    if all(condition is None for condition in conditions_strictness.values()):
+    if all(item is None for item in conditions_strictness.values()):
         conditions_strictness = {key: True for key in conditions_strictness}
 
     return conditions_strictness
@@ -44,9 +49,64 @@ def optimized_suggestion(user_phone, strict_specs, data_compare_to=data):
     valid_rows = data_compare_to.apply(lambda row: check_conditions(user_phone_row, row, strict_specs), axis=1)
 
     # Filter the data based on valid_rows and sort by price
-    upgrade = data_compare_to[valid_rows].sort_values(by=['price(USD)'])
-    upgrade = upgrade.drop(upgrade.iloc[:, 7:16], axis=1)
-    return print(upgrade)
+    upgrade = data_compare_to[valid_rows]
+    valueAdded = upgrade['price(USD)'] - user_phone_row['price(USD)'].iloc[0]
+    upgrade.loc[:, 'value_added'] = valueAdded
+    # .clip(lower=0)
+    # upgrade.loc[:, 'price_normalized'] = (upgrade['value_added'] - upgrade['value_added'].min()) / (
+    #            upgrade['value_added'].max() - upgrade['value_added'].min())
+    upgrade.loc[:, 'price_normalized'] = (upgrade['value_added'] - upgrade['value_added'].mean()) / upgrade[
+        'value_added'].std()
+    # ValueAdded variables
+
+    """
+        for index, row in upgrade.iterrows():
+        if row['system'] == user_phone_row['system'].iloc[0]:
+            systemUpgrade = upgrade['version'] - user_phone_row['version'].iloc[0]
+        else:
+            systemUpgrade = None
+    upgrade['systemUpgrade'] = systemUpgrade
+    """
+
+    # TODO: Fix value assignment as per python warning
+    # TODO: Make the values used for the final equation dependant of the first inputs that ask which specs are important
+    for spec in ['version', 'resolution', 'battery', 'ram(GB)', 'storage(GB)']:
+        if spec == 'version':
+            upgrade.loc[upgrade['system'] == user_phone_row['system'].iloc[0], 'systemUpgrade'] = upgrade[spec].astype(
+                float) - user_phone_row[spec].astype(float).iloc[0]
+            upgrade.loc[:, 'systemUpgrade'] = (upgrade['systemUpgrade'] - upgrade['systemUpgrade'].mean()) / upgrade[
+                'systemUpgrade'].std()
+        else:
+            upgrade.loc[:, spec] = upgrade[spec] - user_phone_row[spec].iloc[0]
+            upgrade.loc[:, spec] = (upgrade[spec] - upgrade[spec].mean()) / upgrade[spec].std()
+
+    # In terms of tangible upgrades, a phone being newer isn't necessarily an upgrade, release date ignored
+
+    # TODO: Incorporate video q specs into equation, not just filtering
+
+    upgrade = upgrade.drop(upgrade.iloc[:, 7:17], axis=1)
+
+    upgrade.loc[:, 'phoneValueAdded'] = (upgrade['version'].astype(float) + upgrade['resolution'].astype(int) +
+                                         upgrade['battery'].astype(int) + upgrade['ram(GB)'].astype(int) +
+                                         upgrade['storage(GB)'].astype(int))
+
+    upgrade.loc[:, 'norm_results'] = upgrade['phoneValueAdded'] - upgrade['price_normalized']
+
+    upgrade = upgrade.sort_values(by=['norm_results'], ascending=False)
+
+    # TODO: Make internal function that filters results for a price range, however, prince data is unreliable as of now
+    phone_in_data = upgrade.loc[upgrade['phone_name'] == user_phone_row['phone_name'].iloc(0)]
+
+    if len(phone_in_data) == 0:  # If phone inside upgrade list then show only results above phone, else show the top 50
+        return upgrade[['brand', 'phone_name', 'announcement_date', 'norm_results', 'price(USD)']].loc[1:50, ]
+    else:
+        return upgrade[['brand', 'phone_name', 'announcement_date', 'norm_results', 'price(USD)']].loc[
+            (upgrade['norm_results'] > phone_in_data['norm_results']),]
+
+
+def custom_print(df):
+    with pd.option_context('display.max_rows', None, 'display.max_columns', None, 'display.width', None):
+        print(df)
 
 
 def check_conditions(user_phone_row, phones_to_compare, specs: list):
@@ -81,6 +141,11 @@ def is_higher_in_category(benchmark_row, compared_row, categories):
     """
     Compares two rows from right to left in a given set of categories.
     Returns True if the first mismatch favors the compared row.
+    This is because the Compared rows are boolean and are structured as such:
+        QUALITY_LOW, QUALITY_MID, QUALITY_HIGH
+    1   T           T               F
+    2   T           F               F
+    3 ...
     """
     for category in reversed(categories):
         if compared_row[category] != benchmark_row[category].iloc[0]:
@@ -123,6 +188,7 @@ def get_user_phone():
         return matches[phone_order - 1]
 
 
+# TODO: Fix the levenshtein search function, not always reliable
 def find_match(user_input, options, max_distance=2, max_matches=10):
     matches = []
     for i in options:
@@ -143,12 +209,13 @@ def main():
         return
     else:
         strict_conditions = [key for key, value in user_conditions().items() if value is True]
-        if input('Is "Staying in the same Operating System" relevant? (y/n):').lower().strip() in ('y', 1, 'yes', True):
-            user_phone_system = data[data['brand'] + ' ' + data['phone_name'] == user_phone]['system']
+        if input('Is "Staying in the same Operating System" relevant? (y/n):').lower().strip() in (
+                'y', 1, '1', 'yes', True):
+            user_phone_system = data[data['brand'] + ' ' + data['phone_name'] == user_phone]['system'].iloc[0]
             data_OS_filter = data[data['system'] == user_phone_system]
-            return optimized_suggestion(user_phone, strict_conditions, data_compare_to=data_OS_filter)
+            return custom_print(optimized_suggestion(user_phone, strict_conditions, data_compare_to=data_OS_filter))
         else:
-            return optimized_suggestion(user_phone, strict_conditions, )
+            return custom_print(optimized_suggestion(user_phone, strict_conditions, ))
 
 
 # Press the green button in the gutter to run the script.
