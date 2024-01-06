@@ -36,7 +36,7 @@ I tried to turn this into an executable for easier deployment, but I don't want 
 
 ## Prerequisites
 I used Python 3.11
-Unsure about library version requirements.
+Additional details in overview.md
 
 ## Usage
 This project is for personal and academic use, it is not intended for commercial use. Please consult the LICENSE file for more information.
