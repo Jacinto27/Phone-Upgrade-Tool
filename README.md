@@ -6,9 +6,7 @@ For more information visit the [complete documentation](./Docs/overview.md).
 <!-- Brief introduction and how to get started -->
 
 ## Introduction
-I needed to update my phone. The first issue that I ran into was the limited flexibility that many online phone comparison
-tools offer. The second issue that I ran into was the lackluster ability that current public AI tools have for 
-these sort of things, so I made a quick solution in Python for that.
+This utility compares an input phone with a list of phones and, given a set of conditions, outputs all phone models that are an upgrade relative to the input phone sorted by score. The score takes into account several factors, and is adjusted for price. Is can be understood as a 'Value per additional dollar' of the upgradded specs between two phones. 
 
 ## Features
 <!-- List of features -->
@@ -36,7 +34,12 @@ I tried to turn this into an executable for easier deployment, but I don't want 
 
 ## Prerequisites
 I used Python 3.11
-Unsure about library version requirements.
+Additional details in overview.md
+
+## Example implementation
+Here's a console screenshot of how it would look like to use this code.
+![imagen](https://github.com/Jacinto27/Phone-Upgrade-Tool/assets/90574028/c3a02fad-a7f4-4c4e-947c-93b35c72ba9d)
+
 
 ## Usage
 This project is for personal and academic use, it is not intended for commercial use. Please consult the LICENSE file for more information.
