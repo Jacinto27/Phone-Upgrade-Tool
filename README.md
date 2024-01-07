@@ -36,6 +36,11 @@ I tried to turn this into an executable for easier deployment, but I don't want 
 I used Python 3.11
 Additional details in overview.md
 
+## Example implementation
+Here's a console screenshot of how it would look like to use this code.
+![imagen](https://github.com/Jacinto27/Phone-Upgrade-Tool/assets/90574028/c3a02fad-a7f4-4c4e-947c-93b35c72ba9d)
+
+
 ## Usage
 This project is for personal and academic use, it is not intended for commercial use. Please consult the LICENSE file for more information.
 
