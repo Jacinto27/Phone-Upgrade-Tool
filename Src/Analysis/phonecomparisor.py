@@ -1,7 +1,7 @@
 # Data must be continiously updated to mantain valuable results
 
 
-#Author: Jacinto27
+# Author: Jacinto27
 
 # Author: Jacinto27
 import os
@@ -12,6 +12,7 @@ import pandas as pd
 # Path configuration
 script_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(os.path.dirname(script_dir))
+pd.options.mode.chained_assignment = None  # default='war
 
 datafile = os.path.join(project_root, 'Data', 'Processed', 'cleaned_all_phones_processed.csv')  # File Location
 # Read data
@@ -75,6 +76,8 @@ def optimized_suggestion(user_phone, strict_specs, data_compare_to=data):
         if spec == 'version':
             upgrade.loc[upgrade['system'] == user_phone_row['system'].iloc[0], 'systemUpgrade'] = upgrade[spec].astype(
                 float) - user_phone_row[spec].astype(float).iloc[0]
+            upgrade.loc[upgrade['system'] != user_phone_row['system'].iloc[0], 'systemUpgrade'] = upgrade[
+                'systemUpgrade'].mean()
             upgrade.loc[:, 'systemUpgrade'] = (upgrade['systemUpgrade'] - upgrade['systemUpgrade'].mean()) / upgrade[
                 'systemUpgrade'].std()
         else:
@@ -179,7 +182,6 @@ def get_user_phone():
 
                 # If input is valid, break from the loop
                 break
-
             except ValueError:
                 # This will catch both, non-integer values and integers greater than 10
                 attempt_number += 1
@@ -187,6 +189,14 @@ def get_user_phone():
                 if attempt_number == max_attempts:
                     print("Maximum number of attempts reached. Exiting.")
         return matches[phone_order - 1]
+    else:
+        if len(matches) == 1:
+            print('Is this your phone?', matches)
+            answer = input('(y/n): ').lower().strip()
+            if answer in ('y', 1, '1'):
+                return matches[0]
+        else:
+            print('Exiting, please restart.')
 
 
 # TODO: Fix the levenshtein search function, not always reliable
@@ -216,7 +226,7 @@ def main():
             data_OS_filter = data[data['system'] == user_phone_system]
             return custom_print(optimized_suggestion(user_phone, strict_conditions, data_compare_to=data_OS_filter))
         else:
-            return custom_print(optimized_suggestion(user_phone, strict_conditions, ))
+            custom_print(optimized_suggestion(user_phone, strict_conditions, ))
 
 
 # Press the green button in the gutter to run the script.
